@@ -43,7 +43,7 @@ SEO NEO supports only Article Forge and Open AI. This service is used to generat
 
 Open AI is a revolutionary artificial intelligence language model that can give exceptional results on writing quality articles for your campaigns.
 
-<figure><img src="../../.gitbook/assets/settings-contentSource (2).JPG" alt=""><figcaption><p>Content source section on settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-contentSource (1).JPG" alt=""><figcaption><p>Content source section on settings</p></figcaption></figure>
 
 {% hint style="info" %}
 Using a content source service is recommended to create high quality articles for your campaigns. You can always create multiple variations from your fetched articles using spinners (see above section).
@@ -53,7 +53,7 @@ Using a content source service is recommended to create high quality articles fo
 
 This service allows your backlinks to get indexed after your campaign gets finished. If you select a spinner when creating a campaign, the campaign will get all created "submitted URLs" and send them to selected indexing service.
 
-<figure><img src="../../.gitbook/assets/settings-indexer.JPG" alt=""><figcaption><p>Indexer section on settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings-indexer (1).JPG" alt=""><figcaption><p>Indexer section on settings</p></figcaption></figure>
 
 {% hint style="info" %}
 Getting your backlinks indexed or crawled has a **huge impact** on your ranking results. It is **recommended** to use [**Omega Indexer**](https://www.omegaindexer.com/) as an indexer service and  [**Colinkri**](https://www.colinkri.com/) to boost your indexing results further.

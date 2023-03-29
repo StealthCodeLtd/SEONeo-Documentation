@@ -16,7 +16,7 @@ If you want to delete multiple account buckets, you can use the checkbox to sele
 
 If you want to rename an account bucket, hover over the bucket from the table and click "**Rename**". When you rename a bucket that is already used inside a campaign, the bucket name will also change from these campaigns.
 
-<figure><img src="../../.gitbook/assets/account_buckets rename.jpg" alt=""><figcaption><p>Hovering any any row on the table displays additional row buttons</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/account_buckets rename (1).jpg" alt=""><figcaption><p>Hovering any any row on the table displays additional row buttons</p></figcaption></figure>
 
 ### Clean Inactive Accounts
 

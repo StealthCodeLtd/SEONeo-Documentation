@@ -24,7 +24,7 @@ To add your email:
 
 You will need to fill all required information before clicking "**Create Email**" as shown in the example below.
 
-<figure><img src="../../.gitbook/assets/create email save popup (1).JPG" alt=""><figcaption><p>Example of a Gmail</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create email save popup.JPG" alt=""><figcaption><p>Example of a Gmail</p></figcaption></figure>
 
 {% hint style="info" %}
 If you use Gmail, for password you will need to use "APP Password".

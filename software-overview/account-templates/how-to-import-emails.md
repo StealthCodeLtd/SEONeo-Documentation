@@ -12,9 +12,9 @@ If you already have some emails stored on other templates and you want to import
 
 <figure><img src="../../.gitbook/assets/email import from template.jpg" alt=""><figcaption></figcaption></figure>
 
-2\) Select the a template or multiple templates (using checkbox) where you want to import emails from. Then click "**Import**" to import emails from selected template(s).
+2\) Select the template(s) (using checkbox) where you want to import emails from. Then click "**Import**" to import emails from selected template(s).
 
-<figure><img src="../../.gitbook/assets/email import from template popup.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email import from email popup.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -42,4 +42,4 @@ In order for "Import from files" to work, you need to keep your emails into text
 
 To better illustrate how above fields are related into email creation form see the example picture below:
 
-<figure><img src="../../.gitbook/assets/email format examples copy.jpg" alt=""><figcaption><p>Text format fields relation with GUI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email format examples copy (1).jpg" alt=""><figcaption><p>Text format fields relation with GUI</p></figcaption></figure>

@@ -4,7 +4,7 @@
 
 On this screen you will find a table that displays all created accounts and some details for each account.
 
-<figure><img src="../../.gitbook/assets/accounts (1).JPG" alt=""><figcaption><p>All accounts inside account bucket</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/accounts.JPG" alt=""><figcaption><p>All accounts inside account bucket</p></figcaption></figure>
 
 Below is the list of available information for each account.
 

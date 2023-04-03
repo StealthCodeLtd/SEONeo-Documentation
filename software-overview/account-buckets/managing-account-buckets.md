@@ -8,9 +8,13 @@ If you want to delete an account bucket, hover over the bucket from the table an
 Deleting an account bucket, will also delete all accounts that are stored inside this bucket.
 {% endhint %}
 
-If you want to delete multiple account buckets, you can use the checkbox to select multiple account buckets and then click "**Delete**".
+To delete multiple account buckets
 
-<figure><img src="../../.gitbook/assets/account_buckets delete.jpg" alt=""><figcaption></figcaption></figure>
+1\) select multiple buckets using checkboxes.
+
+2\) Click "**Delete**" from burger menu on top-right.
+
+<figure><img src="../../.gitbook/assets/account_buckets delete (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### Account buckets rename
 

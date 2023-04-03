@@ -6,7 +6,7 @@
 
 ## Software Overview
 
-* [🔍 Main Sections](software-overview/main-sections.md)
+* [🔍 Software Overview](software-overview/software-overview.md)
 * [🔑 Account Buckets](software-overview/account-buckets/README.md)
   * [Creating Account Buckets](software-overview/account-buckets/creating-account-buckets.md)
   * [Managing Account Buckets](software-overview/account-buckets/managing-account-buckets.md)

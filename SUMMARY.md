@@ -17,7 +17,7 @@
   * [Email order](software-overview/account-templates/email-order.md)
 * [📘 Content Buckets](software-overview/content-buckets/README.md)
   * [Creating a content bucket](software-overview/content-buckets/creating-a-content-bucket.md)
-  * [Add content](software-overview/content-buckets/add-content.md)
+  * [Adding content](software-overview/content-buckets/adding-content.md)
   * [Import content](software-overview/content-buckets/import-content.md)
   * [Generate content](software-overview/content-buckets/generate-content.md)
   * [Content types](software-overview/content-buckets/content-types.md)

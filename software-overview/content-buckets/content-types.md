@@ -12,6 +12,6 @@ Although content entry can get many variations from [**spintax format**](../../a
 
 You can insert content entries inside each content bucket with one of the following methods:
 
-1. ****[**Add content**](add-content.md) (manually entering each entry)
+1. ****[**Add content**](adding-content.md) (manually entering each entry)
 2. ****[**Import content**](import-content.md) (using already existing content from your computer)
 3. ****[**Generate content**](generate-content.md) (using 3rd-party API's - assuming you have [**set their API credentials**](../settings/third-party-api.md))

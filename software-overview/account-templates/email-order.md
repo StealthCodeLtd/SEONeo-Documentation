@@ -6,4 +6,4 @@ Email order - as the name implies - is the order the software will use from the 
 If you enable "**Random Email Order**", SEO NEO **will not** take account the order of the emails listed but will use a random email from the template each time needed.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/email random order.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email random order (1).jpg" alt=""><figcaption></figcaption></figure>

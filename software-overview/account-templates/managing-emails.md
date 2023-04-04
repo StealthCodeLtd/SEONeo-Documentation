@@ -18,7 +18,7 @@ To add your email:
 
 1\) Click on "**Create**" button on email section.
 
-<figure><img src="../../.gitbook/assets/create email copy.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create email copy (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\) Fill all required email information on the pop-up window and click "**Create Email**" to save your email.
 

@@ -8,23 +8,17 @@ If you already have some emails stored on other templates and you want to import
 
 1\) Click "**Import**" and select "**Import from template**"
 
-<figure><img src="../../.gitbook/assets/email import.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/email import from template.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email import (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\) Select the template(s) (using checkbox) where you want to import emails from. Then click "**Import**" to import emails from selected template(s).
 
 <figure><img src="../../.gitbook/assets/email import from email popup.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
 ### Import from text file
 
 1\) Click "**Import**" and select "**Import from file**".
 
-<figure><img src="../../.gitbook/assets/email import.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/email import from file.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/email import from file (1).jpg" alt=""><figcaption></figcaption></figure>
 
 2\) Select email format of your text file. SEO NEO will open your OS Open File dialogue from where you can navigate on your file system and select text files where you have your emails saved.
 

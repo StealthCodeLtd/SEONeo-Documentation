@@ -8,9 +8,9 @@ If you want to delete an account bucket, hover over the bucket from the table an
 Deleting an account bucket, will also delete all accounts that are stored inside this bucket.
 {% endhint %}
 
-To delete multiple account buckets
+To delete multiple account buckets:
 
-1\) select multiple buckets using checkboxes.
+1\) Select multiple buckets using checkboxes.
 
 2\) Click "**Delete**" from burger menu on top-right.
 

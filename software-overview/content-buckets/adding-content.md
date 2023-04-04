@@ -20,6 +20,8 @@ You can add content manually.
 
 <figure><img src="../../.gitbook/assets/content bucket menu.jpg" alt=""><figcaption><p>Use import, Generate and Add to insert content into content bucket.</p></figcaption></figure>
 
+
+
 ### Adding different content types
 
 Each content bucket can have multiple content entries from different [**content type**](content-types.md). You can navigate on different content categories and add content on each category separately.
@@ -43,6 +45,8 @@ In the following example we will add a new article inside our content bucket.
 {% hint style="info" %}
 Different content types require different data entry. Refer to [**content types**](content-types.md) for more information.
 {% endhint %}
+
+
 
 ### Article Editor
 
@@ -94,21 +98,108 @@ Below is an example of a basic article text that gets "spinned" using SEO NEO's 
 
 #### 5) Preview Article
 
+When you want to check how your article will look like, you can use "**Preview Article**". When the article is in **spintax format**, includes images and other rich content, spin article will create a single random instance.
+
+You can always click "**Spin Preview**" to see different variations of your text.&#x20;
+
+<figure><img src="../../.gitbook/assets/preview article.jpg" alt=""><figcaption><p>Preview example of our text article.</p></figcaption></figure>
+
+Below we can see another "Article Preview" example, with more content. We will demostrate the different (preview) variations we get, every time we click "**Spin Preview**".
+
+{% tabs %}
+{% tab title="Original article" %}
+<figure><img src="../../.gitbook/assets/spin preview - original.jpg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Spin preview #1" %}
+<figure><img src="../../.gitbook/assets/spin variation 3.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Spin preview #2" %}
+<figure><img src="../../.gitbook/assets/Untitled-2.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
+{% endtab %}
+
+{% tab title="Spin preview #3" %}
+<figure><img src="../../.gitbook/assets/Untitled-3.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
+
+
+
 ### Adding Short Description
+
+Adding a short description is the same like adding an article. The difference is that short description is just plain text and a title.
+
+<figure><img src="../../.gitbook/assets/add short description.jpg" alt=""><figcaption></figcaption></figure>
+
+Short descriptions don't have full article editor because the user is only required to add a description title and a small description (recommended 255 characters long).
+
+<figure><img src="../../.gitbook/assets/short description.JPG" alt=""><figcaption></figcaption></figure>
 
 
 
 ### Adding Bio
 
+Adding bio is the same like adding an article. The difference is that short description is just plain text and a title.
+
+<figure><img src="../../.gitbook/assets/add bio.jpg" alt=""><figcaption></figcaption></figure>
+
+Bios don't have full article editor because the user is only required to add a small bio title and a small bio text (recommended 255 characters long).
+
+<figure><img src="../../.gitbook/assets/bio.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 ### Adding Rich Content
+
+As the name implies, rich content includes rich content that can be included in your articles. Articles can include **images**, **videos** and **embeded code**.
+
+You can add rich content by clicking "**Rich Content**" and then "**Add Rich Content**". A drop-menu will appear to select what type of rich content you want to add.
+
+<figure><img src="../../.gitbook/assets/Add rich content.jpg" alt=""><figcaption><p>Select what type of rich content you want to add from drop-menu.</p></figcaption></figure>
+
+After selecting rich content type, a form appears where you can enter URLs. You can enter multiple URLs (one per line) to save time.
+
+Rich content is injected inside your article at a random position. If you want to specify a specific position within your article for your images, videos or your embedded code, you can change "**Position in Article**" option.
+
+<figure><img src="../../.gitbook/assets/rich content position.jpg" alt=""><figcaption><p>You can choose top, bottom and random position.</p></figcaption></figure>
+
+{% hint style="info" %}
+It is highly recommended to include rich content on your content buckets. This increases SEO value of your posted articles, as search engines favor rich-content articles that include images, videos etc.
+{% endhint %}
+
+
+
+### Scraping Rich Content
+
+If you don't any rich content URLs but you still need to find some for your content bucket, SEO NEO has a free built-in scraper.
+
+To use the scraper:
+
+1\) Click "**Scrape Rich Content**"
+
+<figure><img src="../../.gitbook/assets/scrape rich content.jpg" alt=""><figcaption></figcaption></figure>
+
+2\) Select what type of content you want to scrape "**images** or **videos**".
+
+<figure><img src="../../.gitbook/assets/scrape type.jpg" alt=""><figcaption></figcaption></figure>
+
+3\) Enter keyword you want SEO NEO to use to scrape content.
+
+4\) Enter the number of URLs you want to scrape (maximum 20).
+
+<figure><img src="../../.gitbook/assets/scrape images.JPG" alt=""><figcaption></figcaption></figure>
+
+5\) Click "**Scrape Images/Videos**" and SEO NEO will fetch URLs for you, based on given keywords.
 
 
 
 ### Adding Blog Details
 
+Blog details are include "**Blog Name**" and "**Blog Subdomain**" that will be used during blog creation.
 
+Both blog name and blog subdomain support spintax format to include variations.
 
+You can also click on "**Default Value**" to use built-in SEO NEO's default blog names and subdomains which come in spintax format.&#x20;
 
-
+<figure><img src="../../.gitbook/assets/blog details.jpg" alt=""><figcaption></figcaption></figure>

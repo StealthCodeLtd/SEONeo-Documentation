@@ -4,14 +4,13 @@
 
 As the name implies, the diagram editor, is an editor you can use to create your own strategy diagrams. Although SEO NEO comes with a number of preinstalled strategy diagrams included, If you want to [create your own](creating-a-custom-diagram.md) custom diagram you can do it using the diagram Diagram Editor.
 
-<figure><img src="../../.gitbook/assets/diagram_editor 4.jpg" alt=""><figcaption><p>Diagram editor sections overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diagram editor sections.jpg" alt=""><figcaption><p>Diagram editor sections overview</p></figcaption></figure>
 
 1. **File menu**: Create or select a diagram
 2. **Diagram area**: where you create or edit your diagrams
 3. **Link group list**:  Drag and drop link group types into diagram to add new groups
-4. **Minimap**: A small overview of the diagram.
-5. **Toolbar**: Save, delete diagram. You can also give your diagram a small description.
-6. **Navigation toolbar**: You can zoom-in, zoom-out, fit-view or lock diagram.
+4. **Toolbar**: Save, delete diagram. You can also give your diagram a small description.
+5. **Navigation toolbar**: You can zoom-in, zoom-out, fit-view or lock diagram.
 
 ### What is a diagram ?
 

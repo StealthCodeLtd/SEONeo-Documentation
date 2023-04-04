@@ -4,17 +4,17 @@
 
 To create a custom diagram, click on "**Diagram Editor**" on main menu and then click "**Create**".
 
-<figure><img src="../../.gitbook/assets/diagram_editor 1.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/create diagram.jpg" alt=""><figcaption></figcaption></figure>
 
 Then give your diagram a name and click "**Create**".
 
-<figure><img src="../../.gitbook/assets/diagram_editor 2.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diagram editor name.JPG" alt=""><figcaption></figcaption></figure>
 
 ### Add link groups into diagram
 
 To place new link groups, just drag and drop groups from groups list into diagram area.
 
-<figure><img src="../../.gitbook/assets/diagram_editor addGroups.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diagram editor drag and drop.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Connecting connections between groups
 

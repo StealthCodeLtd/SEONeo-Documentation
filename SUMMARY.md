@@ -25,7 +25,7 @@
   * [Link group types](software-overview/diagram-editor/link-group-types.md)
   * [Groups relationships](software-overview/diagram-editor/groups-relationships.md)
   * [Creating a custom diagram](software-overview/diagram-editor/creating-a-custom-diagram.md)
-  * [Editing diagram](software-overview/diagram-editor/editing-diagram.md)
+  * [Diagram Editor - Controls](software-overview/diagram-editor/diagram-editor-controls.md)
   * [Diagram description](software-overview/diagram-editor/diagram-description.md)
   * [Deleting diagrams](software-overview/diagram-editor/deleting-diagrams.md)
 * [⚙ Settings](software-overview/settings/README.md)

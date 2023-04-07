@@ -12,4 +12,4 @@ A new windows will open where you can enter a description for your diagram. You 
 
 <figure><img src="../../.gitbook/assets/edit meta data form.jpg" alt=""><figcaption></figcaption></figure>
 
-After entering your text, click on "**Save**" to save description for current diagram.
+After entering your text, click on "**Save**" to save diagram meta data for current diagram.

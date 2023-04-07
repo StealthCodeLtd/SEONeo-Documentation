@@ -7,6 +7,7 @@
 ## Software Overview
 
 * [🔍 Software Overview](software-overview/software-overview.md)
+* [✔ Dashboard](software-overview/dashboard.md)
 * [🔑 Account Buckets](software-overview/account-buckets/README.md)
   * [Creating Account Buckets](software-overview/account-buckets/creating-account-buckets.md)
   * [Managing Account Buckets](software-overview/account-buckets/managing-account-buckets.md)
@@ -34,9 +35,6 @@
   * [Third Party API](software-overview/settings/third-party-api.md)
   * [Cloud API Settings](software-overview/settings/cloud-api-settings.md)
   * [Visual Settings](software-overview/settings/visual-settings.md)
-* [✔ Dashboard](software-overview/dashboard/README.md)
-  * [Campaigns Overview](software-overview/dashboard/campaigns-overview.md)
-  * [Basic Setup Messages](software-overview/dashboard/basic-setup-messages.md)
 * [📑 Campaigns](software-overview/campaigns/README.md)
   * [Campaigns Overview screen](software-overview/campaigns/campaigns-overview-screen.md)
   * [Campaign Details screen](software-overview/campaigns/campaign-details-screen.md)

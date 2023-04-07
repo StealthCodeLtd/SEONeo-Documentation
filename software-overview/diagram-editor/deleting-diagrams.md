@@ -9,3 +9,7 @@ To delete a a diagram:
 2\) Click on "**Delete**" from toolbar.
 
 <figure><img src="../../.gitbook/assets/diagram_editor diagramDelete.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you delete a diagram that has been used to create a campaign, your campaign will remain as it is. SEO NEO stores diagram information inside each campaign to prevent file corruption when the user deletes diagrams.
+{% endhint %}

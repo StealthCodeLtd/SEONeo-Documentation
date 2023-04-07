@@ -8,7 +8,7 @@ This menu can be found:
 
 2\) Click on "**Proxies**" tab
 
-<figure><img src="../../.gitbook/assets/settings proxies.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings - proxies.jpg" alt=""><figcaption></figcaption></figure>
 
 The user can add his proxies inside the text box. Proxies must be added one per line.&#x20;
 

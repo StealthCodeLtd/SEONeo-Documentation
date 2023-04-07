@@ -8,7 +8,7 @@ This menu can be found:
 
 2\) Click on "**Submission**" tab
 
-<figure><img src="../../.gitbook/assets/settings submission.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings - submission.jpg" alt=""><figcaption></figcaption></figure>
 
 **HTTP Retries**: How many retries the software will do (software retries after a failed task step) on websites that work with HTTP POST method.
 

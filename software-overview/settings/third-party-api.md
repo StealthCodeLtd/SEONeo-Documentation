@@ -2,6 +2,8 @@
 
 Here the user can enter all credentials and API keys from 3rd-party services that are used from SEO NEO.
 
+<figure><img src="../../.gitbook/assets/settings- 3rd party api.jpg" alt=""><figcaption></figcaption></figure>
+
 Third party APIs are separated into different sections/tabs according to service type.
 
 These are the following categories where you can find all supported 3rd party APIs:

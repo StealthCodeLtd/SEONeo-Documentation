@@ -24,7 +24,7 @@ You can add content manually.
 
 ### Adding different content types
 
-Each content bucket can have multiple content entries from different [**content type**](content-types.md). You can navigate on different content categories and add content on each category separately.
+Each content bucket can have multiple content entries from different [**content type**](broken-reference). You can navigate on different content categories and add content on each category separately.
 
 <figure><img src="../../.gitbook/assets/content types.jpg" alt=""><figcaption><p>Navigate between content types using tabs.</p></figcaption></figure>
 
@@ -43,7 +43,7 @@ In the following example we will add a new article inside our content bucket.
 <figure><img src="../../.gitbook/assets/article editor.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Different content types require different data entry. Refer to [**content types**](content-types.md) for more information.
+Different content types require different data entry. Refer to [**content types**](broken-reference) for more information.
 {% endhint %}
 
 
@@ -188,7 +188,7 @@ To use the scraper:
 
 4\) Enter the number of URLs you want to scrape (maximum 20).
 
-<figure><img src="../../.gitbook/assets/scrape images.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/scrape images (1).JPG" alt=""><figcaption></figcaption></figure>
 
 5\) Click "**Scrape Images/Videos**" and SEO NEO will fetch URLs for you, based on given keywords.
 

@@ -21,7 +21,6 @@
   * [Adding content](software-overview/content-buckets/adding-content.md)
   * [Import content](software-overview/content-buckets/import-content.md)
   * [Generate content](software-overview/content-buckets/generate-content.md)
-  * [Content types](software-overview/content-buckets/content-types.md)
 * [🔵 Diagram Editor](software-overview/diagram-editor/README.md)
   * [Link group types](software-overview/diagram-editor/link-group-types.md)
   * [Groups relationships](software-overview/diagram-editor/groups-relationships.md)

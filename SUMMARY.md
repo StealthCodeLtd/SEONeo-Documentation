@@ -59,8 +59,10 @@
 
 * [1⃣ Creating your 1st campaign](basic-tutorial/creating-your-1st-campaign/README.md)
   * [Basic settings](basic-tutorial/creating-your-1st-campaign/basic-settings.md)
+  * [Creating Content Bucket](basic-tutorial/creating-your-1st-campaign/creating-content-bucket.md)
+  * [Creating Account Bucket](basic-tutorial/creating-your-1st-campaign/creating-account-bucket.md)
+  * [Creating Account Template](basic-tutorial/creating-your-1st-campaign/creating-account-template.md)
   * [Creating a diagram](basic-tutorial/creating-your-1st-campaign/creating-a-diagram.md)
-  * [Creating content buckets](basic-tutorial/creating-your-1st-campaign/creating-content-buckets.md)
   * [Creating campaign](basic-tutorial/creating-your-1st-campaign/creating-campaign.md)
 * [2⃣ Your campaign results](basic-tutorial/your-campaign-results/README.md)
   * [View campaign details](basic-tutorial/your-campaign-results/view-campaign-details.md)

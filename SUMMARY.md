@@ -63,7 +63,7 @@
   * [Creating Account Bucket](basic-tutorial/creating-your-1st-campaign/creating-account-bucket.md)
   * [Creating Account Template](basic-tutorial/creating-your-1st-campaign/creating-account-template.md)
   * [Creating a diagram](basic-tutorial/creating-your-1st-campaign/creating-a-diagram.md)
-  * [Creating campaign](basic-tutorial/creating-your-1st-campaign/creating-campaign.md)
+  * [Creating campaign & folder](basic-tutorial/creating-your-1st-campaign/creating-campaign-and-folder.md)
 * [2⃣ Your campaign results](basic-tutorial/your-campaign-results/README.md)
   * [View campaign details](basic-tutorial/your-campaign-results/view-campaign-details.md)
   * [View and export results](basic-tutorial/your-campaign-results/view-and-export-results.md)

@@ -12,8 +12,6 @@ To set your proxies navigate:
 
 Copy the list of your proxies from your service provider and paste them into Proxies text box. You can add multiple proxies (one per line).
 
-
-
 <figure><img src="../../../.gitbook/assets/settings - proxies.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
@@ -24,7 +22,13 @@ You can check your proxies before using them on your campaign to make sure they 
 
 ### 2. Set Captcha API Key
 
+Grab your API key credentials from your Captcha solver service and use these credentials into Captcha service settings.
 
+To do so, navigate:
+
+**Settings** > **Third Party API** > **Captcha**.
+
+<figure><img src="../../../.gitbook/assets/captcha key set.jpg" alt=""><figcaption></figcaption></figure>
 
 ### 3. Other Settings
 

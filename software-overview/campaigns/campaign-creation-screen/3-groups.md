@@ -16,8 +16,8 @@ Group filter help you filter group types according to different criteria. This h
 
 There are three different filter types:
 
-* **Per Tier View** : filters groups according to their tier level (see diagram for details)
-* **Per Group Type View**: filters groups according to link group type (see group types)
+* **Per Tier View** : filters groups according to their tier level (more info on [**diagram tiers**](../../../additional-information/glossary/tiers.md))
+* **Per Group Type View**: filters groups according to link group type (more info on [**group types**](../../diagram-editor/link-group-types.md))
 * **Groups With Validation Errors**: show only groups with errors while the user sets group data.
 
 To better understand each group filters, we will show you the selected diagram used on this example:

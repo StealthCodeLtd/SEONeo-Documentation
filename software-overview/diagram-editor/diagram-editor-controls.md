@@ -8,7 +8,11 @@ On the lower right corner of diagram editor you can find a toolbar with some bas
 
 Here is a small description of each tool functionality:
 
+<div align="left">
+
 <figure><img src="../../.gitbook/assets/diagram editor toolbar.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 **Zoom in / zoom out**: diagram zoom
 

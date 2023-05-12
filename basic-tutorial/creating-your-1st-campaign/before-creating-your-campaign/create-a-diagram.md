@@ -1,4 +1,4 @@
-# Creating a diagram
+# Create a diagram
 
 Although you can use any included SEO NEO diagram, for this tutorial we will create a basic diagram to understand the basic concepts.
 
@@ -45,5 +45,25 @@ Then **click and drag** (and **hold down**) your mouse. As you move your mouse y
 Repeat the same process for the rest of the groups to create connection for all three groups with **Moneysite**.
 
 <figure><img src="../../../.gitbook/assets/diagram editor - tutorial - conenction 2.jpg" alt=""><figcaption></figcaption></figure>
+
+## Adding child groups
+
+The diagram we have created has only 3 link groups connected to moneysite. Of course we can leave the diagram as it is, but for better SEO results, a diagram should have a more complex structure with more tiers (currently our diagram tier level is 1).
+
+<figure><img src="../../../.gitbook/assets/diagram - tutorial - tier 1.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Combining different link group types, and using multiple tier levels result in a more "natural" link-building campaign, which means better SEO results.
+{% endhint %}
+
+To improve our diagram just a little bit, we will add some child groups under Web 2.0 Blogs. For this tutorial we will just add some URL Shorteners under each Web 2.0 Blogs groups.
+
+<figure><img src="../../../.gitbook/assets/diagram - tutorial - tier 2.jpg" alt=""><figcaption></figcaption></figure>
+
+When the campaign runs, links generated from one tier will be used into the other tier as targeted links.
+
+<figure><img src="../../../.gitbook/assets/diagram - tutorial - tier 2b.jpg" alt=""><figcaption></figcaption></figure>
+
+Let's save the diagram&#x20;
 
 For more details refer to [**Diagram Editor**](../../../software-overview/diagram-editor/) section of this documentation.

@@ -10,7 +10,7 @@ You can add or import your own emails or you can even use default built-in email
 It is preferred to use Gmails (multiple emails if possible) for better success rate.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 When you add a Gmail and fill its credentials (username and password) the password you have to use is the "**App Password**". For more information on how to use App Password you can [**view this page**](https://support.google.com/accounts/answer/185833?hl=en).
 {% endhint %}
 

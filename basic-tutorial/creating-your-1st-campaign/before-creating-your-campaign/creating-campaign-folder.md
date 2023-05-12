@@ -13,13 +13,3 @@ Give your campaign folder a name and then click "**Create**". In this tutorial w
 {% hint style="info" %}
 It is recommended to keep your campaigns organized by using campaign folders for your or your projects.
 {% endhint %}
-
-###
-
-
-
-<figure><img src="../../../.gitbook/assets/tutorial - create campaign name.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-<figure><img src="../../../.gitbook/assets/tutorial - campaign name.jpg" alt=""><figcaption></figcaption></figure>

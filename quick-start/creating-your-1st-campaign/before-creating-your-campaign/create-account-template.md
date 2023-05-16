@@ -1,6 +1,6 @@
 # Create Account Template
 
-Creating an account template is also a requirement before running your campaigns. Account template creation is a very simple process (refer [**to this section of the documentation**](../../../software-overview/account-templates/creating-account-template.md) for more details on how to create an account template).
+Creating an account template is also a requirement before running your campaigns. Account template creation is a very simple process (refer [**to this section of the documentation**](../../../documentation/account-templates/creating-account-template.md) for more details on how to create an account template).
 
 For better success rate use Gmails for your account templates. Create your account template and add at least one Gmail.
 
@@ -22,4 +22,4 @@ Example:\
 
 <figure><img src="../../../.gitbook/assets/use gmail.jpg" alt=""><figcaption></figcaption></figure>
 
-For more details refer to [**Account T**](../../../software-overview/account-templates/)[**emplates**](../../../software-overview/account-templates/) section of this documentation.
+For more details refer to [**Account T**](../../../documentation/account-templates/)[**emplates**](../../../documentation/account-templates/) section of this documentation.

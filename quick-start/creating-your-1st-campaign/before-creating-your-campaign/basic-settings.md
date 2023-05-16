@@ -1,6 +1,6 @@
 # Basic settings
 
-Before creating your first campaign its is important to set some [**basic settings**](../../../software-overview/settings/). These settings include proxies and basic API's that SEO NEO requires in order to run a campaign properly.
+Before creating your first campaign its is important to set some [**basic settings**](../../../documentation/settings/). These settings include proxies and basic API's that SEO NEO requires in order to run a campaign properly.
 
 ### 1. Set your proxies
 
@@ -58,4 +58,4 @@ To improve your campaign results it is ultra-high recommended to also use an ind
 It is recommended to use [**Omega Indexer**](https://www.omegaindexer.com/) or [**Colinkri**](https://www.colinkri.com/) crawler for your campaigns.
 {% endhint %}
 
-For more details refer to [**Settings**](../../../software-overview/settings/) section of this documentation.
+For more details refer to [**Settings**](../../../documentation/settings/) section of this documentation.

@@ -66,4 +66,4 @@ When the campaign runs, links generated from one tier will be used into the othe
 
 Let's save the diagram&#x20;
 
-For more details refer to [**Diagram Editor**](../../../software-overview/diagram-editor/) section of this documentation.
+For more details on how to use Diagram Editor, refer to [**Diagram Editor**](../../../documentation/diagram-editor/) section of this documentation.

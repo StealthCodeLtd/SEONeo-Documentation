@@ -66,11 +66,17 @@ Bios section has one entry by default. We will leave this as it is. The same app
 
 ### Adding Image and Video URLs
 
+To add image and video URLs, navigate to "**Rich Content**" tab and click "**Scrape Rich Content**".
 
+We will ask SEO Neo to scrape 20 images, using keyword "car sales":
 
+<figure><img src="../../../.gitbook/assets/scrape images - car sales.jpg" alt=""><figcaption></figcaption></figure>
 
+We will repeat the same, this time for video URLs:
+
+<figure><img src="../../../.gitbook/assets/scrape videos - car sales.jpg" alt=""><figcaption></figcaption></figure>
 
 \
+Our content bucket has enough content to be used on a small campaign. For bigger campaigns with more link groups, you can create bigger content buckets with additional content.
 
-
-For more information on how to create a content bucket [**refer to this section**](../../../software-overview/content-buckets/creating-a-content-bucket.md) of the documentation.
+For more information on how to create a content bucket [**refer to this section**](../../../documentation/content-buckets/creating-a-content-bucket.md) of the documentation.

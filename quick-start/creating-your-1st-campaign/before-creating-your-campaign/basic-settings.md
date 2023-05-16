@@ -12,7 +12,7 @@ To set your proxies navigate:
 
 Copy the list of your proxies from your service provider and paste them into Proxies text box. You can add multiple proxies (one per line).
 
-{% hint style="info" %}
+{% hint style="warning" %}
 You should use good quality proxies which have **at least 3 Mbps speed**. Proxies highly effect your campaign success rate.&#x20;
 {% endhint %}
 
@@ -37,6 +37,8 @@ To do so, navigate:
 {% hint style="info" %}
 It is **extremely important** to have set a Captcha solver in order for SEO Neo to use any website that requires captcha.
 {% endhint %}
+
+###
 
 ### 3. Other Settings
 

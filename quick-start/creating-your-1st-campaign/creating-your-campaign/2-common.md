@@ -124,4 +124,14 @@ In the example below, the sum of all keyword values is: 1 + 20 + 30 = 51 so SEO 
 
 ### Setting Keyword format
 
-After this step we are ready to move into the next section/step.&#x20;
+Although we can move to the next section/step we can make some additional adjustments for our keywords. Except from keywords and percentages, we can set keyword format.
+
+<figure><img src="../../../.gitbook/assets/keyword format.jpg" alt=""><figcaption></figcaption></figure>
+
+We can set how many keyword we want to be in Bold or Italic format. We can set values for each format for Tier 1 and Tier 2+ keyword separately.
+
+In our example we will set **Bold** = 50% and **Italic** 30%. This means that **there is a chance** 50% for keywords to be in Bold format and 30% chance to be in Italic format.
+
+<figure><img src="../../../.gitbook/assets/keyword format 2.jpg" alt=""><figcaption></figcaption></figure>
+
+There are additional / optional settings we can set for our keyword strategy for for now, we will proceed into the next step / section.

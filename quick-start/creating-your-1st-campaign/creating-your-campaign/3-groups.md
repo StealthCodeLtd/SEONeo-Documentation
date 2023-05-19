@@ -25,7 +25,7 @@ In our example if you choose "**Per Group Type View**", SEO Neo will show the di
 <figure><img src="../../../.gitbook/assets/group filters - 2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Filter "Groups With Validation Errors" will show only groups that have validation errors (omitted or wrong settings from user.)
+Filter "**Groups With Validation Errors**" will show only groups that have validation errors (omitted or wrong settings from user.)
 {% endhint %}
 
 ### Setting Groups
@@ -162,9 +162,43 @@ When you finish, click anywhere outside of the pop-up menu to confirm your selec
 
 ### Copy Group Settings
 
+Using different settings for each group give high flexibility, but in our case, we will use the same settings for the rest two Web2 .0 Blogs. We will do so, in order to demonstrate copy function between groups.
+
+You can find "**Copy Group Settings**" button on the top right section.
+
+<figure><img src="../../../.gitbook/assets/groups - copy settings 1.jpg" alt=""><figcaption></figcaption></figure>
+
+When you click the button, a drop down menu appears with different options on which settings you want to copy.
+
+The first option "**Copy All Settings**" copies everything. Every other options copies specific settings.
 
 
 
+<figure><img src="../../../.gitbook/assets/groups - copy settings 2.jpg" alt=""><figcaption></figcaption></figure>
+
+After selecting what you want to copy, a pop-up window will appear asking the user which are the target groups for the settings you copied.
+
+You can copy-paste settings to: **All Tiers**, **Same Tier** or **Tier 2+**.
+
+<figure><img src="../../../.gitbook/assets/groups - copy settinsg 3.JPG" alt=""><figcaption></figcaption></figure>
+
+In our example we used "Copy All Settings" and "All Tiers". As we can see, the rest of Web 2.0 Blogs now have the same setup.
+
+<figure><img src="../../../.gitbook/assets/groups - copy settings 4.jpg" alt=""><figcaption><p>Web 2.0 Blogs (2) has the same settings with Web 2.0 Blogs (1)</p></figcaption></figure>
+
+Now lets finish our groups setup by setting URL Shorteners. We change the filter to "**URL Shorteners**" to show only URL Shorteners groups.
+
+<figure><img src="../../../.gitbook/assets/groups - url shorteners.jpg" alt=""><figcaption></figcaption></figure>
+
+URL Shorteners are groups that don't post content, so we only see settings about Account Bucket and Indexer to use.
+
+We select the same Content Bucket as before and the same Indexer.
+
+<figure><img src="../../../.gitbook/assets/groups - url shorteners 2.jpg" alt=""><figcaption></figcaption></figure>
+
+We use "**Copy Settings**" to copy the setting to all other URL Shortener groups and we are done!
+
+We have finished setting up all groups. It's time to move forward to the last step.
 
 
 

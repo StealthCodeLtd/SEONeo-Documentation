@@ -18,7 +18,7 @@ Account Templates are used to tell SEO Neo which mails the software will use for
 
 ### Entering Money Site URLs
 
-Let's start by pasting all URLs what we want to target. For this tutorial we will use non existent URLs for an iaginery website that is supposed to sell cars, but feel free to choose your own. In case you have multiple URLs, you must enter one URL per line.
+Let's start by pasting all URLs what we want to target. For this tutorial we will use non existent URLs for an imaginary website that is supposed to sell cars, but feel free to choose your own. In case you have multiple URLs, you must enter one URL per line.
 
 <figure><img src="../../../.gitbook/assets/2 - common - urls.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -30,8 +30,98 @@ There are two main sections for setting-up keywords: **Tier 1 Keywords** and **T
 
 Both sections look almost identical (except from some minor differences on available keyword types) and serve the same purpose: **keywords** and **keyword percentage** for each keyword type you want to use for your campaign.
 
-
-
 {% hint style="info" %}
 Tier 2+ Keywords section is available for diagrams that have more than one tier of link groups.
 {% endhint %}
+
+For this guide we assume that our main keywords are:
+
+car sales\
+car rental\
+car reviews
+
+For this tutorial we will use 3 different keyword categories:
+
+* Primary keywords
+* Generic keywords
+* Partial match keywords
+
+For Primary Keywords we will use our three keywords (car sales, car rental, car reviews). For Generic Keywords we will use the default values from SEO Neo. Finally, Partial match keywords are generated from the software, based on Primary Keywords.
+
+<figure><img src="../../../.gitbook/assets/keyword settings.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+For each keyword type you want to use, you need to **enable the keyword category** from the checkbox and set a keyword percentage.\
+\
+**Keyword percentage** is how much keywords will be used (in % percentage) for each keyword category.
+{% endhint %}
+
+For our example tutorial, we will enable: Primary, Generic and Partial match keyword categories. Because our diagram also has Tier2 groups. We will also enable the same categories for Tier 2+.
+
+<figure><img src="../../../.gitbook/assets/toggle keyword categories.JPG" alt=""><figcaption></figcaption></figure>
+
+### Setting Primary Keywords
+
+We set Primary Keywords.
+
+<figure><img src="../../../.gitbook/assets/primary keywords.jpg" alt=""><figcaption></figcaption></figure>
+
+### Setting Generic Keywords
+
+For Generic Keyword we can use SEO Neo's default values. To set default values:
+
+Click "**D**" button, located next to Generic Keywords category.
+
+<figure><img src="../../../.gitbook/assets/generate generic keywords.jpg" alt=""><figcaption><p>Click on "D" button to get default Generic Keywords values </p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/generate generic keywords 2.jpg" alt=""><figcaption><p>SEO Neo sets default generic keywords</p></figcaption></figure>
+
+### Setting Partial Match Keywords
+
+To generate Partial Match Keywords: &#x20;
+
+Click on "**G**" button.
+
+<figure><img src="../../../.gitbook/assets/generate partial match keywords.jpg" alt=""><figcaption><p>Click on "D" button to generate Partial Match Keywords</p></figcaption></figure>
+
+Select preferred for your keywords.
+
+<figure><img src="../../../.gitbook/assets/generate partial match keywords 2.jpg" alt=""><figcaption><p>Select language for your keywords</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/generate partial match keywords 3.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+SEO Neo generates Partial Match Keywords based on Primary Keywords. **At least one Primary Keyword is required** in order for SEO Neo to automatically generate Partial Match Keywords.
+{% endhint %}
+
+### Setting keyword percentage
+
+After setting your keywords, it's time to set keyword percentage. This defines how many keywords (based on total percentage) will be used from each keyword category.
+
+{% hint style="info" %}
+Keywords and keyword percentages is a big part of your SEO strategy. Each campaign required different settings according to your SEO campaign strategy.
+{% endhint %}
+
+For this example we will set these values for each category:
+
+* **Primary Keywords**: 50%
+* **Generic Keywords**: 20%
+* **Partial Match Keywords**: 30%
+
+We will set the same values for for Tier 1 and Tier 2+ keyword categories.
+
+<figure><img src="../../../.gitbook/assets/keyword percentage values 2.jpg" alt=""><figcaption><p>Total keyword values = 100</p></figcaption></figure>
+
+{% hint style="warning" %}
+Because keyword percentage values are based on % **the sum of all keyword values** for must be **100**.
+{% endhint %}
+
+If the sum of values is **less or more** **than 100**, SEO Neo will raise validation error (red colored text) and will prevent you from moving to the next section.
+
+In the example below, the sum of all keyword values is: 1 + 20 + 30 = 51 so SEO Neo raises validation error message.
+
+<figure><img src="../../../.gitbook/assets/wrong percentage value.jpg" alt=""><figcaption></figcaption></figure>
+
+### Setting Keyword format
+
+After this step we are ready to move into the next section/step.&#x20;

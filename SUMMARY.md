@@ -1,12 +1,8 @@
 # Table of contents
 
-## Getting Started
-
-* [💿 Installation](README.md)
-
 ## Documentation
 
-* [🔍 Software Overview](documentation/software-overview.md)
+* [🔍 Software Overview](README.md)
 * [✔ Dashboard](documentation/dashboard.md)
 * [🔑 Account Buckets](documentation/account-buckets/README.md)
   * [Creating Account Buckets](documentation/account-buckets/creating-account-buckets.md)
@@ -52,12 +48,12 @@
     * [Linode - setup](documentation/cloud-blogs/cloud-blogs-settings/linode-setup.md)
     * [Oracle - setup](documentation/cloud-blogs/cloud-blogs-settings/oracle-setup.md)
     * [Copy of Copy of Linode - setup](documentation/cloud-blogs/cloud-blogs-settings/copy-of-copy-of-linode-setup.md)
-    * [Copy of Copy of Copy of Linode - setup](documentation/cloud-blogs/cloud-blogs-settings/copy-of-copy-of-copy-of-linode-setup.md)
     * [Azure - setup](documentation/cloud-blogs/cloud-blogs-settings/azure-setup.md)
+    * [Bunny - setup](documentation/cloud-blogs/cloud-blogs-settings/bunny-setup.md)
     * [Google Cloud - setup](documentation/cloud-blogs/cloud-blogs-settings/google-cloud-setup.md)
     * [Dream Host - setup](documentation/cloud-blogs/cloud-blogs-settings/dream-host-setup.md)
     * [Black Blaze - setup](documentation/cloud-blogs/cloud-blogs-settings/black-blaze-setup.md)
-    * [Bunny - setup](documentation/cloud-blogs/cloud-blogs-settings/bunny-setup.md)
+    * [Bunny - setup](documentation/cloud-blogs/cloud-blogs-settings/bunny-setup-1.md)
     * [IBM - setup](documentation/cloud-blogs/cloud-blogs-settings/ibm-setup.md)
   * [Cloud Blogs Generator](documentation/cloud-blogs/cloud-blogs-generator.md)
   * [Using Cloud Blogs on campaign](documentation/cloud-blogs/using-cloud-blogs-on-campaign.md)

@@ -126,7 +126,41 @@ In this tutorial we will use the default value "**From Content Bucket**" because
 
 <figure><img src="../../../.gitbook/assets/groups whole.jpg" alt=""><figcaption></figcaption></figure>
 
+### Sites To Post
 
+In SEO Neo you can select which sites you want to post. You can select different sites for each group.
+
+To select which sites you want to use for this group, click on "**Sites To Post**" button.
+
+<figure><img src="../../../.gitbook/assets/groups - sites to post.jpg" alt=""><figcaption></figcaption></figure>
+
+**Sites To Post** menu will display all available sites for this group along with some additional information like: **Domain Authority** for each website and **how many sites** are selected.
+
+By default, all sites all pre-selected.
+
+<figure><img src="../../../.gitbook/assets/sites to post 1.JPG" alt=""><figcaption></figcaption></figure>
+
+You can use the checkbox on the left to select / deselect each site separately.
+
+<figure><img src="../../../.gitbook/assets/sites to post 2.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Different group types will show different websites to select from.
+{% endhint %}
+
+You can even use the search bar on top of the menu, to find specific websites to enable/disable.
+
+<figure><img src="../../../.gitbook/assets/sites to post 3.jpg" alt=""><figcaption></figcaption></figure>
+
+Let's select only the first five sites available from the list. To do so, deselect all sites using the top-left checkbox. Then select the first five sites from the list.
+
+<figure><img src="../../../.gitbook/assets/sites to post 4.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+When you finish, click anywhere outside of the pop-up menu to confirm your selection.
+{% endhint %}
+
+### Copy Group Settings
 
 
 

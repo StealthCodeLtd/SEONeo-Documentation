@@ -1,3 +1,3 @@
-# Cloud Blogs Generator
+# ⭐ Tips
 
 ### \[This section is under construction]

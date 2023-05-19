@@ -95,4 +95,5 @@
   * [Browser threads](additional-information/glossary/browser-threads.md)
   * [Campaign Schedule](additional-information/glossary/campaign-schedule.md)
   * [Captcha service](additional-information/glossary/captcha-service.md)
+  * [Drip Feed](additional-information/glossary/drip-feed.md)
 * [⭐ Tips](additional-information/tips.md)

@@ -55,6 +55,9 @@
     * [IBM - setup](documentation/cloud-blogs/cloud-blogs-settings/ibm-setup.md)
   * [Cloud Blogs Generator](documentation/cloud-blogs/cloud-blogs-generator.md)
   * [Using Cloud Blogs on campaign](documentation/cloud-blogs/using-cloud-blogs-on-campaign.md)
+* [⭐ Features](documentation/features/README.md)
+  * [Link Matching](documentation/features/link-matching.md)
+  * [Article Builder](documentation/features/article-builder.md)
 
 ## Quick Start
 
@@ -79,6 +82,7 @@
 ## Additional Information
 
 * [❔ FAQ's](additional-information/faqs/README.md)
+  * [How do I transfer my SEO AP Accounts?](additional-information/faqs/how-do-i-transfer-my-seo-ap-accounts.md)
   * [What is SEO NEO?](additional-information/faqs/what-is-seo-neo.md)
   * [Who uses SEO NEO?](additional-information/faqs/who-uses-seo-neo.md)
   * [Is SEO NEO safe?](additional-information/faqs/is-seo-neo-safe.md)
@@ -96,4 +100,3 @@
   * [Campaign Schedule](additional-information/glossary/campaign-schedule.md)
   * [Captcha service](additional-information/glossary/captcha-service.md)
   * [Drip Feed](additional-information/glossary/drip-feed.md)
-* [⭐ Tips](additional-information/tips.md)

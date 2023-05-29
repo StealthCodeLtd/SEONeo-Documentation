@@ -51,7 +51,7 @@
     * [Bunny - setup](documentation/cloud-blogs/cloud-blogs-settings/bunny-setup.md)
     * [Google Cloud - setup](documentation/cloud-blogs/cloud-blogs-settings/google-cloud-setup.md)
     * [Dream Host - setup](documentation/cloud-blogs/cloud-blogs-settings/dream-host-setup.md)
-    * [Back Blaze - setup](documentation/cloud-blogs/cloud-blogs-settings/back-blaze-setup.md)
+    * [Back Blaze - setup](documentation/cloud-blogs/cloud-blogs-settings/black-blaze-setup.md)
     * [IBM - setup](documentation/cloud-blogs/cloud-blogs-settings/ibm-setup.md)
   * [Cloud Blogs Generator](documentation/cloud-blogs/cloud-blogs-generator.md)
   * [Using Cloud Blogs on campaigns](documentation/cloud-blogs/using-cloud-blogs-on-campaigns.md)

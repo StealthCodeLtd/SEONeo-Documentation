@@ -4,7 +4,6 @@
 
 Required credentials:
 
-* Friendly name
 * Service account key (JSON File)
 
 <figure><img src="../../../.gitbook/assets/Google Cloud.jpg" alt=""><figcaption></figcaption></figure>

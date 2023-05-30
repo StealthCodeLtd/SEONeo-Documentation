@@ -1,6 +1,6 @@
 # IBM - setup
 
-### Back Blaze API Settings
+### IBM API Settings
 
 Required credentials:
 

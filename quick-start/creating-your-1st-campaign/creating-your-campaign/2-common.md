@@ -20,7 +20,7 @@ Account Templates are used to tell SEO Neo which mails the software will use for
 
 Let's start by pasting all URLs what we want to target. For this tutorial we will use non existent URLs for an imaginary website that is supposed to sell cars, but feel free to choose your own. In case you have multiple URLs, you must enter one URL per line.
 
-<figure><img src="../../../.gitbook/assets/2 - common - urls.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/2 - common - urls.jpg" alt=""><figcaption><p>Enter as many money site URLs as desired (one pre line)</p></figcaption></figure>
 
 ### Setting your Keyword Strategy
 
@@ -36,9 +36,9 @@ Tier 2+ Keywords section is available for diagrams that have more than one tier 
 
 For this guide we assume that our main keywords are:
 
-car sales\
-car rental\
-car reviews
+_car sales_\
+_car rental_\
+_car reviews_
 
 For this tutorial we will use 3 different keyword categories:
 
@@ -48,7 +48,7 @@ For this tutorial we will use 3 different keyword categories:
 
 For Primary Keywords we will use our three keywords (car sales, car rental, car reviews). For Generic Keywords we will use the default values from SEO Neo. Finally, Partial match keywords are generated from the software, based on Primary Keywords.
 
-<figure><img src="../../../.gitbook/assets/keyword settings.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/keyword settings.jpg" alt=""><figcaption><p>When you enable a keyword category, you must set percentage value.</p></figcaption></figure>
 
 {% hint style="info" %}
 For each keyword type you want to use, you need to **enable the keyword category** from the checkbox and set a keyword percentage.\
@@ -58,13 +58,13 @@ For each keyword type you want to use, you need to **enable the keyword category
 
 For our example tutorial, we will enable: Primary, Generic and Partial match keyword categories. Because our diagram also has Tier2 groups. We will also enable the same categories for Tier 2+.
 
-<figure><img src="../../../.gitbook/assets/toggle keyword categories.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/toggle keyword categories.JPG" alt=""><figcaption><p>There are different keyword categories for Tier 1 and Tier 2+ link groups</p></figcaption></figure>
 
 ### Setting Primary Keywords
 
 We set Primary Keywords.
 
-<figure><img src="../../../.gitbook/assets/primary keywords.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/primary keywords.jpg" alt=""><figcaption><p>Use one keyword per line</p></figcaption></figure>
 
 ### Setting Generic Keywords
 

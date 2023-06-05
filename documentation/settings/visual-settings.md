@@ -16,8 +16,8 @@ Main menu bar position.
 
 Text direction.
 
-1. From left-to-right
-2. From right-to-left
+1. _From left-to-right_
+2. _From right-to-left_
 
 ### Presets
 

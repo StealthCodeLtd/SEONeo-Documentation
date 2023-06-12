@@ -70,7 +70,7 @@ Choosing an Indexer is optional but **highly recommended** (for better SEO ranki
 
 You can choose any available Indexer service and also set "[**Drip Feed**](../../../additional-information/glossary/drip-feed.md)" (how many days you want the indexing service to drip feed the links for a more "natural" behavior for search engines).
 
-<figure><img src="../../../.gitbook/assets/groups - indexer.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/groups - indexer.jpg" alt=""><figcaption><p>Change the number of drip-feed days from the drop menu on the right</p></figcaption></figure>
 
 {% hint style="info" %}
 In order to select an Indexer you must [**setup the indexer service**](../before-creating-your-campaign/basic-settings.md#1.-set-your-proxies) (API Key) from SEO Neo's settings.

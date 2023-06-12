@@ -14,7 +14,7 @@ Most diagrams consist of different link groups and different&#x20;
 There are different link group types because there are different types of tasks. For example, Web 2.0 link groups create a blog post, a PDF Upload post a PDF, a URL Shortener creates a short URL etc...
 {% endhint %}
 
-Below is the list for all supported link group types SEO Autopilot NG supports:
+Below is the list for all supported link group types SEO Neo supports:
 
 | Link Group Types      |
 | --------------------- |

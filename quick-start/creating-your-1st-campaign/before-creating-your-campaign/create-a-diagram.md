@@ -1,6 +1,6 @@
 # Create a diagram
 
-Although you can use any included SEO NEO diagram, for this tutorial we will create a basic diagram to understand the basic concepts.
+Although you can use any included SEO Neo diagram, for this tutorial we will create a basic diagram to understand the basic concepts.
 
 Lets create our diagram and name it "first tutorial".
 
@@ -15,7 +15,7 @@ For diagram name type "first tutorial". and click "**Create**".
 What we want for this tutorial is a diagram that includes a good number of rich content - high quality backlinks.&#x20;
 
 {% hint style="info" %}
-The most rich-content link group for SEO NEO (except from Cloud assets) is Web 2.0 Blogs. For every link group we will add into the diagram, SEO NEO will create blogs for sites like Wordpress.com, Tumblr, Weebly etc.
+The most rich-content link group for SEO Neo (except from Cloud assets) is Web 2.0 Blogs. For every link group we will add into the diagram, SEO Neo will create blogs for sites like Wordpress.com, Tumblr, Weebly etc.
 {% endhint %}
 
 On the left side of Diagram Editor you can see all available link group types.&#x20;

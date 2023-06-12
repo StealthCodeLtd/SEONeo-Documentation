@@ -1,10 +1,10 @@
 # Basic settings
 
-Before creating your first campaign its is important to set some [**basic settings**](../../../documentation/settings/). These settings include proxies and basic API's that SEO NEO requires in order to run a campaign properly.
+Before creating your first campaign its is important to set some [**basic settings**](../../../documentation/settings/). These settings include proxies and basic API's that SEO Neo requires in order to run a campaign properly.
 
 ### 1. Set your proxies
 
-Proxies quality effect your campaign success rate so it is very important to choose high quality proxies for your SEO NEO campaigns.
+Proxies quality effect your campaign success rate so it is very important to choose high quality proxies for your SEO Neo campaigns.
 
 To set your proxies navigate:
 

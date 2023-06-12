@@ -1,8 +1,8 @@
 # Hardware requirements?
 
-In order to run SEO NEO properly, you need to have a VPS or other device with 4 cores, 8GB RAM, and 10GB free hard disk space (Recommended to use SSD hard disk type).
+In order to run SEO Neo properly, you need to have a VPS or other device with 4 cores, 8GB RAM, and 10GB free hard disk space (Recommended to use SSD hard disk type).
 
-SEO NEO requirements depend on how you use the software.&#x20;
+SEO Neo requirements depend on how you use the software.&#x20;
 
 Factors that change your system requirements are:
 

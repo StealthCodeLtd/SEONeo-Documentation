@@ -83,9 +83,9 @@
 
 * [❔ FAQ's](additional-information/faqs/README.md)
   * [How do I transfer my SEO AP Accounts?](additional-information/faqs/how-do-i-transfer-my-seo-ap-accounts.md)
-  * [What is SEO NEO?](additional-information/faqs/what-is-seo-neo.md)
-  * [Who uses SEO NEO?](additional-information/faqs/who-uses-seo-neo.md)
-  * [Is SEO NEO safe?](additional-information/faqs/is-seo-neo-safe.md)
+  * [What is SEO Neo?](additional-information/faqs/what-is-seo-neo.md)
+  * [Who uses SEO Neo?](additional-information/faqs/who-uses-seo-neo.md)
+  * [Is SEO Neo safe?](additional-information/faqs/is-seo-neo-safe.md)
   * [How do I get my backlinks indexed?](additional-information/faqs/how-do-i-get-my-backlinks-indexed.md)
   * [Hardware requirements?](additional-information/faqs/hardware-requirements.md)
   * [Any required 3rd party services?](additional-information/faqs/any-required-3rd-party-services.md)

@@ -8,8 +8,8 @@
 
 3\) **Creating Account Bucket**: where all created accounts will get stored when you run your campaign.
 
-4\) **Creating Account Template**: setting your account emails and account templates. You can omit this step if you use SEO NEO's default account template.
+4\) **Creating Account Template**: setting your account emails and account templates. You can omit this step if you use SEO Neo's default account template.
 
-5\) **Creating a diagram**: You can omit this step if you use SEO NEO's pre-created diagrams.
+5\) **Creating a diagram**: You can omit this step if you use SEO Neo's pre-created diagrams.
 
 6\) **Creating campaign**: in this step we will use created buckets, accounts and diagram from previous steps.

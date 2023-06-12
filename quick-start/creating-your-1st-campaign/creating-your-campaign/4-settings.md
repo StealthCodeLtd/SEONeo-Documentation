@@ -26,7 +26,7 @@ If you want to finish and save your campaign, just click "**Save**" button on th
 
 Here you can change how many threads will be used on this campaign. On some sites SEO Neo uses HTTP requests to create posts, and other sites use browser. You can change threads usage independently for each method.
 
-<figure><img src="../../../.gitbook/assets/settings - 2.jpg" alt=""><figcaption><p>SEO NEO's default campaign threads values.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/settings - 2.jpg" alt=""><figcaption><p>SEO Neo's default campaign threads values.</p></figcaption></figure>
 
 {% hint style="info" %}
 There is no specific number of threads you can use for threads. The general rule of thumb is that the more powerful your machine, the more threads you can use.

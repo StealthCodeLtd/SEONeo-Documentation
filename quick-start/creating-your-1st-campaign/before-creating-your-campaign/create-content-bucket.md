@@ -30,7 +30,7 @@ Then we will open and edit our content bucket to populate it with content. To ed
 
 Although it is better recommended to use articles from high quality sources (for example **Open AI**) in this tutorial will will only use free sources.
 
-We will generate a 10 articles, using "Article Builder":
+We will generate a 10 articles, using "**Article Builder**":
 
 Click "**Generate**" > "**Article Builder**"
 

@@ -34,25 +34,48 @@ The first required blog information is **Blog Name** and **Language**.
 
 <figure><img src="../../.gitbook/assets/blog generator - template.JPG" alt=""><figcaption></figcaption></figure>
 
-Choose a blog template that come built-in with SEO Neo. All templates support the same content and the difference is only on blog structure and appearance of the blog.
+Choose a blog template that come built-in with SEO Neo. All templates support the same content but each template has different blog structure and appearance.
 
 ### Logo
 
+You can set the logo for your blog either by giving a URL of a valid image, or by uploading your own  image file from your system.
 
+To use image URL select the first option ("**Add new logo from URL**") from checkboxes.
+
+<figure><img src="../../.gitbook/assets/blog generator - insert logo.jpg" alt=""><figcaption><p>Add logo by giving a valid image URL</p></figcaption></figure>
+
+To upload your own image from a file, select the second option and then click on the circle to open file dialog. After selecting your image file, you will see a preview of your logo.
+
+<figure><img src="../../.gitbook/assets/cloud blog generator - logo file.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Your logo image must be .jpeg, .jpg, .png or .gif type. Maximum size for file is 5 MB
+{% endhint %}
 
 ### Cover Image
 
+To change blog's cover image, you can use the same options and process as changing logo. You can either user a valid image URL or upload your own image from file.
 
-
-
+<figure><img src="../../.gitbook/assets/cloud generator - header image.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Blog Sections
 
+You can customize what sections will be available for your blog, including menu, sitemap, footer, social links etc.
 
+<figure><img src="../../.gitbook/assets/cloud blogs generator - sections.jpg" alt=""><figcaption></figcaption></figure>
+
+If you have **Social links** enabled, you will have to enter your social media URL links on each separate field.
+
+<figure><img src="../../.gitbook/assets/cloud blog generator - social links.jpg" alt=""><figcaption></figcaption></figure>
+
+You can set **Contact** and **About us** sections for you blog using advance built-in editors. From the editors, you can set formatted text, spin text using spinners or even translate the text.
+
+<figure><img src="../../.gitbook/assets/cloud blog generator - sections 2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Author Information
 
+You can set Author information including **Author name** and **Author bio** which can be set from separate fields. You can enter spintax text to include multiple variations.
 
+<figure><img src="../../.gitbook/assets/cloud blog generator - author information.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
+You can generate names in spintax format or get a default author bio which is also in spintax format to include multiple variations.

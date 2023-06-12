@@ -182,7 +182,7 @@ You can copy-paste settings to: **All Tiers**, **Same Tier** or **Tier 2+**.
 
 <figure><img src="../../../.gitbook/assets/groups - copy settinsg 3.JPG" alt=""><figcaption></figcaption></figure>
 
-In our example we used "Copy All Settings" and "All Tiers". As we can see, the rest of Web 2.0 Blogs now have the same setup.
+In our example we used "**Copy All Settings**" and "**All Tiers**". As we can see, the rest of Web 2.0 Blogs now have the same setup.
 
 <figure><img src="../../../.gitbook/assets/groups - copy settings 4.jpg" alt=""><figcaption><p>Web 2.0 Blogs (2) has the same settings with Web 2.0 Blogs (1)</p></figcaption></figure>
 

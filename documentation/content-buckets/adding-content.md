@@ -88,7 +88,7 @@ SEO Neo includes a free spinner, but you can also use any 3rd-party supported sp
 
 <figure><img src="../../.gitbook/assets/spinners.jpg" alt=""><figcaption><p>Available spinners</p></figcaption></figure>
 
-Below is an example of a basic article text that gets "spinned" using SEO NEO's built-in free spinner. As you can see, although the original text was very small and simple, after spinning, we got many different variations.
+Below is an example of a basic article text that gets "spinned" using SEO Neo's built-in free spinner. As you can see, although the original text was very small and simple, after spinning, we got many different variations.
 
 | Original article text                     | Spintax format generated from free spinner                                                                                                                                                                                        |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ Below is an example of a basic article text that gets "spinned" using SEO NEO's 
 
 When you want to check how your article will look like, you can see "**Article Preview**" window on the right section of the editor. This preview will also preview HTML code preview, so you can easily check your text and HTML. In order to update and preview any changes in the **Article HTML body**, you have to click on "**Update Preview**" button first.
 
-<figure><img src="../../.gitbook/assets/article html editor - preview.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/article html editor - preview.jpg" alt=""><figcaption><p>Click "Update Review" button on the top right section to preview any changes</p></figcaption></figure>
 
 {% hint style="info" %}
 Whenever you make any changes, click "**Update Preview**" button to update and render the preview of the article.
@@ -113,8 +113,6 @@ Adding a short description is the same like adding an article. The difference is
 Short descriptions don't have full article editor because the user is only required to add a description title and a small description (recommended 255 characters long).
 
 <figure><img src="../../.gitbook/assets/short description.JPG" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Adding Bio
 
@@ -150,7 +148,7 @@ It is highly recommended to include rich content on your content buckets. This i
 
 ### Scraping Rich Content
 
-If you don't any rich content URLs but you still need to find some for your content bucket, SEO NEO has a free built-in scraper.
+If you don't any rich content URLs but you still need to find some for your content bucket, SEO Neo has a free built-in scraper.
 
 To use the scraper:
 
@@ -162,13 +160,13 @@ To use the scraper:
 
 <figure><img src="../../.gitbook/assets/scrape type.jpg" alt=""><figcaption></figcaption></figure>
 
-3\) Enter keyword you want SEO NEO to use to scrape content.
+3\) Enter keyword you want SEO Neo to use to scrape content.
 
 4\) Enter the number of URLs you want to scrape (maximum 20).
 
 <figure><img src="../../.gitbook/assets/scrape images (1).JPG" alt=""><figcaption></figcaption></figure>
 
-5\) Click "**Scrape Images/Videos**" and SEO NEO will fetch URLs for you, based on given keywords.
+5\) Click "**Scrape Images/Videos**" and SEO Neo will fetch URLs for you, based on given keywords.
 
 
 
@@ -178,6 +176,6 @@ Blog details are include "**Blog Name**" and "**Blog Subdomain**" that will be u
 
 Both blog name and blog subdomain support spintax format to include variations.
 
-You can also click on "**Default Value**" to use built-in SEO NEO's default blog names and subdomains which come in spintax format.&#x20;
+You can also click on "**Default Value**" to use built-in SEO Neo's default blog names and subdomains which come in spintax format.&#x20;
 
-<figure><img src="../../.gitbook/assets/blog details.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/blog details.jpg" alt=""><figcaption><p>You can always use "Default Value" buttons to fetch pre-defined Blog Names or Blog Sub-domains</p></figcaption></figure>

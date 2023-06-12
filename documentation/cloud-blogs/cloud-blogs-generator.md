@@ -79,3 +79,14 @@ You can set Author information including **Author name** and **Author bio** whic
 <figure><img src="../../.gitbook/assets/cloud blog generator - author information.jpg" alt=""><figcaption></figcaption></figure>
 
 You can generate names in spintax format or get a default author bio which is also in spintax format to include multiple variations.
+
+### Generating Cloud Blog
+
+To generate your blog, finish the setup of your blog details and click "**Generate Blog**" button on the bottom right. This will generate all blog files based on your setup. These files are generated and stored locally on your system.
+
+If you make any additional changes, the "**Generate Blog**" button, will change into "**Regenerate Blog**". This will generate the blog files again.
+
+### Uploading Your Blog
+
+After you blog generation is finished, you can click on "**Upload**" button on the bottom right corner to upload your blog.
+

@@ -1,6 +1,6 @@
 # Groups relationships
 
-SEO NEO introduces an new way of displaying diagrams. The new diagram form is more compact and its more versatile if you understand they way it works.
+SEO Neo introduces an new way of displaying diagrams. The new diagram form is more compact and its more versatile if you understand they way it works.
 
 A group (link group) can be connected with another groups that are located below or above them. Groups below of them are called **children** and groups above them are called **parents**.
 

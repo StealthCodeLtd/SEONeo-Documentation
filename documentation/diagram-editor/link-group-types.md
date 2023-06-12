@@ -2,7 +2,7 @@
 
 A diagram can include **many links groups** but also many different **link group types**.
 
-SEO NEO supports hundreds of different websites that it can post. It would be difficult to have all websites in one group type because each group type is for different website type.
+SEO Neo supports hundreds of different websites that it can post. It would be difficult to have all websites in one group type because each group type is for different website type.
 
 For example **Web 2.0 Blogs** group type, includes all web 2.0 websites (sites that support rich content, like images, video URLs, embed coded etc.)
 

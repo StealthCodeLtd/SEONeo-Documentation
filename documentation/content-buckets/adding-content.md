@@ -40,17 +40,15 @@ In the following example we will add a new article inside our content bucket.
 
 3\) Insert all required text on article editor and click "**Save**". Each content type has it's own editor depending on required data. In this example we add an article so we see the full article editor.
 
-<figure><img src="../../.gitbook/assets/article editor.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/article html editor.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Different content types require different data entry. Refer to [**content types**](broken-reference) for more information.
 {% endhint %}
 
-
-
 ### Article Editor
 
-Article editor is where you can create and edit articles that which are stored inside content buckets. Other content types like short descriptions, bios etc have only a simple text form but articles can include rich content and formatted text.
+Article editor is where you can create and edit articles that which are stored inside content buckets. Other content types like short descriptions, bios etc. have only a simple text form but articles can include rich content and formatted text.
 
 {% hint style="info" %}
 Where you write article title and article body, it is preferred to use [**spintax format**](../../additional-information/glossary/spintax-format.md), which makes you title to include different variations. If you don't use spintax format, your article will get posted as it is.
@@ -58,7 +56,7 @@ Where you write article title and article body, it is preferred to use [**spinta
 
 Below we can see the basic section of article editor.
 
-<figure><img src="../../.gitbook/assets/article editor sections.jpg" alt=""><figcaption><p>Article editor basic sections</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/article html editor - sections.jpg" alt=""><figcaption></figcaption></figure>
 
 #### 1) Article Title
 
@@ -66,7 +64,7 @@ This is where you put your article title. You can also insert default spun title
 
 #### 2) Short Codes
 
-Short codes are special tags that you insert inside article body. These tags make forces SEO NEO to include keyword, rich content or embedded code from your campaign settings.
+Short codes are special tags that you insert inside article body. These tags make forces SEO Neo to include keyword, rich content or embedded code from your campaign settings.
 
 If you don't include any short code, keywords will be places at random positions (defined from your campaign campaign settings). If you include short codes, you set specific positions inside article body where you want keywords to appear.
 
@@ -74,9 +72,9 @@ If you don't include any short code, keywords will be places at random positions
 Using "**any keyword**" will randomly select an available keyword from your campaign.
 {% endhint %}
 
-#### 3) Article Body
+#### 3) Article HTML Body
 
-This is where you write your article body. You can use editor buttons to format your text, insert links, images etc.&#x20;
+This is where you write your article body. You can enter text and HTML code. The default value in the window is \<p> \</p>, because at least a paragraph is needed. Even if you delete \<p> tags in the article editor, SEO Neo will add it on the fly.
 
 #### 4) Spin
 
@@ -86,11 +84,11 @@ To spin your article, select one of the available spinners and then click "**Spi
 
 <figure><img src="../../.gitbook/assets/spinner combobox.jpg" alt=""><figcaption><p>Click on menu to select a spinner.</p></figcaption></figure>
 
-SEO NEO includes a free spinner, but you can also use any 3rd-party supported spinner. To use a 3rd-party spinner, you will need to set your credentials (API keys etc.) from [**spinner settings**](../settings/third-party-api.md#spinner)**.**
+SEO Neo includes a free spinner, but you can also use any 3rd-party supported spinner. To use a 3rd-party spinner, you will need to set your credentials (API keys etc.) from [**spinner settings**](../settings/third-party-api.md#spinner)**.**
 
 <figure><img src="../../.gitbook/assets/spinners.jpg" alt=""><figcaption><p>Available spinners</p></figcaption></figure>
 
-Below is an example of a basic article text that gets "spinned" using SEO NEO's built-in free spinner. As you can see, although oour original text was very small and simple, after spinning, we got many different variations.
+Below is an example of a basic article text that gets "spinned" using SEO NEO's built-in free spinner. As you can see, although the original text was very small and simple, after spinning, we got many different variations.
 
 | Original article text                     | Spintax format generated from free spinner                                                                                                                                                                                        |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -98,33 +96,13 @@ Below is an example of a basic article text that gets "spinned" using SEO NEO's 
 
 #### 5) Preview Article
 
-When you want to check how your article will look like, you can use "**Preview Article**". When the article is in **spintax format**, includes images and other rich content, spin article will create a single random instance.
+When you want to check how your article will look like, you can see "**Article Preview**" window on the right section of the editor. This preview will also preview HTML code preview, so you can easily check your text and HTML. In order to update and preview any changes in the **Article HTML body**, you have to click on "**Update Preview**" button first.
 
-You can always click "**Spin Preview**" to see different variations of your text.&#x20;
+<figure><img src="../../.gitbook/assets/article html editor - preview.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/preview article.jpg" alt=""><figcaption><p>Preview example of our text article.</p></figcaption></figure>
-
-Below we can see another "Article Preview" example, with more content. We will demostrate the different (preview) variations we get, every time we click "**Spin Preview**".
-
-{% tabs %}
-{% tab title="Original article" %}
-<figure><img src="../../.gitbook/assets/spin preview - original.jpg" alt=""><figcaption></figcaption></figure>
-{% endtab %}
-
-{% tab title="Spin preview #1" %}
-<figure><img src="../../.gitbook/assets/spin variation 3.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Spin preview #2" %}
-<figure><img src="../../.gitbook/assets/Untitled-2.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Spin preview #3" %}
-<figure><img src="../../.gitbook/assets/Untitled-3.jpg" alt=""><figcaption><p>A preview variation</p></figcaption></figure>
-{% endtab %}
-{% endtabs %}
-
-
+{% hint style="info" %}
+Whenever you make any changes, click "**Update Preview**" button to update and render the preview of the article.
+{% endhint %}
 
 ### Adding Short Description
 

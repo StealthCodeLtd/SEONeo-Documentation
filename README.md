@@ -6,7 +6,7 @@
 
 ### Main menu
 
-On the left side of the software (default settings) you can find the main menu of SEO NEO. From this menu you can navigate between all main sections. If you ever find yourself lost within a section you can always use main toolbar to go back on any main section.
+On the left side of the software (default settings) you can find the main menu of SEO Neo. From this menu you can navigate between all main sections. If you ever find yourself lost within a section you can always use main toolbar to go back on any main section.
 
 <figure><img src=".gitbook/assets/main menu.jpg" alt=""><figcaption><p>Main menu (default layout setting)</p></figcaption></figure>
 
@@ -23,6 +23,6 @@ You can also change main menu position and move it to the top section from setti
 
 ### Account menu
 
-This menu is located on the top-right of the software within SEO NEO logo. From this menu the user can visit SEO NEO's website, open documentation and check his membership.
+This menu is located on the top-right of the software within SEO Neo logo. From this menu the user can visit SEO Neo's website, open documentation and check his membership.
 
 <figure><img src=".gitbook/assets/account menu.jpg" alt=""><figcaption><p>Account menu</p></figcaption></figure>

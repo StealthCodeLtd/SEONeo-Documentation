@@ -1,6 +1,6 @@
 # Third Party API
 
-Here the user can enter all credentials and API keys from 3rd-party services that are used from SEO NEO.
+Here the user can enter all credentials and API keys from 3rd-party services that are used from SEO Neo.
 
 <figure><img src="../../.gitbook/assets/settings- 3rd party api.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@ Currently supported APIs for creating spintax text:
 
 ### Content Source
 
-SEO NEO supports only Article Forge and Open AI. This service is used to generated high quality articles and text bodies based on different settings and given keyword.
+SEO Neo supports only Article Forge and Open AI. This service is used to generated high quality articles and text bodies based on different settings and given keyword.
 
 Open AI is a revolutionary artificial intelligence language model that can give exceptional results on writing quality articles for your campaigns.
 

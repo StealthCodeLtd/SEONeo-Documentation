@@ -28,7 +28,7 @@ Example: when you are in "**Articles**" section, you will import only articles f
 Content buckets without content inside them, they will not be displayed when you use "**Import from other buckets**".
 {% endhint %}
 
-"Import from other buckets" form displays information about other buckets and the amount of content it has for each content type. In the example below, we see:
+"**Import from other buckets**" form displays information about other buckets and the amount of content it has for each content type. In the example below, we see:
 
 * "**1st bucket**" has: 5 articles, 1 bio and 2 images.
 * "**2nd bucket**" has: 8 articles and 1 bio.

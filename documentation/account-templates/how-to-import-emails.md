@@ -20,7 +20,7 @@ If you already have some emails stored on other templates and you want to import
 
 <figure><img src="../../.gitbook/assets/email import from file (1).jpg" alt=""><figcaption></figcaption></figure>
 
-2\) Select email format of your text file. SEO NEO will open your OS Open File dialogue from where you can navigate on your file system and select text files where you have your emails saved.
+2\) Select email format of your text file. SEO Neo will open your OS Open File dialogue from where you can navigate on your file system and select text files where you have your emails saved.
 
 {% hint style="info" %}
 You can import emails only from text files

@@ -2,7 +2,7 @@
 
 In order to use Cloud Blogs on your campaigns you will need to setup API keys for the corresponding Cloud platform.
 
-SEO NEO currently supports these cloud platforms to generate cloud blogs:
+SEO Neo currently supports these cloud platforms to generate cloud blogs:
 
 | Amazon **(tutorial)**        | Azure **(tutorial)**        |
 | ---------------------------- | --------------------------- |

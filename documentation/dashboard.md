@@ -1,6 +1,6 @@
 # ✔ Dashboard
 
-Dashboard is SEO NEO's main screen which includes: basic software **notifications**, **what's new** from latest update and total number of **campaigns, accounts and links** created.
+Dashboard is SEO Neo's main screen which includes: basic software **notifications**, **what's new** from latest update and total number of **campaigns, accounts and links** created.
 
 ### Notifications
 

@@ -2,7 +2,7 @@
 
 ### What is an account bucket
 
-An account bucket is a collection of accounts that SEO NEO creates and uses in order to run a campaign. Each account stores log-in information for each website. Each account bucket can have multiple accounts for different websites.
+An account bucket is a collection of accounts that SEO Neo creates and uses in order to run a campaign. Each account stores log-in information for each website. Each account bucket can have multiple accounts for different websites.
 
 <figure><img src="../../.gitbook/assets/affiliate marketing copy.jpg" alt=""><figcaption><p>An account bucket is a collection of user accounts.</p></figcaption></figure>
 

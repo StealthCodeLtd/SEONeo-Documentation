@@ -2,9 +2,9 @@
 
 ### Introduction
 
-An account template is a template that is used as a guideline on how SEO NEO creates new accounts.
+An account template is a template that is used as a guideline on how SEO Neo creates new accounts.
 
-When a new account is created (registration), SEO NEO will need information on how to register this account. This information includes:
+When a new account is created (registration), SEO Neo will need information on how to register this account. This information includes:
 
 **Email details**: (username, password, mail server, SSL etc.)
 

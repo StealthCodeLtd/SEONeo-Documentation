@@ -1,8 +1,8 @@
 # Generate content
 
-Except from adding content manually and importing content, SEO NEO can also help you generate content for your content buckets.
+Except from adding content manually and importing content, SEO Neo can also help you generate content for your content buckets.
 
-To generate content you can use SEO NEO's built-in (free) **Article Builder**, **Ezine Articles** or any [**3rd-party content source API service**](../settings/third-party-api.md#content-source).
+To generate content you can use SEO Neo's built-in (free) **Article Builder**, **Ezine Articles** or any [**3rd-party content source API service**](../settings/third-party-api.md#content-source).
 
 To generate content:
 
@@ -54,7 +54,7 @@ You can also choose to spin generated articles (create variations using [**spint
 
 ## Scrape Rich Content
 
-SEO NEO comes also with rich content scrapper. The scrapper fetches URLs based on given keyword. SEO NEO can scrape **image** and **video** URLS.
+SEO Neo comes also with rich content scrapper. The scrapper fetches URLs based on given keyword. SEO Neo can scrape **image** and **video** URLS.
 
 <figure><img src="../../.gitbook/assets/scrape rich content 2.jpg" alt=""><figcaption><p>Selecting what type of rich content you want to scrape</p></figcaption></figure>
 

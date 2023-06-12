@@ -1,6 +1,6 @@
 # Proxies
 
-Here the user enter and test his proxies that SEO NEO uses on campaigns.
+Here the user enter and test his proxies that SEO Neo uses on campaigns.
 
 This menu can be found:
 
@@ -18,6 +18,6 @@ It is wise for the user to check his proxies before saving or using them on a ca
 
 ### Testing Proxies
 
-To check user proxies, click on "**Test Proxies**" button and let SEO NEO test if proxies are working.
+To check user proxies, click on "**Test Proxies**" button and let SEO Neo test if proxies are working.
 
 <figure><img src="../../.gitbook/assets/settings proxies test.jpg" alt=""><figcaption></figcaption></figure>

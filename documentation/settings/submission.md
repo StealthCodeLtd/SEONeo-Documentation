@@ -1,6 +1,6 @@
 # Submission
 
-Here the user can change different settings regarding SEO NEO submission.
+Here the user can change different settings regarding SEO Neo submission.
 
 This menu can be found:
 

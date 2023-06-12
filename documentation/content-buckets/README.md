@@ -2,12 +2,12 @@
 
 ### Introduction
 
-Content bucket is a collection different types of content that SEO NEO uses in order to create posts in different websites. A content bucket can include different content types including:
+Content bucket is a collection different types of content that SEO Neo uses in order to create posts in different websites. A content bucket can include different content types including:
 
 * Articles
 * Short Descriptions
 * Bios
-* Rich Content (image urls, video urls, embedded code)
+* Rich Content (image URLs, video URLs, embedded code)
 * Blog Details
 
 <figure><img src="../../.gitbook/assets/content_bucket.jpg" alt=""><figcaption><p>Each content bucket can include many entries and different types of content (like images, videos, text etc.)</p></figcaption></figure>

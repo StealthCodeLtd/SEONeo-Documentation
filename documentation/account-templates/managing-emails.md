@@ -1,6 +1,6 @@
 # Managing emails
 
-As we mentioned on the previous section, an account template is like a preset where you keep all details on which information SEO NEO will use in order to create an account. In order for the software to create an account it needs valid emails and a template to generate usernames and passwords. In this section we will explain how you can manage emails for each account template.
+As we mentioned on the previous section, an account template is like a preset where you keep all details on which information SEO Neo will use in order to create an account. In order for the software to create an account it needs valid emails and a template to generate usernames and passwords. In this section we will explain how you can manage emails for each account template.
 
 ### Add email
 

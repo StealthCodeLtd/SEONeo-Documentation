@@ -2,9 +2,9 @@
 
 ### What is a Cloud Blog
 
-SEO NEO offers a huge variaty of backlinks from different sources. Except from high-domain authority websites, SEO NEO also supports cloud-based properties like Cloud Blogs. This gives the ability the user to include [**cloud-staking strategies**](../../additional-information/glossary/cloud-staking.md) to boost his rankings.
+SEO Neo offers a huge variety of backlinks from different sources. Except from high-domain authority websites, SEO Neo also supports cloud-based properties like Cloud Blogs. This gives the ability the user to include [**cloud-staking strategies**](../../additional-information/glossary/cloud-staking.md) to boost his rankings.
 
-You can generate cloud blogs and then use those blogs on your campaigns along with any other group types that SEO NEO.
+You can generate cloud blogs and then use those blogs on your campaigns along with any other group types that SEO Neo.
 
 ### How it works
 
@@ -17,6 +17,6 @@ Before using cloud blog features it is recommended to setup **cloud API settings
 There are four different parts when using cloud blogs:
 
 * [**Setup cloud service**](cloud-blogs-settings/) you want to use.
-* **Generate cloud blog** (using Cloud Blog Generator).
+* [**Generate cloud blog**](cloud-blogs-generator.md) (using Cloud Blog Generator).
 * **Upload generated cloud blogs** to service.
 * **Use your cloud blogs** within SEO Neo campaigns.

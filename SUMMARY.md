@@ -54,6 +54,7 @@
     * [Back Blaze - setup](documentation/cloud-blogs/cloud-blogs-settings/black-blaze-setup.md)
     * [IBM - setup](documentation/cloud-blogs/cloud-blogs-settings/ibm-setup.md)
   * [Cloud Blogs Generator](documentation/cloud-blogs/cloud-blogs-generator.md)
+  * [Uploading Cloud Blogs](documentation/cloud-blogs/uploading-cloud-blogs.md)
   * [Using Cloud Blogs on campaigns](documentation/cloud-blogs/using-cloud-blogs-on-campaigns.md)
 * [⭐ Features](documentation/features/README.md)
   * [Link Matching](documentation/features/link-matching.md)

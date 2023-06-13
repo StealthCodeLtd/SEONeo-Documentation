@@ -15,3 +15,9 @@ Each service has different credentials. For example on the image below we can se
 <figure><img src="../../../.gitbook/assets/cloud api settings - settings.jpg" alt=""><figcaption></figcaption></figure>
 
 In order to learn how to obtain required credentials, you can read some quick guides for each cloud service on the next pages.
+
+### Multiple API Settings
+
+You can save multiple credential settings for each cloud service. You can manage each setting separately using the edit and delete buttons from the list.&#x20;
+
+<figure><img src="../../../.gitbook/assets/cloud blogs - api multiple apis.jpg" alt=""><figcaption><p>Azure example with multiple credential instances.</p></figcaption></figure>

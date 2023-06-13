@@ -88,5 +88,8 @@ If you make any additional changes, the "**Generate Blog**" button, will change 
 
 ### Uploading Your Blog
 
-After you blog generation is finished, you can click on "**Upload**" button on the bottom right corner to upload your blog.
+After you blog generation is finished, you can click on "**Upload**" button on the bottom right corner to upload your blog. If a blog is not uploaded a label "**Not uploaded**" will be shown on your cloud blogs list as shown on the image below.
 
+<figure><img src="../../.gitbook/assets/cloud blogs - not uploaded.jpg" alt=""><figcaption></figcaption></figure>
+
+On the next section we will see how you can upload your generated blog on cloud services.

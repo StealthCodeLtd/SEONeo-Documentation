@@ -2,6 +2,8 @@
 
 ### Main sections
 
+There are three different main sections on SEO Neo. The **main menu** where the user can navigate between software sections/screens. On the image below, main menu is located on the left section of the software. This can change from software settings. The **account menu**, where you can find information find important links, login/logout from your account and export Debug info to get better support. On screen center you can see **software screen**. This is where all the magic happens!
+
 <figure><img src=".gitbook/assets/main sections.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Main menu
@@ -23,6 +25,6 @@ You can also change main menu position and move it to the top section from setti
 
 ### Account menu
 
-This menu is located on the top-right of the software within SEO Neo logo. From this menu the user can visit SEO Neo's website, open documentation and check his membership.
+This menu is located on the top-right of the software within SEO Neo logo. From this menu the user can visit SEO Neo's website, open documentation and check his membership. From account menu you can also export [**Debug Report**](additional-information/faqs/debug-report.md).
 
 <figure><img src=".gitbook/assets/account menu.jpg" alt=""><figcaption><p>Account menu</p></figcaption></figure>

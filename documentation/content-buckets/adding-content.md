@@ -64,7 +64,13 @@ This is where you put your article title. You can also insert default spun title
 
 #### 2) Short Codes
 
-Short codes are special tags that you insert inside article body. These tags make forces SEO Neo to include keyword, rich content or embedded code from your campaign settings.
+Short codes are special tags that you insert inside article body. These tags sets specific positions/placements where next keyword will be placed.&#x20;
+
+{% hint style="info" %}
+If the next keyword type on the campaign  is not the same as short code keyword type, the short code gets ignored.
+{% endhint %}
+
+Except from keyword types, short codes can also be image, video, or embedded code.
 
 If you don't include any short code, keywords will be places at random positions (defined from your campaign campaign settings). If you include short codes, you set specific positions inside article body where you want keywords to appear.
 
@@ -74,7 +80,7 @@ Using "**any keyword**" will randomly select an available keyword from your camp
 
 #### 3) Article HTML Body
 
-This is where you write your article body. You can enter text and HTML code. The default value in the window is \<p> \</p>, because at least a paragraph is needed. Even if you delete \<p> tags in the article editor, SEO Neo will add it on the fly.
+This is where you write your article body. You can enter text and HTML code. The default value in the window is **\<p> \</p>**, because at least a paragraph is needed. Even if you delete \<p> tags in the article editor, SEO Neo will add it on the fly.
 
 #### 4) Spin
 

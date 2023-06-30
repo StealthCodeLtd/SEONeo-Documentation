@@ -1,10 +1,8 @@
 # How do I transfer my SEO AP Accounts?
 
-### \[ This page is under construction]
-
 ### Export Account Presets from SEO Autopilot
 
-From version X of SEO Autopilot, we have implemented export accounts function for SEO Neo.
+On SEO Autopilot, we have implemented export accounts function for SEO Neo.
 
 Open **SEO Autopilot**
 
@@ -28,5 +26,11 @@ Open **SEO Neo**
 
 Navigate: **Accounts** from main menu> **Account Buckets**
 
+Click on "**Import**" button. This will open File Open dialog. Locate your exported accounts file (from SEO Autopilot) and SEO Neo will import and convert all accounts.
 
+<figure><img src="../../.gitbook/assets/accounts import.jpg" alt=""><figcaption></figcaption></figure>
+
+After import process finishes, a new bucket will be created inside your current folder (in this case the bucket is created inside "real estate" folder). The default bucket name is "SEO Autopilot Accounts". You can always change the name later if you want.
+
+<figure><img src="../../.gitbook/assets/seo neo - imported accounts.jpg" alt=""><figcaption><p>Accounts number shows how many different accounts exist inside each account bucket.</p></figcaption></figure>
 

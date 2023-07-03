@@ -28,11 +28,11 @@ Give a name for your bucket and click "**Continue**" button.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Google 4.jpg" alt=""><figcaption></figcaption></figure>
 
-Continue by setting the next options based on your preference. On the step "**Choose how to control access objects**", on **Access control** set "**Uniform**" and continue.&#x20;
+Continue by setting the next options based on your preference. On the step "**Choose how to control access objects**", on **Access control** set "**Fine-grained**" and continue.&#x20;
 
 The option "**Enforce public access prevention on this bucket**" must be unchecked (disabled).
 
-<figure><img src="../../../.gitbook/assets/Google 5 (2).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Google 5.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The option "**Enforce access prevention on this bucket**" must be **unchecked/disabled** as shown on the image below. If you have this enabled, it **will not work** for SEO Neo.

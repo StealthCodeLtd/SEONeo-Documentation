@@ -49,7 +49,7 @@ To upload your own image from a file, select the second option and then click on
 <figure><img src="../../.gitbook/assets/cloud blog generator - logo file.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Your logo image must be .jpeg, .jpg, .png or .gif type. Maximum size for file is 5 MB
+Your logo image must be **.jpeg**, **.jpg**, **.png** or **.gif** type. Maximum size for file is 5 MB
 {% endhint %}
 
 ### Cover Image

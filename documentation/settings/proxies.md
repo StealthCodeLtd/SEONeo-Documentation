@@ -48,3 +48,7 @@ Using good quality proxies is very important to achieve high success rates on yo
 Another thing to consider when choosing proxies, is to use proxies that are as close as possible to your region - either your computer or your server (wherever you are using SEO Neo).
 
 When using rotating proxies, you need to have "**automatic IP reset**" disabled. Most proxy providers have this option enabled by default, so you need to disabled it, before using them on your campaigns.
+
+{% hint style="info" %}
+If you have "**automatic IP reset**" disabled, you need to reset your proxies manually. It is recommended to reset your proxy IP every time you run a campaign in order to get new fresh IPs.
+{% endhint %}

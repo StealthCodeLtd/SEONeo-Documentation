@@ -33,7 +33,7 @@ SEO Neo supports both types. Just keep in mind to use the correct format (using 
 
 To check user proxies, click on "**Test Proxies**" button and let SEO Neo test if proxies are working.
 
-<figure><img src="../../.gitbook/assets/settings proxies test.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/settings proxies test.jpg" alt=""><figcaption><p>It is a good practise to test your proxies within SEO Neo</p></figcaption></figure>
 
 When using "**Test Proxies**", SEO Neo will ask you if you want non-working proxies to get removed after testing. Select "Yes" if you want non working-proxies to be removed after test.
 
@@ -47,7 +47,7 @@ Using good quality proxies is very important to achieve high success rates on yo
 
 Another thing to consider when choosing proxies, is to use proxies that are as close as possible to your region - either your computer or your server (wherever you are using SEO Neo).
 
-When using rotating proxies, you need to have "**automatic IP reset**" disabled. Most proxy providers have this option enabled by default, so you need to disabled it, before using them on your campaigns.
+When using rotating mobile proxies, you need to have "**automatic IP reset**" disabled. Most rotating mobile proxy providers, have this option enabled by default, so you need to disabled it, before using them on your campaigns.
 
 {% hint style="info" %}
 If you have "**automatic IP reset**" disabled, you need to reset your proxies manually. It is recommended to reset your proxy IP every time you run a campaign in order to get new fresh IPs.

@@ -1,7 +1,5 @@
 # Azure - setup
 
-### \[This section is under construction]
-
 ### Azure API Settings
 
 Required credentials:

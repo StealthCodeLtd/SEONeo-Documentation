@@ -59,6 +59,7 @@
 * [⭐ Features](documentation/features/README.md)
   * [Link Matching](documentation/features/link-matching.md)
   * [Article Builder](documentation/features/article-builder.md)
+  * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
 
 ## Quick Start
 
@@ -101,3 +102,8 @@
   * [Tiers](additional-information/glossary/tiers.md)
   * [Captcha service](additional-information/glossary/captcha-service.md)
   * [Drip Feed](additional-information/glossary/drip-feed.md)
+
+## 📹 Video Tutorials
+
+* [Tips & Tricks](video-tutorials/tips-and-tricks.md)
+* [Video Tutorials](video-tutorials/video-tutorials.md)

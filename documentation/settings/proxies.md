@@ -52,3 +52,7 @@ When using rotating mobile proxies, you need to have "**automatic IP reset**" di
 {% hint style="info" %}
 If you have "**automatic IP reset**" disabled, you need to reset your proxies manually. It is recommended to reset your proxy IP every time you run a campaign in order to get new fresh IPs.
 {% endhint %}
+
+You can also watch our video tutorial below:
+
+{% embed url="https://www.youtube.com/watch?v=TyNOtjwPlU4" %}

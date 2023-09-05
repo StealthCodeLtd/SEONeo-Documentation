@@ -60,3 +60,8 @@ You can test emails that you've added on your your template by clicking "**Test*
 Test process is testing if the email is valid (using email credentials) it cannot test if the mail is banned or best fit for your campaign.
 {% endhint %}
 
+
+
+You can also watch our video tutorial on how to use Gmails on your account templates:
+
+{% embed url="https://www.youtube.com/watch?v=6CWLaw8NGsg" %}

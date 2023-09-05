@@ -1,5 +1,7 @@
 # Migrating Installation
 
+{% embed url="https://www.youtube.com/watch?v=0Gfi0KZekM8" %}
+
 To transfer you installation into another machine, you will need to transfer (**copy - paste**) **"seoneo"** folder from the original installation into target installation.
 
 On Windows and Mac OS machines, the folder path is different. You can find the path below for both systems.

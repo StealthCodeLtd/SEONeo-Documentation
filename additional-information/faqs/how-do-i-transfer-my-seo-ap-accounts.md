@@ -1,5 +1,9 @@
 # How do I transfer my SEO AP Accounts?
 
+{% embed url="https://www.youtube.com/watch?v=uhZbb9Ps6W8" %}
+Watch our video tutorial
+{% endembed %}
+
 ### Export Account Presets from SEO Autopilot
 
 On SEO Autopilot, we have implemented export accounts function for SEO Neo.

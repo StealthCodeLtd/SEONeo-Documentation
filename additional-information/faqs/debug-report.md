@@ -1,5 +1,7 @@
 # Debug Report
 
+{% embed url="https://www.youtube.com/watch?v=gOXJ4JNYPNk" %}
+
 When you open a ticket for a technical issue or for reporting a bug, it is recommended to also include a debug report.&#x20;
 
 {% hint style="info" %}

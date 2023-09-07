@@ -54,3 +54,6 @@ Now you are ready to use OpenAI for your content on content buckets.
 
 
 
+Watch our [**Tips and Tricks video**](https://youtu.be/cVdeYw-PIuk) on how to use OpenAI for your content buckets below:
+
+{% embed url="https://youtu.be/cVdeYw-PIuk" %}

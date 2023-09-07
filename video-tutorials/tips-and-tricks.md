@@ -21,3 +21,7 @@ Here is a list of all "**Tips & Tricks**" videos from [**our official Youtube ch
 ### Migrating Your Installation
 
 {% embed url="https://www.youtube.com/watch?v=0Gfi0KZekM8" %}
+
+### Using OpenAI for Content Buckets
+
+{% embed url="https://youtu.be/cVdeYw-PIuk" %}

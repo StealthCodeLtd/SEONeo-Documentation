@@ -44,11 +44,12 @@ You can also enter new categories and tags on the corresponding fields. You need
 
 Except from rich content like images, Wordpress posts may also include featured images. To manage and select featured images, click on "**Manage Featured Images**" button.
 
-<figure><img src="../../.gitbook/assets/shw - featured images 1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/featured image 1.jpg" alt=""><figcaption><p>You can drag and drop image files on the left side of the menu.</p></figcaption></figure>
 
-From this form you can upload and manage your featured images. To upload an image click on "**Drop or Select file**" or drag and drop image file on that area. You can select multiple image files if you want and then click "**Upload files**" button.
+From this form you can upload and manage your featured images. To upload an image click on "**Drop or Select file**" or drag and drop image file on that area. You can select multiple image files if you want and then click "**Upload Files**" button.
 
-<figure><img src="../../.gitbook/assets/shw - featured image 2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/featured image - 3.jpg" alt=""><figcaption></figcaption></figure>
 
+Except from uploading images from files, you can also enter image URLs for featured image. Use the text box on the right section to enter image URLs (enter one image URL per line).
 
-
+<figure><img src="../../.gitbook/assets/featured image 2.jpg" alt=""><figcaption></figcaption></figure>

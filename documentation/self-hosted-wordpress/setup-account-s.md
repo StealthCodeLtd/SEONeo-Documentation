@@ -45,7 +45,7 @@ Click on "**Add New Application Password**" button.
 
 <figure><img src="../../.gitbook/assets/app password 3.jpg" alt=""><figcaption></figcaption></figure>
 
-A new password has been generated. Copy that passowrd and use it when you add a new Wordpress account on Self Hosted Wordpress.
+A new password has been generated. Copy that password and use it when you add a new Wordpress account on Self Hosted Wordpress.
 
 <figure><img src="../../.gitbook/assets/app password 4.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ A new password has been generated. Copy that passowrd and use it when you add a 
 
 ## Your Account Password
 
-If you want, you can also user your default Wordpress account password, without the need to create a new application password, but this method is not recommended.
+If you want, you can also use your default Wordpress account password, without the need to create a new application password, but this method is not recommended.
 
 If you want to use your account password, you will need to install **JSON Basic Authentication** **plug-in** for this method to work.
 

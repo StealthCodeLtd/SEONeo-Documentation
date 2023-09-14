@@ -10,4 +10,10 @@ Keep in mind that in order to use this feature you need the following:
 * To add your account inside SEO Neo (Accounts > Templates).
 * A diagram that includes at least a single Self Hosted Wordpress group.
 
-For more details on how to fully utilize this extremely powerful feature, read the next sections,
+For more details on how to fully utilize this extremely powerful feature, read the next sections.
+
+
+
+### Video Tutorial on How to Use Self-Hosted Wordpress
+
+{% embed url="https://www.youtube.com/watch?v=VVL5CJtrq_w" %}

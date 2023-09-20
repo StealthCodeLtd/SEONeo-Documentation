@@ -25,3 +25,7 @@ Here is a list of all "**Tips & Tricks**" videos from [**our official Youtube ch
 ### Using OpenAI for Content Buckets
 
 {% embed url="https://youtu.be/cVdeYw-PIuk" %}
+
+### Using Rich Content Scraper
+
+{% embed url="https://youtu.be/OqGiYd1P7JU" %}

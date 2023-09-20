@@ -63,3 +63,7 @@ SEO Neo comes also with rich content scrapper. The scrapper fetches URLs based o
 {% hint style="info" %}
 Rich content is very important for content buckets that are used on campaigns with groups that support posts with rich content (example: Web 2.0 Blogs)
 {% endhint %}
+
+Watch a video below on how to add rich content and how to use SEO Neo's built-in scraper:
+
+{% embed url="https://youtu.be/OqGiYd1P7JU" %}

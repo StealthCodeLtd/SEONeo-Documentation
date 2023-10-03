@@ -1,10 +1,10 @@
 # 📑 Campaigns
 
-For campaigns there are three different screens: **campaigns overview**, **campaign details** and **campaign creation** form.
+For campaigns there are three different screens: **campaigns overview**, **campaign details** and **campaign creation**.
 
 ### Campaigns Overview
 
-From this screen you can see all campaigns listed. New campaigns and running campaigns are listed here. Also the user can **start** and **stop** campaigns from this screen.
+This is where you can view all your campaigns. From this screen you can create new campaigns, start and stop them. You can also organize your campaigns within folders.
 
 ### Campaigns Details
 

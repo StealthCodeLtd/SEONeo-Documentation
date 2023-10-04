@@ -18,5 +18,5 @@ There are four different parts when using cloud blogs:
 
 * [**Setup cloud service**](cloud-blogs-settings/) you want to use.
 * [**Generate cloud blog**](cloud-blogs-generator.md) (using Cloud Blog Generator).
-* **Upload generated cloud blogs** to service.
-* **Use your cloud blogs** within SEO Neo campaigns.
+* [**Upload generated cloud blogs**](<using-cloud-blogs-on-campaigns (1).md>) to service.
+* [**Use your cloud blogs**](using-cloud-blogs-on-campaigns.md) within SEO Neo campaigns.

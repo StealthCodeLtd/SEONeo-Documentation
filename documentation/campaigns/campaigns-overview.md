@@ -89,11 +89,23 @@ Below is a clip demonstrating how to create a new folder and moves your campaign
 
 ### Import/Export Campaigns
 
+Import/export is a convenient way to transfer selected campaigns into other installations. You can also export your campaigns in case you want to keep a backup of them.
 
+To export: select your campaigns using checkboxes and then use the burger button on the top right. From there you will find an option to export campaigns.
+
+<figure><img src="../../.gitbook/assets/campaign-export.jpg" alt=""><figcaption><p>Export campaign</p></figcaption></figure>
+
+To import a campaign: use the "**Import**" button and select any previously exported campaign.
+
+<figure><img src="../../.gitbook/assets/campaign-import-1.jpg" alt=""><figcaption><p>Import campaign</p></figcaption></figure>
 
 
 
 ### Duplicate Campaign
 
+Many times a user needs to create multiple campaign with minor differences or even create copies of campaigns to use them as basic templates to built a new one.
 
+To duplicate a campaign, use "**Duplicate**" hover button that appears when you hover a campaign from the list.
+
+<figure><img src="../../.gitbook/assets/duplicate-campaig.jpg" alt=""><figcaption><p>Duplicate campaign</p></figcaption></figure>
 

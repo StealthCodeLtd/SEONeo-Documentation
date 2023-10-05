@@ -12,6 +12,12 @@ You can select one or multiple services you want to upload your blogs by using t
 
 When you select (check) a cloud service, the menu expands to show settings for selected service. Upload settings are different from service to service. For example on Azure you only have to select **Bucket** and **Directory** but on Bunny you also have to select **Pull zone.**
 
+{% hint style="info" %}
+For best compatibility, we recommend that you avoid using dots (.) in bucket names, except for buckets that are used only for static website hosting.&#x20;
+
+If you include dots in a bucket's name, you can't use virtual-host-style addressing over HTTPS, unless you perform your own certificate validation. This is because the security certificates used for virtual hosting of buckets don't work for buckets with dots in their names.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/cloud blogs - upload 3.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}

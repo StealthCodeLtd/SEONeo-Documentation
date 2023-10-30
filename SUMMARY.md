@@ -63,6 +63,7 @@
   * [Link Matching](documentation/features/link-matching.md)
   * [Article Builder](documentation/features/article-builder.md)
   * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
+  * [Sibling Groups](documentation/features/sibling-groups.md)
 
 ## Quick Start
 

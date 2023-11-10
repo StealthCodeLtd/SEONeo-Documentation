@@ -10,17 +10,13 @@ There are four main sections on settings:
 
 You set which captcha service you want to use for your campaign. You can select **Primary** and **Secondary Captcha** service. The Secondary Captcha service is optional and will be used whenever the first (primary) captcha service fails to solve.
 
-
-
 ### **(2) Threads**
 
-This settings is similar to SEO Neo global [**Settings**](../../settings/). You can set the number of concurrent browsers you want the campaign to use at the same time and also set how many HTTP connection threads you want for your campaign.
+This settings is similar to SEO Neo global [**Settings**](../../settings/). You can set the number of concurrent browsers you want the campaign to use at the same time and also set how many HTTP connection threads you want for your campaign.&#x20;
 
 {% hint style="info" %}
 Keep in mind that **HTTP connections** is **more lightweight** on resources that browsers. On some websites SEO Neo uses HTTP and on other (for example Web 2.0 Blogs) it uses browsers.
 {% endhint %}
-
-###
 
 ### **(3) Posts Drip Feed**
 
@@ -42,12 +38,10 @@ Another option to drip feed your posts is to give SEO Neo "how many days to run"
 **Drip feed** makes your campaign posts to be evaluated as more "natural" and "organic" for search engines. This setting is an important factor when you create your SEO strategy for your campaign.
 {% endhint %}
 
-###
-
 ### **(4) Campaign Schedule**
 
 You can check "**Schedule Campaign Start**" checkbox option and set a specific date and time for your campaign to run.&#x20;
 
 {% hint style="info" %}
-If you want to you schedule for your campaign, don;t close SEO Neo, as it will not be able to auto start your scheduled campaigns.
+If you want to you schedule for your campaign, don't close SEO Neo, as it will not be able to auto start your scheduled campaigns.
 {% endhint %}

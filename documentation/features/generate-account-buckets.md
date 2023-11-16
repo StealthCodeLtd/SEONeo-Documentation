@@ -53,3 +53,10 @@ Another thing to notice here, is that SEO Neo, generated a new folder to keep al
 **\<campaign name> \_ \<prefix>**
 
 <figure><img src="../../.gitbook/assets/generate account buckets 10.jpg" alt=""><figcaption></figcaption></figure>
+
+### Using Generate Account Buckets with Sibling Groups
+
+When your campaign contains sibling groups (please [**this section for more information**](sibling-groups.md) on **sibling groups**) if you will need to enable "**Hide Sibling Groups**" option if you want SEO Neo to generate a single account bucket for each sibling group.
+
+
+

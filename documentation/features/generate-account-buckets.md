@@ -1,6 +1,6 @@
 # Generate Account Buckets
 
-From **update version 1.5.0** we have added "Generate Account Buckets" feature. Say goodbye to the tedious task of manually creating and assigning account buckets. 🛠️ SEO Neo's new feature makes your process smoother and faster.
+From **update version 1.5.0** we have added "**Generate Account Buckets**" feature. Say goodbye to the tedious task of manually creating and assigning account buckets. 🛠️ SEO Neo's new feature makes your process smoother and faster.
 
 This quality of life update can save you hours, especially with huge and complex campaigns where you have to create and assign account buckets to each link group.
 

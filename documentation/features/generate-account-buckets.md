@@ -52,11 +52,16 @@ SEO Neo generated **six (6)** account buckets. The reason being, is selected dia
 Another thing to notice here, is that SEO Neo, generated a new folder to keep all new account buckets inside. Generated folder name format is:\
 **\<campaign name> \_ \<prefix>**
 
-<figure><img src="../../.gitbook/assets/generate account buckets 10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/generate account buckets 10.jpg" alt=""><figcaption><p>SEO Neo generated new account buckets folder</p></figcaption></figure>
 
-### Using Generate Account Buckets with Sibling Groups
+### Using "Generate Account Buckets" with Sibling Groups
 
-When your campaign contains sibling groups (please [**this section for more information**](sibling-groups.md) on **sibling groups**) if you will need to enable "**Hide Sibling Groups**" option if you want SEO Neo to generate a single account bucket for each sibling group.
+When your campaign contains sibling groups (please [**this section for more information**](sibling-groups.md) on **sibling groups**) if you will need to enable "**hide sibling groups**" option if you want SEO Neo to generate a single account bucket for each sibling group.
 
+<figure><img src="../../.gitbook/assets/generate account buckets sibling.jpg" alt=""><figcaption><p>Hide sibling groups option</p></figcaption></figure>
 
+In the example above, if you have "**hide sibling groups**" disabled, SEO Neo will generate **four (4)** new account buckets. If on the the other hand you have this option enabled, SEO Neo will generate **three (3)** new account buckets (this is because sibling groups usually share the same account bucket).
 
+{% hint style="info" %}
+"**Hide sibling groups**" effects how to setup your campaign link groups but also how SEO Neo features function. **Generate Account Buckets** is affected from this option. As a rule of thumb - when you have "hide sibling groups" enabled - SEO Neo will **count a sibling group as a single one**.
+{% endhint %}

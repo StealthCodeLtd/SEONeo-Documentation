@@ -8,6 +8,8 @@ Internal links are hyperlinks that connect one page on a website to another page
 
 Internal links help users navigate a website, guiding them from one page to another. This improves website structure and hierarchy by linking related content. Good internal linking can encourage visitors to spend more time on a site by exploring other pages.&#x20;
 
+<figure><img src="../../.gitbook/assets/internal links.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
 An **example** of internal links can be found on the bottom of this documentation section. There is a link that navigates the user on a specific (relevant) section of the documentation, on how to use internal links on SEO Neo.
 
 But what about SEO value of internal links?
@@ -38,4 +40,4 @@ When you create a campaign that includes Self Hosted WordPress link groups (in y
 Keep in mind that in order to use Internal Links feature on SEO Neo, you will need OpenAI API. You can find more info on **how to set your OpenAI API key**  [**here**](../../documentation/features/openai-for-content-buckets.md#setting-openai-secret-key-api-key-on-seo-neo).
 {% endhint %}
 
-For more information on how to use this feature on SEO Neo, you can read: [**Self Hosted Wordpress - Internal Linking** ](../../documentation/features/interal-links-self-hosted-wordpress.md)&#x20;
+For more information on how to use this feature on SEO Neo, you can read: [**Self Hosted Wordpress - Internal Linking** ](broken-reference)&#x20;

@@ -66,7 +66,6 @@
   * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
   * [Sibling Groups](documentation/features/sibling-groups.md)
   * [Generate Account Buckets](documentation/features/generate-account-buckets.md)
-  * [Interal Links: Self-Hosted Wordpress](documentation/features/interal-links-self-hosted-wordpress.md)
 
 ## Quick Start
 

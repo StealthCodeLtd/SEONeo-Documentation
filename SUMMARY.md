@@ -59,12 +59,14 @@
 * [🌐 Self Hosted Wordpress](documentation/self-hosted-wordpress/README.md)
   * [Setup Account(s)](documentation/self-hosted-wordpress/setup-account-s.md)
   * [Using Self Hosted Wordpress](documentation/self-hosted-wordpress/using-self-hosted-wordpress.md)
+  * [Using Internal Linking](documentation/self-hosted-wordpress/using-internal-linking.md)
 * [⭐ Features](documentation/features/README.md)
   * [Link Matching](documentation/features/link-matching.md)
   * [Article Builder](documentation/features/article-builder.md)
   * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
   * [Sibling Groups](documentation/features/sibling-groups.md)
   * [Generate Account Buckets](documentation/features/generate-account-buckets.md)
+  * [Interal Links: Self-Hosted Wordpress](documentation/features/interal-links-self-hosted-wordpress.md)
 
 ## Quick Start
 
@@ -100,6 +102,7 @@
   * [Any required 3rd party services?](additional-information/faqs/any-required-3rd-party-services.md)
 * [📖 Glossary](additional-information/glossary/README.md)
   * [Cloud staking](additional-information/glossary/cloud-staking.md)
+  * [Internal Linking](additional-information/glossary/internal-linking.md)
   * [Spintax format](additional-information/glossary/spintax-format.md)
   * [Backlink](additional-information/glossary/backlink.md)
   * [Proxies](additional-information/glossary/proxies.md)

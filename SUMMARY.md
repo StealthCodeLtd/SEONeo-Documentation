@@ -18,6 +18,7 @@
   * [Adding content](documentation/content-buckets/adding-content.md)
   * [Import content](documentation/content-buckets/import-content.md)
   * [Generate content](documentation/content-buckets/generate-content.md)
+  * [Content Bucket Tags](documentation/content-buckets/content-bucket-tags.md)
 * [🔵 Diagram Editor](documentation/diagram-editor/README.md)
   * [Link group types](documentation/diagram-editor/link-group-types.md)
   * [Groups relationships](documentation/diagram-editor/groups-relationships.md)

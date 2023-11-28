@@ -25,3 +25,13 @@ As a rule of thumb, if a group has **N** number of parents, then this group has 
 {% endhint %}
 
 This may seem more complex to understand as a concept but makes a diagram much more compact (you need less groups to describe a much bigger diagram).
+
+## Sibling Groups
+
+Sibling groups, are **merged group** **which** **share the same parent**. In our previous example **group\_4** contains **group\_4a** and **group\_4b**. These two groups are called sibling groups.
+
+When creating your campaign using diagrams with sibling groups, you can enable "**Hide Sibling Groups**" option to make campaign creation easier. This option - when enabled - **hides sibling groups** and let user **add details for one group** while SEO Neo will use the same data for the other group.
+
+This is a much easier and faster approach of creating a campaign that includes sibling groups.
+
+For more information on using sibling groups [**read this section**](../features/sibling-groups.md).

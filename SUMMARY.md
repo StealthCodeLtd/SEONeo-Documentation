@@ -113,5 +113,6 @@
 
 ## 📹 Video Tutorials
 
+* [Fundamentals](video-tutorials/fundamentals.md)
 * [Tips & Tricks](video-tutorials/tips-and-tricks.md)
 * [Video Tutorials](video-tutorials/video-tutorials.md)

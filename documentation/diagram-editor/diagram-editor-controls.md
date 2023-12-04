@@ -14,13 +14,16 @@ Here is a small description of each tool functionality:
 
 </div>
 
-**Zoom in / zoom out**: diagram zoom
 
-**Fit view**: automatically fits whole diagram on screen to fit whole view.
 
-**Interactivity toggle**: you can toggle interactivity on/off. When you turn off interactivity, you cannot move any nodes or connection on diagram.
+| Tool / Button            | Description                                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| **Zoom in / zoom out**   | diagram zoom                                                                                                             |
+| **Fit view**             | automatically fits whole diagram on screen to fit whole view                                                             |
+| **Interactivity toggle** | you can toggle interactivity on/off. When you turn off interactivity, you cannot move any nodes or connection on diagram |
+| **Delete**               | deletes selected group nodes or selected connections (same as "**delete**" / "**backspace**" keys)                       |
 
-**Delete**: deletes selected group nodes or selected connections (same as "**delete**" / "**backspace**" keys)
+
 
 ### Selections
 

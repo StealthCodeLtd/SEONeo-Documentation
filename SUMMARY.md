@@ -47,7 +47,7 @@
     * [Vultr - setup](documentation/cloud-blogs/cloud-blogs-settings/vultr-setup.md)
     * [Wasabi - setup](documentation/cloud-blogs/cloud-blogs-settings/wasabi-setup.md)
     * [Linode - setup](documentation/cloud-blogs/cloud-blogs-settings/linode-setup.md)
-    * [Oracle - setup](documentation/cloud-blogs/cloud-blogs-settings/oracle-setup.md)
+    * [Oracle - setup (under construction)](documentation/cloud-blogs/cloud-blogs-settings/oracle-setup-under-construction.md)
     * [Azure - setup](documentation/cloud-blogs/cloud-blogs-settings/azure-setup.md)
     * [Bunny - setup](documentation/cloud-blogs/cloud-blogs-settings/bunny-setup.md)
     * [Google Cloud - setup](documentation/cloud-blogs/cloud-blogs-settings/google-cloud-setup.md)

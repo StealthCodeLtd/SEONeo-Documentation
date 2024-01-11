@@ -67,6 +67,7 @@
   * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
   * [Sibling Groups](documentation/features/sibling-groups.md)
   * [Generate Account Buckets](documentation/features/generate-account-buckets.md)
+  * [Campaign Linking](documentation/features/campaign-linking.md)
 
 ## Quick Start
 

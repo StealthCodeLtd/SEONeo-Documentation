@@ -72,3 +72,19 @@ Selected "**Link campaign**", select the parent campaign you want to link curren
 Now **Campaign C** is linked with **Campaign B** and we have finished our link chain.
 
 <figure><img src="../../.gitbook/assets/link chain 7.jpg" alt=""><figcaption></figcaption></figure>
+
+On our example we have created a chain with three campaigns: **Campaign A**, **Campaign B** and **Campaign C**. When you start the first campaign in the campaign the order of campaign running will be as follows:\
+**Campaign A** -> **Campaign B** -> **Campaign C**.
+
+
+
+### Breaking Chain
+
+At any time you can use **Edit** or **Quick Edit** to remove a campaign from a chain. Keep in mind that breaking a chain will respect the order of the chain. In our example, if we remove **Campaign C** from the chain, then we will have: a chain (**Campaign A** -> **Campaign B**) and a single campaign **Campaign C**.
+
+<figure><img src="../../.gitbook/assets/breaking chain 1.JPG" alt=""><figcaption></figcaption></figure>
+
+If we removed **Campaign B** from the chain, we would break the chain (because we only have three campaigns in our chain). This would make all campaigns unchained.
+
+<figure><img src="../../.gitbook/assets/breaking chain 2.JPG" alt=""><figcaption></figcaption></figure>
+

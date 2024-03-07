@@ -15,3 +15,7 @@ Content bucket is a collection different types of content that SEO Neo uses in o
 {% hint style="info" %}
 Each content bucket contains multiple articles, text bodies, titles, rich content (images, videos, embedded code) entries. This makes campaign creation easier to manage and faster to create.
 {% endhint %}
+
+### Video - Understanding Content Buckets
+
+{% embed url="https://www.youtube.com/watch?v=t1bJeJR3Wpg" %}

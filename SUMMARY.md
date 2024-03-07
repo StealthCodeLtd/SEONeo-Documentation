@@ -3,7 +3,7 @@
 ## Documentation
 
 * [🔍 Software Overview](README.md)
-* [✔ Dashboard](documentation/dashboard.md)
+* [✔️ Dashboard](documentation/dashboard.md)
 * [🔑 Account Buckets](documentation/account-buckets/README.md)
   * [Creating Account Buckets](documentation/account-buckets/creating-account-buckets.md)
   * [Managing Account Buckets](documentation/account-buckets/managing-account-buckets.md)
@@ -26,7 +26,7 @@
   * [Diagram Editor - Controls](documentation/diagram-editor/diagram-editor-controls.md)
   * [Diagram description](documentation/diagram-editor/diagram-description.md)
   * [Deleting diagrams](documentation/diagram-editor/deleting-diagrams.md)
-* [⚙ Settings](documentation/settings/README.md)
+* [⚙️ Settings](documentation/settings/README.md)
   * [Submission](documentation/settings/submission.md)
   * [Proxies](documentation/settings/proxies.md)
   * [Third Party API](documentation/settings/third-party-api.md)
@@ -40,7 +40,7 @@
     * [2 - Common](documentation/campaigns/campaign-creation-screen/2-common.md)
     * [3 - Groups](documentation/campaigns/campaign-creation-screen/3-groups.md)
     * [4 - Settings](documentation/campaigns/campaign-creation-screen/4-settings.md)
-* [☁ Cloud Blogs](documentation/cloud-blogs/README.md)
+* [☁️ Cloud Blogs](documentation/cloud-blogs/README.md)
   * [Cloud Blogs Settings](documentation/cloud-blogs/cloud-blogs-settings/README.md)
     * [Amazon - setup](documentation/cloud-blogs/cloud-blogs-settings/amazon-setup.md)
     * [Digital Ocean - setup](documentation/cloud-blogs/cloud-blogs-settings/digital-ocean-setup.md)
@@ -71,7 +71,7 @@
 
 ## Quick Start
 
-* [1⃣ Creating your 1st campaign](quick-start/creating-your-1st-campaign/README.md)
+* [1️⃣ Creating your 1st campaign](quick-start/creating-your-1st-campaign/README.md)
   * [Before creating your campaign](quick-start/creating-your-1st-campaign/before-creating-your-campaign/README.md)
     * [Basic settings](quick-start/creating-your-1st-campaign/before-creating-your-campaign/basic-settings.md)
     * [Create Account Bucket](quick-start/creating-your-1st-campaign/before-creating-your-campaign/create-account-bucket.md)
@@ -84,7 +84,7 @@
     * [2 - Common](quick-start/creating-your-1st-campaign/creating-your-campaign/2-common.md)
     * [3 - Groups](quick-start/creating-your-1st-campaign/creating-your-campaign/3-groups.md)
     * [4 - Settings](quick-start/creating-your-1st-campaign/creating-your-campaign/4-settings.md)
-* [2⃣ Your campaign results](quick-start/your-campaign-results/README.md)
+* [2️⃣ Your campaign results](quick-start/your-campaign-results/README.md)
   * [View campaign details](quick-start/your-campaign-results/view-campaign-details.md)
   * [View and export results](quick-start/your-campaign-results/view-and-export-results.md)
   * [Retry campaign](quick-start/your-campaign-results/retry-campaign.md)

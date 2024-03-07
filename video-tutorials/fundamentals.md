@@ -12,7 +12,7 @@ This video series will cover basic terms and concept of SEO Neo. Whether you're 
 
 ## Content Buckets
 
-Coming Soon...
+{% embed url="https://www.youtube.com/watch?v=t1bJeJR3Wpg" %}
 
 ## Diagrams
 

@@ -10,18 +10,18 @@ Here is a small description of each tool functionality:
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/diagram editor toolbar.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/diagram tools.jpg" alt=""><figcaption></figcaption></figure>
 
 </div>
 
-
-
-| Tool / Button            | Description                                                                                                              |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| **Zoom in / zoom out**   | diagram zoom                                                                                                             |
-| **Fit view**             | automatically fits whole diagram on screen to fit whole view                                                             |
-| **Interactivity toggle** | you can toggle interactivity on/off. When you turn off interactivity, you cannot move any nodes or connection on diagram |
-| **Delete**               | deletes selected group nodes or selected connections (same as "**delete**" / "**backspace**" keys)                       |
+| Tool / Button                       | Description                                                                                                           |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Zoom in / zoom out**              | diagram zoom                                                                                                          |
+| **Fit view**                        | automatically fits whole diagram on screen to fit whole view                                                          |
+| **Lock \ Unlock diagram**           | You can toggle diagram lock on/off. When you turn off lock, you cannot move any nodes or connection on diagram        |
+| **Align Horizontally \ Vertically** | You can select **multiple** link groups together and **align** selected groups in horizontal or vertical arrangement. |
+| **Duplicate**                       | Duplicate selected groups including their conenctions.                                                                |
+| **Delete**                          | deletes selected group nodes or selected connections (same as "**delete**" / "**backspace**" keys)                    |
 
 
 

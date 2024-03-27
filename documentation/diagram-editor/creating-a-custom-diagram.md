@@ -2,7 +2,7 @@
 
 ### Creating a new diagram
 
-To create a custom diagram, click on "**Diagram Editor**" on main menu and then click "**Create**".
+To create a custom diagram, click on "**Diagram Editor**" **(1)** on main menu and then click "**Create**" **(2)**.
 
 <figure><img src="../../.gitbook/assets/create diagram.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -18,7 +18,7 @@ To place new link groups, just drag and drop groups from groups list into diagra
 
 ### Connecting connections between groups
 
-To **create a link group**: drag and drop a group from link group list (3) into diagram area (2).
+To **create a link group**: drag and drop a group from link group list **(1)** into diagram area **(2)**.
 
 To **create connection** between link groups:&#x20;
 

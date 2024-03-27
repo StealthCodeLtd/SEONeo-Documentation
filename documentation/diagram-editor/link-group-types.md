@@ -28,5 +28,6 @@ Below is the list for all supported link group types SEO Neo supports:
 | Profile Links         |
 | PDF Upload            |
 | URL Shorteners        |
+| Self Hosted Wordpress |
 
 Each link group types uses different content from **content buckets.** Mixing different group types together in different layers can make your link profile feel "more natural" to search engines.

@@ -1,8 +1,8 @@
 ---
-description: This SEO Neo feature is currently under development
+description: This SEO Neo feature is currently under development and its NOT available.
 ---
 
-# 🧙‍♂️ Wizards \[ under construction]
+# 🧙‍♂️ Wizards \[under development]
 
 **Wizards** is a suite of powerful built-in tools designed to help users leverage the capabilities of SEO Neo in a more intuitive, step-by-step manner. When you select a **Wizard**, SEO Neo will guide you through each step to simplify and expedite the completion of complex tasks.
 

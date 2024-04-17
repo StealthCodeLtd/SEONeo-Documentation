@@ -8,11 +8,7 @@ description: This SEO Neo feature is currently under development and its NOT ava
 
 You can access Wizards list by clicking "**Wizards**" button from main menu.
 
-
-
-\[Wizards - left side list highlighted]
-
-
+<figure><img src="../../.gitbook/assets/wizard-main-menu.jpg" alt=""><figcaption></figcaption></figure>
 
 From this screen you can select a wizard from the list on the left side. For each wizard there is a detailed description on the right side including: type of wizard, purpose and description, site age and other useful information for selected wizard.
 

@@ -1,5 +1,9 @@
 # 📘 Content Buckets
 
+### Video: Content Bucket Fundamentals
+
+{% embed url="https://youtu.be/t1bJeJR3Wpg?si=ejWFrgffQrUYtc0b" %}
+
 ### Introduction
 
 Content bucket is a collection different types of content that SEO Neo uses in order to create posts in different websites. A content bucket can include different content types including:

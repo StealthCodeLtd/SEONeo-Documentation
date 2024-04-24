@@ -1,5 +1,9 @@
 # 📋 Account Templates
 
+### Video: Account Templates Fundamentals
+
+{% embed url="https://youtu.be/q-Yxap82F5U?si=Vc49eCbwqlMpb-CL" %}
+
 ### Introduction
 
 An account template is a template that is used as a guideline on how SEO Neo creates new accounts.

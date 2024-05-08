@@ -2,7 +2,7 @@
 description: This SEO Neo feature is currently under development and its NOT available.
 ---
 
-# 🧙‍♂️ Wizards \[under development]
+# 🧙‍♂️ Wizards \[under construction]
 
 **Wizards** is a suite of powerful built-in tools designed to help users leverage the capabilities of SEO Neo in a more intuitive, step-by-step manner. When you select a **Wizard**, SEO Neo will guide you through each step to simplify and expedite the completion of complex tasks.
 
@@ -10,15 +10,9 @@ You can access Wizards list by clicking "**Wizards**" button from main menu.
 
 <figure><img src="../../.gitbook/assets/wizard-main-menu.jpg" alt=""><figcaption></figcaption></figure>
 
-From this screen you can select a wizard from the list on the left side. For each wizard there is a detailed description on the right side including: type of wizard, purpose and description, site age and other useful information for selected wizard.
+From this screen you can select a wizard from the list on the left side. For each wizard there is a detailed description on the right side including: wizard category (Strategy or Utility), purpose and description, site age and other useful information for selected wizard.
 
-
-
-\[Wizards - right side]
-
-
-
-
+<figure><img src="../../.gitbook/assets/wizards-2.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Wizard Types
 
@@ -26,19 +20,9 @@ Each wizard can belong to one of two types: **Strategy** or **Utility**.
 
 A **strategy-type wizard** guides the user through a step-by-step process to create a comprehensive SEO strategy by employing various SEO Neo campaign types and keyword strategies. Think of a strategy as a recipe that combines different campaigns, interlinking them to form a complex SEO strategy that would be challenging and time-consuming to construct manually.
 
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/wizard type.jpg" alt=""><figcaption></figcaption></figure>
 
 A **utility-type wizard**, while similar to a strategy-type, primarily aims to **simplify** redundant and time-consuming SEO Neo operations rather than create complex SEO strategies. For instance, the "**Cloud Content Poster**" utility wizard assists users in posting to their cloud blogs. The user simply selects their cloud blog, inputs the content, adjusts any additional settings, and the wizard automatically generates a custom campaign for this task.
-
-
-
-
-
-
 
 ## Wizards List
 

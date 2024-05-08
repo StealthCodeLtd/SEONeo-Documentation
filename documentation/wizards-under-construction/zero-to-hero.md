@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/STRATEGY IMAGES.jpg
+cover: ../../.gitbook/assets/STRATEGY IMAGES.jpg
 coverY: -184.19411764705882
 layout:
   cover:
@@ -19,3 +19,4 @@ layout:
 
 # Zero to Hero
 
+## \[under construction]

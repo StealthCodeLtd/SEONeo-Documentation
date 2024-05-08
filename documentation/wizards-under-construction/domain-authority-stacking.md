@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/domain-authority-stacking-cover.png
+cover: ../../.gitbook/assets/domain-authority-stacking-cover.png
 coverY: -45.78235294117647
 layout:
   cover:
@@ -19,3 +19,4 @@ layout:
 
 # Domain Authority Stacking
 
+## \[under construction]

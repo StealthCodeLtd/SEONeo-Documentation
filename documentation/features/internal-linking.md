@@ -34,10 +34,10 @@ Search engines use links to discover new content and to help determine the value
 
 SEO Neo includes a very powerful feature (from **version 1.5.2** and later) that gives the user the option to create internal links for his WordPress websites.&#x20;
 
-When you create a campaign that includes Self Hosted WordPress link groups (in your diagram) you can set the **number** and type (**Internal Links Relevance**). When you run your campaign, SEO Neo will create internal links for your (Self Hosted WordPress) website posts **using OpenAI** integration.
+When you create a campaign that includes **Cloud Blog** or **Self Hosted Wordpress** link groups (in your diagram) you can set the **number** and type (**Internal Links Relevance**). When you run your campaign, SEO Neo will create internal links for your (Self Hosted WordPress) website posts **using OpenAI** integration.
 
 {% hint style="info" %}
-Keep in mind that in order to use Internal Links feature on SEO Neo, you will need OpenAI API. You can find more info on **how to set your OpenAI API key**  [**here**](../../documentation/features/openai-for-content-buckets.md#setting-openai-secret-key-api-key-on-seo-neo).
+Keep in mind that in order to use Internal Links feature on SEO Neo, you will need OpenAI API. You can find more info on **how to set your OpenAI API key**  [**here**](openai-for-content-buckets.md#setting-openai-secret-key-api-key-on-seo-neo).
 {% endhint %}
 
-For more information on how to use this feature on SEO Neo, you can read: [**Self Hosted Wordpress - Internal Linking** ](broken-reference)&#x20;
+For more information on how to use this feature on SEO Neo, you can read: [**Self Hosted Wordpress - Internal Linking**](../self-hosted-wordpress/using-internal-linking.md) &#x20;

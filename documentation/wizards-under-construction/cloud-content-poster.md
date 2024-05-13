@@ -180,7 +180,9 @@ Keep in mind that you can select **one category** at the same time.
 
 <figure><img src="../../.gitbook/assets/cpp-15.jpg" alt=""><figcaption></figcaption></figure>
 
-**Internal Links** sets the number of internal links you want to be created for your posts.
+**Internal Links** sets the number of internal links you want to be created for your posts. Internal links are hyperlinks that connect one page on a website to another page within the same domain.
+
+For more information on internal links you can read this section of our documentation.
 
 
 

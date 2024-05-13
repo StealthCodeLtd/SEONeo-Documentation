@@ -73,6 +73,7 @@
   * [OpenAI for Content Buckets](documentation/features/openai-for-content-buckets.md)
   * [Sibling Groups](documentation/features/sibling-groups.md)
   * [Generate Account Buckets](documentation/features/generate-account-buckets.md)
+  * [Internal Linking](documentation/features/internal-linking.md)
   * [Campaign Linking](documentation/features/campaign-linking.md)
 
 ## Quick Start
@@ -109,7 +110,6 @@
   * [Any required 3rd party services?](additional-information/faqs/any-required-3rd-party-services.md)
 * [📖 Glossary](additional-information/glossary/README.md)
   * [Cloud staking](additional-information/glossary/cloud-staking.md)
-  * [Internal Linking](additional-information/glossary/internal-linking.md)
   * [Spintax format](additional-information/glossary/spintax-format.md)
   * [Backlink](additional-information/glossary/backlink.md)
   * [Proxies](additional-information/glossary/proxies.md)

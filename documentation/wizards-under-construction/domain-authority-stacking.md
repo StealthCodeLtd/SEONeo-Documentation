@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/domain-authority-stacking-cover.png
-coverY: -45.78235294117647
+cover: ../../.gitbook/assets/domain-authority-stacking-header.jpg
+coverY: 0
 layout:
   cover:
     visible: true

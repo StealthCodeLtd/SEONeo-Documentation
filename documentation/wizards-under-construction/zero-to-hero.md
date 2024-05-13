@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/STRATEGY IMAGES.jpg
-coverY: -184.19411764705882
+cover: ../../.gitbook/assets/zero-to-hero-header.jpg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -19,4 +19,5 @@ layout:
 
 # Zero to Hero
 
-## \[under construction]
+
+

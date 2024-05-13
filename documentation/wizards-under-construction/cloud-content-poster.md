@@ -29,7 +29,9 @@ From Wizards screen select "**Cloud Content Poster**" wizard and click on "**Ini
 
 <figure><img src="../../.gitbook/assets/ccp-1.jpg" alt=""><figcaption></figcaption></figure>
 
-## Wizard Tutorial
+##
+
+## How to Use Cloud Content Poster
 
 This Wizard is broken into two steps:
 
@@ -43,7 +45,7 @@ Let's go and set each available option on this wizard.
 
 
 
-## 1 - General Settings
+## Step 1 - General Settings
 
 ### Campaign Folder
 
@@ -95,7 +97,94 @@ When you finish with General Settings click on "**Next**" button to navigate to 
 
 
 
-## 2 - Post Settings
+## Step 2 - Post Settings
 
 This step includes all the options to define your posts on your cloud blog (the one you selected on the previous step).
+
+<figure><img src="../../.gitbook/assets/ccp-9.jpg" alt=""><figcaption></figcaption></figure>
+
+### Content Buckets
+
+<figure><img src="../../.gitbook/assets/ccp-10.jpg" alt=""><figcaption></figcaption></figure>
+
+To create posts on your cloud blog **you need to select a content bucket**. Select a content bucket that includes content that you want to post on your cloud blog. This means that your content bucket you select must include at least one article.
+
+{% hint style="info" %}
+Make sure you have created **all content types** inside your content bucket including:\
+**Articles, Short Descriptions, Bios, Rich Content and Blog Details**. Your cloud blog posts will utilize all content types when applicable.
+
+It is **recommended** to select a content bucket that includes **rich content** (image & video URLS etc.)
+
+If you want to learn more on creating content buckets you [**can read this section of the documentation**](cloud-content-poster.md#content-buckets).
+
+You can also [**watch this video**](https://www.youtube.com/watch?v=t1bJeJR3Wpg) that explains how content buckets work.
+{% endhint %}
+
+### Total Posts & Posts Per Day
+
+<figure><img src="../../.gitbook/assets/ccp-11.jpg" alt=""><figcaption></figcaption></figure>
+
+This section is very important as it defines the number of posts and how many posts you want SEO Neo to post on your cloud blog per day.
+
+{% hint style="info" %}
+On "**Number of Posts**" you can select a **maximum** of **1000** total posts
+{% endhint %}
+
+Each cloud blog post will use a different article from your content bucket. The number of total posts will also determine the number of articles you need to include in your content bucket.&#x20;
+
+{% hint style="info" %}
+**Example:**
+
+If you need to create 30 posts on your cloud blog, you will need at least 30 articles in your content bucket you've selected.
+{% endhint %}
+
+To help you with your content you will need inside your content bucket, you can click on "**Show Contents**" eye icon. After clicking this icon, SEO Neo will display basic information on what it is included inside selected content bucket.
+
+You can hover each icon on the expanded section to display a tooltip indicating each content type.
+
+<figure><img src="../../.gitbook/assets/ccp-show content 1.jpg" alt=""><figcaption></figcaption></figure>
+
+In our example below, we have selected **Number of Posts = 1**. The first icon in "Show Contents" indicates that our selected content bucket includes one article. This setup is fine, as wee need only one article.
+
+<figure><img src="../../.gitbook/assets/ccp-show content 2.jpg" alt="" width="563"><figcaption><p>The first content type (Articles) is marked as required.</p></figcaption></figure>
+
+Now let's try to increase the number of **total posts** to 10 to see what will happen.
+
+<figure><img src="../../.gitbook/assets/ccp-show content 3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+As we can see, SEO Neo raised an alert. This is because we have selected **10 total posts** but our content bucket only includes **1 article**.
+
+{% hint style="info" %}
+As a rule of thumb, if you have **N total posts**, you should have at least **N articles** inside your content bucket.
+{% endhint %}
+
+The next option in this section is **Posts per Day**. As the name suggests this sets the number of posts your want SEO Neo to post on your blog per day. You can set a **maximum** of **100 posts per day**.
+
+<figure><img src="../../.gitbook/assets/ccp-12.jpg" alt="" width="563"><figcaption><p>Set the number of posts per day</p></figcaption></figure>
+
+### Category
+
+
+
+
+
+
+
+
+
+### Internal Links
+
+
+
+
+
+
+
+
+
+
+
+### Rich Content
+
+
 

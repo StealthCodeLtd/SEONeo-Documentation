@@ -164,19 +164,23 @@ The next option in this section is **Posts per Day**. As the name suggests this 
 
 ### Category
 
+<figure><img src="../../.gitbook/assets/ccp-14.jpg" alt=""><figcaption></figcaption></figure>
 
+From this option you can select on which category (from your cloud blog) you want to create your posts. The default option is "Uncategorized" you but select a specific category your want to create your post into.
 
+To fetch all categories from your selected cloud blog click on "**Get Available Categories**" label. This will fetch all categories you have created on selected cloud blog.
 
+<figure><img src="../../.gitbook/assets/ccp-13.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
-
+{% hint style="info" %}
+Keep in mind that you can select **one category** at the same time.
+{% endhint %}
 
 ### Internal Links
 
+<figure><img src="../../.gitbook/assets/cpp-15.jpg" alt=""><figcaption></figcaption></figure>
 
-
-
+**Internal Links** sets the number of internal links you want to be created for your posts.
 
 
 
@@ -186,5 +190,10 @@ The next option in this section is **Posts per Day**. As the name suggests this 
 
 ### Rich Content
 
+<figure><img src="../../.gitbook/assets/cpp-16.jpg" alt=""><figcaption></figcaption></figure>
 
+**Rich Content** sets the number of Images, Videos and Embeds you want to include in your posts. Keep in mind that you need to include rich content inside your content bucket to utilize them.
 
+{% hint style="info" %}
+It is **recommended** to include **as many rich content entries** (in your content bucket) as possible to avoid duplicate rich content usage and make your post as unique as possible.
+{% endhint %}

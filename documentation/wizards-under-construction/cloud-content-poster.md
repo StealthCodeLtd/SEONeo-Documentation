@@ -182,13 +182,7 @@ Keep in mind that you can select **one category** at the same time.
 
 **Internal Links** sets the number of internal links you want to be created for your posts. Internal links are hyperlinks that connect one page on a website to another page within the same domain.
 
-For more information on internal links you can read this section of our documentation.
-
-
-
-
-
-
+For more information on internal links you can read [**this section of our documentation**](../../additional-information/glossary/internal-linking.md).
 
 ### Rich Content
 
@@ -198,4 +192,12 @@ For more information on internal links you can read this section of our document
 
 {% hint style="info" %}
 It is **recommended** to include **as many rich content entries** (in your content bucket) as possible to avoid duplicate rich content usage and make your post as unique as possible.
+{% endhint %}
+
+When you finish selecting all your options, click on "**Generate**" button. SEO Neo will take all your wizard options and it will generate a campaign based on selected options.&#x20;
+
+<figure><img src="../../.gitbook/assets/cpp-17.jpg" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Keep in mind that **Wizards create a special type of campaign** that **cannot be edited** as a normal campaign.
 {% endhint %}

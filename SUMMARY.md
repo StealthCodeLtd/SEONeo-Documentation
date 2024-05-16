@@ -75,6 +75,7 @@
   * [Generate Account Buckets](documentation/features/generate-account-buckets.md)
   * [Internal Linking](additional-information/glossary/internal-linking.md)
   * [Campaign Linking](documentation/features/campaign-linking.md)
+  * [Keywords Strategy](documentation/features/keywords-strategy.md)
 
 ## Quick Start
 

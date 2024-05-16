@@ -1,6 +1,6 @@
 # Dream Host - setup
 
-### Back Blaze API Settings
+### Dream Host API Settings
 
 Required credentials:
 

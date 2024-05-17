@@ -2,25 +2,23 @@
 
 This is one of the most important section when creating your campaign.
 
-&#x20;In this section
+&#x20;In this section:
 
 * you define your targeted URLs (which money site URL links you want the campaign to target),
 * you select an account template&#x20;
 * you enter keywords (what type and percentage amount for each keyword type)
 
-Let's start first by selecting an Account Template which is required. For this guide we have created our own Account Template named "my first template" which uses our own Gmails.
+Let's start first by selecting an **Account Template** which is required. For this guide we have created our own Account Template named "my first template" which uses our own Gmails.
 
-<figure><img src="../../../.gitbook/assets/2 - common - account template.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/common-account templates.jpg" alt=""><figcaption><p>Selecting Account Template</p></figcaption></figure>
 
-{% hint style="info" %}
 Account Templates are used to tell SEO Neo which mails the software will use for this campaign, and how user names will be created. [**More info**](../../../documentation/account-templates/) on Account Templates.
-{% endhint %}
 
 ### Entering Money Site URLs
 
 Let's start by pasting all URLs what we want to target. For this tutorial we will use non existent URLs for an imaginary website that is supposed to sell cars, but feel free to choose your own. In case you have multiple URLs, you must enter one URL per line.
 
-<figure><img src="../../../.gitbook/assets/2 - common - urls.jpg" alt=""><figcaption><p>Enter as many money site URLs as desired (one pre line)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/common-money site urls.jpg" alt=""><figcaption><p>Enter as many money site URLs as desired (one pre line)</p></figcaption></figure>
 
 ### Setting your Keyword Strategy
 

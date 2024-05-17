@@ -116,11 +116,21 @@ We will set the same values for for Tier 1 and Tier 2+ keyword categories.
 Because keyword percentage values are based on % **the sum of all keyword values** for must be **100**.
 {% endhint %}
 
-If the sum of values is **less or more** **than 100**, SEO Neo will raise validation error (red colored text) and will prevent you from moving to the next section.
+In our example below, we set keyword percentage values that **sum up** to **90**:
 
-In the example below, the sum of all keyword values is: 1 + 20 + 30 = 51 so SEO Neo raises validation error message.
+<figure><img src="../../../.gitbook/assets/keyword percentage 90pc.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/wrong percentage value.jpg" alt=""><figcaption></figcaption></figure>
+If the sum of values is **less or more** **than 100**, SEO Neo will raise validation warning and will ask you, if you want the software to automatically fix values for you.
+
+<figure><img src="../../../.gitbook/assets/keyword percentage fix values 1.jpg" alt=""><figcaption></figcaption></figure>
+
+If you agree, click "**Yes**" button and SEO Neo will fix all your values and make them **sum to 100%**. SEO Neo does **based on weight values**, so all values are adjusted to sum to 100 based on their value proportionally to the rest of values.
+
+### Keywords Strategy Feature
+
+Another handy feature of SEO Neo is **Keywords Strategy**. This feature sets all keyword percentage values for you based on two criteria (site age, 12-workflow current value).  With **Keywords Strategy** you can set all your keyword values easily and extremely fast. To access this, click on "**Keywords Strategy**" button. [**Click here for more**](../../../documentation/features/keywords-strategy.md) info on this feature.
+
+<figure><img src="../../../.gitbook/assets/keyword strategy.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Setting Keyword format
 

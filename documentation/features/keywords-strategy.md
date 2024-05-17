@@ -32,5 +32,14 @@ A new window will open where you can define your strategy based on your website'
 
 <figure><img src="../../.gitbook/assets/keyword strategy window.jpg" alt=""><figcaption><p>Keyword strategy window</p></figcaption></figure>
 
+**Website Age**: as the name suggests, you select your site age. There are three options for **new website** (0-12 months), **middle website** (12-24 months) and **established website** (more than 24 months) old.
 
+<figure><img src="../../.gitbook/assets/keyword strategy campaign workflow.jpg" alt=""><figcaption></figcaption></figure>
 
+**Campaign Workflow**: this defines at which point in time we are placed against a 12 months campaign workflow.
+
+{% hint style="info" %}
+**Example**: we have a website that we run campaigns and take different actions. We are on the 5th month of our SEO campaign for this website. In this case, we would choose **5-6** value.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/campaign workflow.jpg" alt=""><figcaption><p>keyword strategy - campaign workflow</p></figcaption></figure>

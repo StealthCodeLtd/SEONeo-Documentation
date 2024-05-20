@@ -97,11 +97,74 @@ When you finish with General Settings click on "**Next**" button to navigate to 
 
 
 
+## Step 2 - Post Settings
+
+This step includes all the options to define your posts on your WordPress website (the one you selected on the previous step).
+
+<figure><img src="../../.gitbook/assets/shw 2-1.jpg" alt=""><figcaption></figcaption></figure>
+
+### Post Settings
+
+<figure><img src="../../.gitbook/assets/shw 2-2.jpg" alt=""><figcaption></figcaption></figure>
+
+**Posts per Day**: as the name suggests, defines the number of posts SEO Neo to perform per day. There is a limitation of _100 maximum posts_ per day.
+
+**Internal Links:** sets the number of internal links you want to be created for your posts. Internal links are hyperlinks that connect one page on a website to another page within the same domain.
+
+{% hint style="info" %}
+Keep in mind that you need **OpenAI** **API key** to use **Internal Links** feature.
+{% endhint %}
+
+For more information on internal links you can read [**this section of our documentation**](https://docs.seoneo.io/documentation/features/internal-linking).
+
+**Internal Links Relevance:** Self-Hosted WordPress has an additional setting for internal links. With this option you can set how internal links are generated. There are three different options:
+
+<figure><img src="../../.gitbook/assets/shw internal links relevance.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+| Option         | Info                                                                               |
+| -------------- | ---------------------------------------------------------------------------------- |
+| **random**     | random selection between (categories and tags)                                     |
+| **categories** | internal links are generated from posts exclusive to the selected group categories |
+| **tags**       | internal links are generated from posts exclusive to the selected group tags.      |
 
 
 
+### Understanding Category Groups
+
+This wizard helps you create posts on your self-hosted WordPress website. To help you with this task we created category groups. A category group is a group of posts settings that apply on different categories of your WordPress website. This means that you can create different posts with different settings on different categories.
+
+{% hint style="info" %}
+Keep in mind that you need **at least one category group**. Your website categories can be included **in only one** category group.
+{% endhint %}
+
+**Example:**
+
+Let's assume we have three categories on our website: A, B, C
+
+We can create a category group that posts on **A, B** and another category group that posts on **C**.
+
+Creating a category group that posts on **A, B** and another category group that posts on **B,C** is not valid. This is because the second group includes a category (**B**) that is **already included** in first group.
+
+<figure><img src="../../.gitbook/assets/shw category groups valid-invalid.jpg" alt="" width="375"><figcaption><p>Examples of category groups</p></figcaption></figure>
 
 
+
+### Creating Category Groups
+
+In our example we have a WordPress website about video game news and we have some content that we want to post on three different categories:&#x20;
+
+* _Live streaming gaming events_
+* _Video game reviews_
+* _Video game releases_
+
+We already have two content buckets with content:
+
+* _video-game news March 2024_
+* _streaming news_
+
+In our case&#x20;
+
+To create a new category group, click on "**Add Category Group**" button.
 
 
 

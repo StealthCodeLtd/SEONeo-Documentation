@@ -151,20 +151,40 @@ Creating a category group that posts on **A, B** and another category group that
 
 ### Creating Category Groups
 
-In our example we have a WordPress website about video game news and we have some content that we want to post on three different categories:&#x20;
-
-* _Live streaming gaming events_
-* _Video game reviews_
-* _Video game releases_
-
-We already have two content buckets with content:
-
-* _video-game news March 2024_
-* _streaming news_
-
-In our case&#x20;
-
 To create a new category group, click on "**Add Category Group**" button.
 
+<figure><img src="../../.gitbook/assets/shw category group button.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
+A new window will appear where you can select on which categories on your website you want to post.
 
+<figure><img src="../../.gitbook/assets/shw categories.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+You can select multiple categories to post by using checkbox on the left.
+
+<figure><img src="../../.gitbook/assets/shw categories 1.jpg" alt="" width="508"><figcaption></figcaption></figure>
+
+You can also add a new category and click on "**Add**" button.&#x20;
+
+<figure><img src="../../.gitbook/assets/shw - add categories 1.jpg" alt="" width="486"><figcaption></figcaption></figure>
+
+The category will be added on the list where you can select it or remove it using the little "**x**" button.
+
+<figure><img src="../../.gitbook/assets/shw - add categories.jpg" alt="" width="486"><figcaption></figcaption></figure>
+
+When you finish selecting categories, click on "**Generate Category Group**" button. The category will be generated.&#x20;
+
+You can use the "**trash**" button to remove generated categories or the "**down arrow**" to expand the category and change it's settings.
+
+<figure><img src="../../.gitbook/assets/shw category.jpg" alt=""><figcaption></figcaption></figure>
+
+From the expanded view, you can set **content bucket**, **total** number of **posts**, **tags** and **featured images** for your posts.
+
+<figure><img src="../../.gitbook/assets/shw category settings 1.jpg" alt=""><figcaption></figcaption></figure>
+
+When you finish with your settings you can add another category group. Just keep in mind that **you cannot** **select the same category** that have been used on a different group.
+
+<figure><img src="../../.gitbook/assets/shw disabled category.jpg" alt="" width="563"><figcaption></figcaption></figure>
+
+When you finish with all your category groups, click on "**Generate**" button and your are done! A new wizard campaign is created that will create all your posts based on all provided information in the Wizard.
+
+<figure><img src="../../.gitbook/assets/shw generate.jpg" alt="" width="563"><figcaption></figcaption></figure>

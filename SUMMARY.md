@@ -118,6 +118,7 @@
   * [Tiers](additional-information/glossary/tiers.md)
   * [Captcha service](additional-information/glossary/captcha-service.md)
   * [Drip Feed](additional-information/glossary/drip-feed.md)
+  * [Pillowing techniques](additional-information/glossary/pillowing-techniques.md)
 
 ## 📹 Video Tutorials
 

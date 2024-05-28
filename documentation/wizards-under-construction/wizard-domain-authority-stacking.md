@@ -19,6 +19,14 @@ layout:
 
 # Wizard: Domain Authority Stacking
 
+## **About** Domain Authority Stacking **Strategy**
+
+This one of the most important SEO strategies of the [**pillowing technique**](../../additional-information/glossary/pillowing-techniques.md). This strategy is very effective for new websites.&#x20;
+
+
+
+
+
 ## How to Use Domain Authority Stacking
 
 To run this wizard navigate:

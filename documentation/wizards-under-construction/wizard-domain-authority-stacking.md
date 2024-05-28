@@ -21,11 +21,7 @@ layout:
 
 ## **About** Domain Authority Stacking **Strategy**
 
-This one of the most important SEO strategies of the [**pillowing technique**](../../additional-information/glossary/pillowing-techniques.md). This strategy is very effective for new websites.&#x20;
-
-
-
-
+This one of the most important SEO strategies of the [**pillowing technique**](../../additional-information/glossary/pillowing-techniques.md). This strategy is very effective for new websites to _warmup_ your _link profile_ with plain URLs and to create _depth of content_ to your Web 2.0's PBN.
 
 ## How to Use Domain Authority Stacking
 

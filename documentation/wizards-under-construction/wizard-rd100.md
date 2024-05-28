@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# RD100
+# Wizard: RD100
 
 ## **About RD100 Strategy**
 
@@ -68,7 +68,7 @@ This Wizard is broken into two steps:
 
 ##
 
-## 1 - Strategy Settings
+## Domain Authority Stacking: Strategy Settings
 
 ### Campaign Folder
 
@@ -90,7 +90,7 @@ With this option you select the language of your keywords.&#x20;
 
 Select which account template you want to use.
 
-For more information about account templates [**read this section**](rd100.md#account-templates) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=q-Yxap82F5U).
+For more information about account templates [**read this section**](wizard-rd100.md#account-templates) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=q-Yxap82F5U).
 
 ### Account Buckets
 
@@ -98,7 +98,7 @@ For more information about account templates [**read this section**](rd100.md#ac
 
 Select which account bucket you want to use. You can let SEO Neo generate an account bucket automatically (**Auto generate**) or select an existing account bucket (**Select Account Buckets**).
 
-For more information about accounts buckets [**read this section**](rd100.md#account-buckets) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=E-rS94B5\_MM).
+For more information about accounts buckets [**read this section**](wizard-rd100.md#account-buckets) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=E-rS94B5\_MM).
 
 ### Content Bucket
 
@@ -147,7 +147,7 @@ Enter your **best targeted keywords**. These keywords will be used in various wa
 
 
 
-## 2 - Post Settings
+## Domain Authority Stacking: Post Settings
 
 ### **Captcha Services**
 
@@ -169,7 +169,7 @@ Here you can change how many threads will be used for generated wizard campaign/
 
 <figure><img src="../../.gitbook/assets/rd100-indexer.jpg" alt=""><figcaption></figcaption></figure>
 
-This is the same option that you can find also in other SEO Neo sections (for example when you create a new campaign). You can select an indexer to use for your cloud blogs posts
+This is the same option that you can find also in other SEO Neo sections (for example when you create a new campaign). You can select an indexer to use for your cloud blogs posts.
 
 {% hint style="info" %}
 It is **recommended** to use [**Omega Indexer**](https://www.omegaindexer.com/) or [**Colinkri**](https://www.colinkri.com/) if you want better results with indexing your cloud blog posts.
@@ -177,5 +177,4 @@ It is **recommended** to use [**Omega Indexer**](https://www.omegaindexer.com/) 
 If you need more information on how to setup an indexer [**read this section**](https://docs.seoneo.io/quick-start/creating-your-1st-campaign/before-creating-your-campaign/basic-settings#indexers) of our documentation.
 {% endhint %}
 
-
-
+When you finish click on "**Generate**" button and your are done!&#x20;

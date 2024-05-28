@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Cloud Content Poster
+# Wizard: Cloud Content Poster
 
 Cloud Content Poster is a streamlined **utility wizard** designed to help you quickly create posts on your cloud blogs. It eliminates the need for setting up time-consuming campaigns, allowing you to effortlessly publish content on your uploaded cloud blogs.
 
@@ -115,7 +115,7 @@ Make sure you have created **all content types** inside your content bucket incl
 
 It is **recommended** to select a content bucket that includes **rich content** (image & video URLS etc.)
 
-If you want to learn more on creating content buckets you [**can read this section of the documentation**](cloud-content-poster.md#content-buckets).
+If you want to learn more on creating content buckets you [**can read this section of the documentation**](wizard-cloud-content-poster.md#content-buckets).
 
 You can also [**watch this video**](https://www.youtube.com/watch?v=t1bJeJR3Wpg) that explains how content buckets work.
 {% endhint %}

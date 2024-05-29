@@ -16,18 +16,19 @@ There are different link group types because there are different types of tasks.
 
 Below is the list for all supported link group types SEO Neo supports:
 
-| Link Group Types      |
-| --------------------- |
-| Web 2.0 Blogs         |
-| Authority Links       |
-| Web 2.0 Profiles      |
-| Social Bookmarking    |
-| Social Bookmarking HQ |
-| Wiki                  |
-| Cloud Blogs           |
-| Profile Links         |
-| PDF Upload            |
-| URL Shorteners        |
-| Self Hosted Wordpress |
+| Link Group Types                |
+| ------------------------------- |
+| Web 2.0 Blogs                   |
+| Authority Links                 |
+| Web 2.0 Profiles                |
+| Social Bookmarking              |
+| Social Bookmarking HQ           |
+| Wiki                            |
+| Cloud Blogs **(NEW)**           |
+| Profile Links                   |
+| PDF Upload                      |
+| URL Shorteners                  |
+| Self Hosted Wordpress **(NEW)** |
+| Blog Comments **(NEW)**         |
 
 Each link group types uses different content from **content buckets.** Mixing different group types together in different layers can make your link profile feel "more natural" to search engines.

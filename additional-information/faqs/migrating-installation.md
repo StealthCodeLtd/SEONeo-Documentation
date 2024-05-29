@@ -16,9 +16,19 @@ For Windows users the folder location is:
 {% tab title="Mac OS Path" %}
 For **MAC OS** users the folder location is:
 
-**Users > \[username] > Library > Application Support > seo neo**
+**Users > \[username] > Library > Application Support > seoneo**
 {% endtab %}
 {% endtabs %}
+
+
+
+{% hint style="info" %}
+On Mac OS "**Library**" folder is hidden by default. How to view hidden "**Library**" folder on Mac OS?&#x20;
+
+Open a new **Finder** window, click on the "**Home**" icon in the sidebar, click on "**View**" in the menubar and select "**Show View Options**". On the panel that pops up you should see "**Show Library**" and check that box.
+{% endhint %}
+
+
 
 {% hint style="warning" %}
 Keep in mind to **close** SEO Neo **before coping** the folder, otherwise your data may get corrupted.

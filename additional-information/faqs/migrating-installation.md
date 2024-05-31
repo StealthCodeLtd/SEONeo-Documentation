@@ -2,7 +2,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=0Gfi0KZekM8" %}
 
-To transfer you installation into another machine, you will need to transfer (**copy - paste**) **"seoneo"** folder from the original installation into target installation.
+To transfer you installation into another machine, you will need to copy and replace (**copy - paste**) entire **"seoneo"** folder from the original installation into target installation. You can also copy and paste all files inside "**seoneo**" folder from the original installation into target installation.
 
 On Windows and Mac OS machines, the folder path is different. You can find the path below for both systems.
 

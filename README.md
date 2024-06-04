@@ -35,6 +35,10 @@ If you click on SEO Neo logo, you will return to main software view (dashboard).
 
 <figure><img src=".gitbook/assets/software areas 6.jpg" alt=""><figcaption></figcaption></figure>
 
-Change User Interface Language
+### Change Language (UI)
 
-SEO Neo&#x20;
+SEO Neo is a multilingual application and by default it's UI (user interface) language is in **English language.** Except from English, SEO Neo supports three more languages including **Spanish, French** and **Vietnamese**.
+
+To change between different UI languages, click on the flag located on the top-right section and choose your language.
+
+<figure><img src=".gitbook/assets/software areas 7.jpg" alt=""><figcaption></figcaption></figure>

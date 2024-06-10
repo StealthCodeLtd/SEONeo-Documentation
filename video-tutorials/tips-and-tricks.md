@@ -29,3 +29,7 @@ Here is a list of all "**Tips & Tricks**" videos from [**our official Youtube ch
 ### Using Rich Content Scraper
 
 {% embed url="https://youtu.be/OqGiYd1P7JU" %}
+
+### Using Wizards
+
+{% embed url="https://www.youtube.com/watch?v=ue4dulRDXNo" %}

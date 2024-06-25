@@ -33,3 +33,7 @@ Here is a list of all "**Tips & Tricks**" videos from [**our official Youtube ch
 ### Using Wizards
 
 {% embed url="https://www.youtube.com/watch?v=ue4dulRDXNo" %}
+
+### Campaign Linking
+
+{% embed url="https://www.youtube.com/watch?v=qUbD08zApnU" %}

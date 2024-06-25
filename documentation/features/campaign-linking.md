@@ -82,11 +82,23 @@ On our example we have created a chain with three campaigns: **Campaign A**, **C
 
 ### Breaking Chain
 
-At any time you can use **Edit** or **Quick Edit** to remove a campaign from a chain. Keep in mind that breaking a chain will respect the order of the chain. In our example, if we remove **Campaign C** from the chain, then we will have: a chain (**Campaign A** -> **Campaign B**) and a single campaign **Campaign C**.
+At any time you can use **Edit** or **Quick Edit** to remove a campaign from a chain. Keep in mind that when you unlink a campaign from a chain, it gets unlinked from the parent and the child (if there is any).
 
-<figure><img src="../../.gitbook/assets/breaking chain 1.JPG" alt=""><figcaption></figcaption></figure>
+In the following example we have five campaigns that are linked together: **A, B, C, D, E**
 
-If we removed **Campaign B** from the chain, we would break the chain (because we only have three campaigns in our chain). This would make all campaigns unchained.
+If we unlink campaign C it will get unlinked from it's parent (B) and it's child (D).
 
-<figure><img src="../../.gitbook/assets/breaking chain 2.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/break chain 1.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+So this will result in:
+
+<figure><img src="../../.gitbook/assets/break chain 2.jpg" alt="" width="375"><figcaption></figcaption></figure>
+
+After unlinking we will have campaign C as a standalone (unlinked) and two chains:
+
+* A-B
+* D-E
+
+{% hint style="info" %}
+When you **unlink** a campaign, you unlink it from it's **parent** **and** it's **child**.
+{% endhint %}

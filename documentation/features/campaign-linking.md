@@ -1,5 +1,7 @@
 # Campaign Linking
 
+{% embed url="https://www.youtube.com/watch?v=qUbD08zApnU" %}
+
 **Campaign linking** is a feature that allows you to automate campaigns and schedule them to start when another another campaign finishes. This advance scheduling mechanism, helps you speed up your process of automating multiple campaigns and create long drip-feed strategies.
 
 ## Understanding Campaign Linking - Terms

@@ -43,7 +43,7 @@ To change between different UI languages, click on the flag located on the top-r
 
 <figure><img src=".gitbook/assets/software areas 7.jpg" alt=""><figcaption></figcaption></figure>
 
-## Getting Started With SEO Neo
+### Getting Started With SEO Neo
 
 If you are **a beginner** in SEO Neo, it is recommended to understand some basic terms and concepts of the software. To do so, you can [**watch our Fundamentals**](video-tutorials/fundamentals.md) video series from this documentation or [**visit our official Youtube Channel**](https://www.youtube.com/watch?v=E-rS94B5\_MM\&list=PLalESEO7XMliindhpQ5r3-vpYoLB2jtX9). This video series will cover some basic concepts regarding: accounts, account templates, content buckets, diagrams etc.
 

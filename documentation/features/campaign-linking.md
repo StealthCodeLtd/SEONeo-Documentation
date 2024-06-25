@@ -4,7 +4,7 @@
 
 **Campaign linking** is a feature that allows you to automate campaigns and schedule them to start when another another campaign finishes. This advance scheduling mechanism, helps you speed up your process of automating multiple campaigns and create long drip-feed strategies.
 
-## Understanding Campaign Linking - Terms
+### Understanding Campaign Linking - Terms
 
 In the image below we see a basic campaign linking example, to explain some terms.
 
@@ -18,9 +18,9 @@ In the image below we see a basic campaign linking example, to explain some term
 Each campaign in the chain **can only be linked with one parent** and **one child**.  A campaign **cannot have** multiple parents or multiple children.&#x20;
 {% endhint %}
 
-##
 
-## Understanding Campaign Linking - Flow
+
+### Understanding Campaign Linking - Flow
 
 Below is a real example of linked campaigns created inside SEO Neo:
 
@@ -30,9 +30,9 @@ Each campaign can be linked with another campaign. In this example **Campaign A*
 
 When you create a link chain you set the order you want the campaign to start. When the first campaign in the chain completes (stops running), it starts the second campaign in the chain. The process continues until all campaigns in the chain completes.
 
-##
 
-## How to Link Campaigns
+
+### How to Link Campaigns
 
 To link a campaign with another campaign, you can select the campaign to link with in "Settings" step when you create or edit a campaign.
 
@@ -52,9 +52,9 @@ In this example we are editing **Campaign C** and we want to link it with **Camp
 You can **only** select campaigns that are **not currently running** and **don't have any other child**. Example: you can't link another campaign with **Campaign B**, because **Campaign B** is already linked with **Campaign A** and **Campaign C**. However you could link a new campaign with **Campaign C**.
 {% endhint %}
 
-##
 
-## Using Quick Edit to Link Campaigns
+
+### Using Quick Edit to Link Campaigns
 
 Another way to link campaigns, is to use **Quick Edit**. This way you can links your campaigns faster without navigating all campaign creation steps 1-4.
 

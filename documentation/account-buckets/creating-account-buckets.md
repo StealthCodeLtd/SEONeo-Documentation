@@ -13,3 +13,5 @@ Creating an account bucket is very simple:
 {% hint style="info" %}
 When you first create an account bucket, the bucket is empty of accounts. If you use this empty bucket on a campaign, SEO Neo will add registered accounts into this account bucket.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/gif-account-bucket-create.gif" alt=""><figcaption><p>Example: create an Account Bucket</p></figcaption></figure>

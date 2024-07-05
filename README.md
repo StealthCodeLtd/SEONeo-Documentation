@@ -23,6 +23,8 @@ You can also change main menu position and move it to the top section from setti
 
 <figure><img src=".gitbook/assets/software areas 4.jpg" alt=""><figcaption><p>Main menu (top layout setting)</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/gif-visual-settings.gif" alt=""><figcaption><p>Example: Changing Visual Settings</p></figcaption></figure>
+
 ### Account menu
 
 This menu is located on the top-right of the software (account/profile icon). From this menu the user can visit SEO Neo's website, open documentation, check for an update and check his membership. From account menu you can also export [**Debug Report**](additional-information/faqs/debug-report.md).

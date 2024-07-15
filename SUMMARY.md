@@ -107,7 +107,7 @@
   * [Who uses SEO Neo?](additional-information/faqs/who-uses-seo-neo.md)
   * [Is SEO Neo safe?](additional-information/faqs/is-seo-neo-safe.md)
   * [How do I get my backlinks indexed?](additional-information/faqs/how-do-i-get-my-backlinks-indexed.md)
-  * [Hardware requirements?](additional-information/faqs/hardware-requirements.md)
+  * [Technical Requirements?](additional-information/faqs/technical-requirements.md)
   * [Any required 3rd party services?](additional-information/faqs/any-required-3rd-party-services.md)
 * [📖 Glossary](additional-information/glossary/README.md)
   * [Cloud staking](additional-information/glossary/cloud-staking.md)

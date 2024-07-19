@@ -1,5 +1,7 @@
 # 🔵 Diagram Editor
 
+{% embed url="https://www.youtube.com/watch?v=GFiONJKWdIk" %}
+
 ### Diagram Editor overview
 
 As the name implies, the diagram editor, is an editor you can use to create your own strategy diagrams. Although SEO Neo comes with a number of preinstalled strategy diagrams included, If you want to [create your own](creating-a-custom-diagram.md) custom diagram you can do it using the diagram Diagram Editor.

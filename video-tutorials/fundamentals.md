@@ -14,6 +14,6 @@ This video series will cover basic terms and concept of SEO Neo. Whether you're 
 
 {% embed url="https://www.youtube.com/watch?v=t1bJeJR3Wpg" %}
 
-## Diagrams
+## Link Groups & Diagrams
 
-Coming Soon...
+{% embed url="https://www.youtube.com/watch?v=GFiONJKWdIk" %}

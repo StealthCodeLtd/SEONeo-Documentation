@@ -1,7 +1,3 @@
----
-description: This SEO Neo feature is currently under development and its NOT available.
----
-
 # 🧙‍♂️ Wizards
 
 {% embed url="https://www.youtube.com/watch?v=ue4dulRDXNo" %}

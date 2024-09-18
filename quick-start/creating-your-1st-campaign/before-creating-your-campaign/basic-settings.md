@@ -13,7 +13,7 @@ To set your proxies navigate:
 Copy the list of your proxies from your service provider and paste them into Proxies text box. You can add multiple proxies (one per line).
 
 {% hint style="warning" %}
-You should use good quality proxies which have **at least 3 Mbps speed**. Proxies highly effect your campaign success rate.&#x20;
+You should use good quality proxies which have **at least 3 Mbps speed**. Proxies highly effect your campaign success rate. We **recommend** using **Static ISP Proxies** from [**Rayobyte**](https://rayobyte.com/products/isp-proxies)**.**
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/settings - proxies.jpg" alt=""><figcaption></figcaption></figure>

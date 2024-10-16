@@ -50,7 +50,7 @@ From this screen you will find **Connection string** which is what you need for 
 
 
 
-### Important - Additional Setting
+### **Important : Enabling Allow Blob Anonymous Access**
 
 <figure><img src="../../../.gitbook/assets/azure.png" alt=""><figcaption></figcaption></figure>
 

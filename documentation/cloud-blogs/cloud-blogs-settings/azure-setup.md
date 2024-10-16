@@ -50,3 +50,9 @@ From this screen you will find **Connection string** which is what you need for 
 
 
 
+### Important - Additional Setting
+
+<figure><img src="../../../.gitbook/assets/azure.png" alt=""><figcaption></figcaption></figure>
+
+Also make sure to change the "**Allow Blob Anonymous Access**" setting to "**Enabled**" for your Azure storage account.
+

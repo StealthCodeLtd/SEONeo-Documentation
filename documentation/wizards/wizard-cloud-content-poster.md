@@ -72,7 +72,7 @@ This is the same option that you can find also in other SEO Neo sections (for ex
 {% hint style="info" %}
 It is **recommended** to use [**Omega Indexer**](https://www.omegaindexer.com/) or [**Colinkri**](https://www.colinkri.com/) if you want better results with indexing your cloud blog posts.&#x20;
 
-If you need more information on how to setup an indexer [**read this section**](../../quick-start/creating-your-1st-campaign/before-creating-your-campaign/basic-settings.md#indexers) of our documentation.
+If you need more information on how to setup an indexer [**read this section**](../../tutorials/creating-your-1st-campaign/before-creating-your-campaign/basic-settings.md#indexers) of our documentation.
 {% endhint %}
 
 ### Select Cloud Blog

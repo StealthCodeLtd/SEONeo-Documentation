@@ -49,4 +49,4 @@ To change between different UI languages, click on the flag located on the top-r
 
 If you are **a beginner** in SEO Neo, it is recommended to understand some basic terms and concepts of the software. To do so, you can [**watch our Fundamentals**](video-tutorials/fundamentals.md) video series from this documentation or [**visit our official Youtube Channel**](https://www.youtube.com/watch?v=E-rS94B5\_MM\&list=PLalESEO7XMliindhpQ5r3-vpYoLB2jtX9). This video series will cover some basic concepts regarding: accounts, account templates, content buckets, diagrams etc.
 
-After getting familiar with SEO Neo terms and concepts, you can read [**our beginners tutorial on how to setup your first campaign**](quick-start/creating-your-1st-campaign/).
+After getting familiar with SEO Neo terms and concepts, you can read [**our beginners tutorial on how to setup your first campaign**](tutorials/creating-your-1st-campaign/).

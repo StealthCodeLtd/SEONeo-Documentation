@@ -10,9 +10,11 @@ Keyword buckets are similar to other buckets found in SEO Neo, but instead of co
 
 To better understand the structure, refer to the image below that showcases the tiers and structure.
 
-<figure><img src="../../.gitbook/assets/GBP structure 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/GBP structure 1.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Although this scheme of buckets and lists may seem confusing at first, it offers great flexibility when it comes to managing keywords for your GBP projects.
 {% endhint %}
+
+
 

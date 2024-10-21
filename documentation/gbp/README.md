@@ -1,7 +1,7 @@
 ---
+icon: map-location
 hidden: true
 noIndex: true
-icon: map-location
 ---
 
 # GBP
@@ -11,6 +11,6 @@ icon: map-location
 GBP module has three different sections:
 
 * [**Projects**](projects.md)
-* [**GBP Keyword Buckets**](gbp-keyword-buckets.md)
+* [**GBP Keyword Buckets**](gbp-keyword-buckets/)
 * [**Grid Templat**](grid-templates.md)[**es**](grid-templates.md)
 

@@ -81,7 +81,7 @@
   * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/README.md)
     * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/gbp-keyword-buckets.md)
     * [Keyword Lists](documentation/gbp/gbp-keyword-buckets/keyword-lists.md)
-  * [Grid Templates](documentation/gbp/grid-templates.md)
+    * [Grid Templates](documentation/gbp/gbp-keyword-buckets/grid-templates.md)
 
 ## TUTORIALS
 

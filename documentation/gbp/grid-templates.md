@@ -75,7 +75,27 @@ Below is an example of different distance sizes using the **same 7x7** grid size
 
 <figure><img src="../../.gitbook/assets/distance 5 km.png" alt="" width="547"><figcaption><p>Grid Size: 7x7 - Distance Between Points: 5 km (5000 meters)</p></figcaption></figure>
 
+### Zoom Level
 
+Zoom level changes the amount of zoom within the map. The value ranges from **8z-18z** (z is for zoom level and it's the official Google maps unit of zoom). You can also set it to auto.
 
+<figure><img src="../../.gitbook/assets/zoom level.png" alt=""><figcaption></figcaption></figure>
 
+Using button on the right side you can preview the selected zoom amount/value.
+
+<figure><img src="../../.gitbook/assets/zoom level buttons.png" alt=""><figcaption></figcaption></figure>
+
+You can drag over the map to preview your grid settings and explore the area.  You can also use Google map's tool buttons which are hidden by default by switching the "**Show map controls**" toggle button.
+
+<figure><img src="../../.gitbook/assets/zoom level control buttons.png" alt=""><figcaption></figcaption></figure>
+
+If you by any change you get lost within the map (while exploring the area or while trying different zoom levels) click on "**fit grid and reset**" button. This will automatically zoom and fit your grid within the map review area.
+
+<figure><img src="../../.gitbook/assets/fit grid and reset.png" alt=""><figcaption></figcaption></figure>
+
+After setting your values, click on "**Create Grid Template**" to save your template.&#x20;
+
+<figure><img src="../../.gitbook/assets/create grid template button.png" alt=""><figcaption></figcaption></figure>
+
+You can now use your grid template when you create your GBP project heatmaps.
 

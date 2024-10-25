@@ -1,5 +1,6 @@
 ---
 icon: coin-front
+hidden: true
 ---
 
 # Credit System

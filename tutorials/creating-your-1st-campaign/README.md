@@ -1,4 +1,8 @@
-# 1⃣ Creating your 1st campaign
+---
+icon: '1'
+---
+
+# Creating your 1st campaign
 
 In this tutorial we will see how we can create a simple campaign.&#x20;
 

@@ -84,7 +84,7 @@
 
 ## TUTORIALS
 
-* [1️⃣ Creating your 1st campaign](tutorials/creating-your-1st-campaign/README.md)
+* [Creating your 1st campaign](tutorials/creating-your-1st-campaign/README.md)
   * [Before creating your campaign](tutorials/creating-your-1st-campaign/before-creating-your-campaign/README.md)
     * [Basic settings](tutorials/creating-your-1st-campaign/before-creating-your-campaign/basic-settings.md)
     * [Create Account Bucket](tutorials/creating-your-1st-campaign/before-creating-your-campaign/create-account-bucket.md)
@@ -97,7 +97,7 @@
     * [2 - Common](tutorials/creating-your-1st-campaign/creating-your-campaign/2-common.md)
     * [3 - Groups](tutorials/creating-your-1st-campaign/creating-your-campaign/3-groups.md)
     * [4 - Settings](tutorials/creating-your-1st-campaign/creating-your-campaign/4-settings.md)
-* [2️⃣ Your campaign results](tutorials/your-campaign-results/README.md)
+* [Your campaign results](tutorials/your-campaign-results/README.md)
   * [View campaign details](tutorials/your-campaign-results/view-campaign-details.md)
   * [View and export results](tutorials/your-campaign-results/view-and-export-results.md)
   * [Retry campaign](tutorials/your-campaign-results/retry-campaign.md)
@@ -125,7 +125,7 @@
   * [Drip Feed](additional-information/glossary/drip-feed.md)
   * [Pillowing techniques](additional-information/glossary/pillowing-techniques.md)
 
-## 📹 Video Tutorials
+## Video Tutorials
 
 * [Fundamentals](video-tutorials/fundamentals.md)
 * [Tips & Tricks](video-tutorials/tips-and-tricks.md)

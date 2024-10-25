@@ -1,2 +1,6 @@
-# ❔ FAQ's
+---
+icon: circle-question
+---
+
+# FAQ's
 

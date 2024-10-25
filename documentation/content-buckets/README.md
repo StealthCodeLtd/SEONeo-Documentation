@@ -1,4 +1,8 @@
-# 📘 Content Buckets
+---
+icon: newspaper
+---
+
+# Content Buckets
 
 ### Video: Content Bucket Fundamentals
 

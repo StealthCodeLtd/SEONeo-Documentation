@@ -1,4 +1,8 @@
-# 🔍 Software Overview
+---
+icon: display
+---
+
+# Software Overview
 
 ### Main sections
 

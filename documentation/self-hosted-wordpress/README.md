@@ -1,4 +1,8 @@
-# 🌐 Self Hosted Wordpress
+---
+icon: server
+---
+
+# Self Hosted Wordpress
 
 Self Hosted Wordpress is a powerful SEO Neo feature that allows you to post on your own self-hosted Wordpress websites.&#x20;
 

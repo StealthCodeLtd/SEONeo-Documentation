@@ -1,2 +1,6 @@
-# ⭐ Features
+---
+icon: star
+---
+
+# Features
 

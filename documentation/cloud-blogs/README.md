@@ -1,4 +1,8 @@
-# ☁ Cloud Blogs
+---
+icon: cloud
+---
+
+# Cloud Blogs
 
 ### What is a Cloud Blog
 

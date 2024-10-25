@@ -1,4 +1,8 @@
-# ⚙ Settings
+---
+icon: gear
+---
+
+# Settings
 
 From **Settings** screen you can change all global settings of the software. These are usually settings that don't change regularly from campaign to campaign.
 

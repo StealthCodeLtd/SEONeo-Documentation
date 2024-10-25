@@ -1,4 +1,8 @@
-# 📑 Campaigns
+---
+icon: bullseye
+---
+
+# Campaigns
 
 For campaigns there are three different screens: **campaigns overview**, **campaign details** and **campaign creation**.
 

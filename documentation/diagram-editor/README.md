@@ -1,4 +1,8 @@
-# 🔵 Diagram Editor
+---
+icon: chart-network
+---
+
+# Diagram Editor
 
 {% embed url="https://www.youtube.com/watch?v=GFiONJKWdIk" %}
 

@@ -1,4 +1,8 @@
-# 📋 Account Templates
+---
+icon: file-invoice
+---
+
+# Account Templates
 
 ### Video: Account Templates Fundamentals
 

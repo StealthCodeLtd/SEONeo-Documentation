@@ -1,4 +1,8 @@
-# 🔑 Account Buckets
+---
+icon: file-user
+---
+
+# Account Buckets
 
 ### Video: Account Buckets Fundamentals
 

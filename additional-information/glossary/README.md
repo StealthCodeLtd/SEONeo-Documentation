@@ -1,2 +1,6 @@
-# 📖 Glossary
+---
+icon: book
+---
+
+# Glossary
 

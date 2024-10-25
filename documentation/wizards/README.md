@@ -1,4 +1,8 @@
-# 🧙‍♂️ Wizards
+---
+icon: hat-wizard
+---
+
+# Wizards
 
 {% embed url="https://www.youtube.com/watch?v=ue4dulRDXNo" %}
 

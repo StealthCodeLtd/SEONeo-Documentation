@@ -12,5 +12,5 @@ GBP module has three different sections:
 
 * [**Projects**](projects.md)
 * [**GBP Keyword Buckets**](gbp-keyword-buckets/)
-* [**Grid Templat**](gbp-keyword-buckets/grid-templates.md)[**es**](gbp-keyword-buckets/grid-templates.md)
+* [**Grid Templat**](grid-templates.md)[**es**](grid-templates.md)
 

@@ -11,6 +11,6 @@ noIndex: true
 GBP module has three different sections:
 
 * [**Projects**](projects.md)
-* [**GBP Keyword Buckets**](gbp-keyword-buckets/)
+* [**GBP Keyword Buckets**](gbp-keyword-buckets.md)
 * [**Grid Templat**](grid-templates.md)[**es**](grid-templates.md)
 

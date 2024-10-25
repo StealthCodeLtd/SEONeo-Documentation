@@ -1,2 +1,0 @@
-# GBP Keyword Buckets
-

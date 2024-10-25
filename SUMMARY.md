@@ -78,10 +78,8 @@
   * [Keywords Strategy](documentation/features/keywords-strategy.md)
 * [GBP](documentation/gbp/README.md)
   * [Projects](documentation/gbp/projects.md)
+  * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets.md)
   * [Grid Templates](documentation/gbp/grid-templates.md)
-  * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/README.md)
-    * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/gbp-keyword-buckets.md)
-    * [Keyword Lists](documentation/gbp/gbp-keyword-buckets/keyword-lists.md)
 
 ## TUTORIALS
 

@@ -23,16 +23,3 @@ There are three different filter types:
 To better understand each group filters, we will show you the selected diagram used on this example:
 
 <figure><img src="../../../.gitbook/assets/camapign group filters - diagram.jpg" alt=""><figcaption><p>Diagram used on the example to demostrate group filters</p></figcaption></figure>
-
-
-
-### Groups
-
-
-
-### Setting Group Details
-
-
-
-
-

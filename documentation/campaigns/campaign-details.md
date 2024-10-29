@@ -74,21 +74,10 @@ You can select tiers, group types and even hide credentials from posted links.
 
 After setting your filters, click on **Confirm** button to view posted links.
 
+<figure><img src="../../.gitbook/assets/campaign-details posted links.png" alt=""><figcaption></figcaption></figure>
 
+### View Campaign Log
 
+To view your campaign's log click on View Log button. This is different from task log mention above, as this includes log details for the whole campaign.
 
-
-
-
-### View Log
-
-
-
-
-
-
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/campaign-details view_log.png" alt=""><figcaption></figcaption></figure>

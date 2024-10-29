@@ -67,6 +67,8 @@
   * [Wizard: Cloud Content Poster](documentation/wizards/wizard-cloud-content-poster.md)
   * [Wizard: Self-Hosted WordPress Poster](documentation/wizards/wizard-self-hosted-wordpress-poster.md)
   * [Wizard: Zero to Hero](documentation/wizards/wizard-zero-to-hero.md)
+  * [Wizard: GBP Blast](documentation/wizards/wizard-gbp-blast.md)
+  * [Wizard: GBP Sniper](documentation/wizards/wizard-gbp-sniper.md)
 * [Features](documentation/features/README.md)
   * [Link Matching](documentation/features/link-matching.md)
   * [Article Builder](documentation/features/article-builder.md)

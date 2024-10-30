@@ -19,7 +19,7 @@ layout:
 
 # Wizard: RD100
 
-## **About RD100 Strategy**
+### **About RD100 Strategy**
 
 **RD100** is a **strategy** wizard that help you setup a powerful SEO strategy. With this strategy you can pass a huge amount of Authority from your Tier 1's directly to your money site URLs.
 
@@ -31,9 +31,9 @@ Below is a video about this strategy and how you can create from scratch using S
 
 {% embed url="https://www.youtube.com/watch?v=EjiOP0j69sY" %}
 
+***
 
-
-## Why Use RD100 Wizard
+### Why Use RD100 Wizard
 
 Although you can create a campaign in SEO Neo that utilizes this strategy (using available RD100 diagram) the campaign will fit the needs of only one URL. When you select RD100 diagram from available diagrams it is indicated that its **suitable for one URL**.
 
@@ -45,9 +45,9 @@ Although you can create a campaign in SEO Neo that utilizes this strategy (using
 
 This wizard creates a more advanced setup of the strategy by generating multiple campaigns based on given money sites. With this wizard you make sure that each URL of your money site will get a huge amount of authority.
 
+***
 
-
-## How to use RD100 Wizard
+### How to use RD100 Wizard
 
 To run this wizard navigate:
 
@@ -66,9 +66,9 @@ This Wizard is broken into two steps:
 1. Strategy Settings
 2. Posting Settings
 
-##
+***
 
-## Domain Authority Stacking: Strategy Settings
+### Domain Authority Stacking: Strategy Settings
 
 ### Campaign Folder
 
@@ -145,9 +145,9 @@ Enter keywords related to your Money Site's URLs niche.&#x20;
 Enter your **best targeted keywords**. These keywords will be used in various ways within this strategy.
 {% endhint %}
 
+***
 
-
-## Domain Authority Stacking: Post Settings
+### Domain Authority Stacking: Post Settings
 
 ### **Captcha Services**
 

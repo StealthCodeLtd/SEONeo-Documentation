@@ -49,7 +49,7 @@ For each keyword you select you also get some useful information including metri
 
 After your selection, click on **"Next"** button to proceed to Campaign settings.
 
-
+***
 
 ### Campaign settings
 

@@ -16,7 +16,7 @@ To better understand the structure, refer to the image below that showcases the 
 Although this scheme of buckets and lists may seem confusing at first, it offers great flexibility when it comes to managing keywords for your GBP projects.
 {% endhint %}
 
-
+***
 
 ### Creating GBP Keyword Buckets
 
@@ -34,7 +34,7 @@ After clicking giving a name and clicking "Create" button, you will be automatic
 
 This is where you can create your keyword lists.
 
-
+***
 
 ### Creating Keyword Lists
 

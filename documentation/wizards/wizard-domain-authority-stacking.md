@@ -19,11 +19,11 @@ layout:
 
 # Wizard: Domain Authority Stacking
 
-## **About** Domain Authority Stacking **Strategy**
+### **About** Domain Authority Stacking **Strategy**
 
 This one of the most important SEO strategies of the [**pillowing technique**](../../additional-information/glossary/pillowing-techniques.md). This strategy is very effective for new websites to _warmup_ your _link profile_ with plain URLs and to create _depth of content_ to your Web 2.0's PBN.
 
-## How to Use Domain Authority Stacking
+### How to Use Domain Authority Stacking
 
 To run this wizard navigate:
 
@@ -33,7 +33,7 @@ From Wizards screen select "**Domain Authority Stacking**" wizard and click on "
 
 <figure><img src="../../.gitbook/assets/das - screen.jpg" alt=""><figcaption></figcaption></figure>
 
-## Using Domain Authority Stacking Wizard
+### Using Domain Authority Stacking Wizard
 
 <figure><img src="../../.gitbook/assets/da sections.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -42,11 +42,11 @@ This Wizard is broken into two steps:
 1. Strategy Settings
 2. Posting Settings
 
+***
 
+### Domain Authority Stacking: Strategy Settings
 
-## Domain Authority Stacking: Strategy Settings
-
-## Campaign Folder <a href="#campaign-folder" id="campaign-folder"></a>
+### Campaign Folder <a href="#campaign-folder" id="campaign-folder"></a>
 
 <figure><img src="../../.gitbook/assets/das campaign folder.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -54,9 +54,9 @@ In this option you select where you want the wizard to store generated campaign.
 
 If you want the wizard to store the new campaign into a specific folder you can select "**Select a Folder**" radio button and use the drop-down menu to select a specific folder.
 
+***
 
-
-## Account Templates
+### Account Templates
 
 <figure><img src="../../.gitbook/assets/das - account templates.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -64,9 +64,9 @@ Select which account template you want to use.
 
 For more information about account templates [**read this section**](https://docs.seoneo.io/documentation/wizards-under-construction/rd100#account-templates) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=q-Yxap82F5U).
 
+***
 
-
-## Account Buckets
+### Account Buckets
 
 <figure><img src="../../.gitbook/assets/das - account buckets.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -74,9 +74,9 @@ Select which account bucket you want to use. You can let SEO Neo generate an acc
 
 For more information about accounts buckets [**read this section**](https://docs.seoneo.io/documentation/wizards-under-construction/rd100#account-buckets) of the documentation or [**watch this video**](https://www.youtube.com/watch?v=E-rS94B5\_MM).
 
+***
 
-
-## Content Bucket
+### Content Bucket
 
 <figure><img src="../../.gitbook/assets/das - content buckets.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -92,17 +92,19 @@ If you want to learn more on creating content buckets you [**can read this secti
 You can also [**watch this video**](https://www.youtube.com/watch?v=t1bJeJR3Wpg) that explains how content buckets work.
 {% endhint %}
 
+***
 
-
-## Money Sites
+### Money Sites
 
 <figure><img src="../../.gitbook/assets/das - money sites.jpg" alt=""><figcaption></figcaption></figure>
 
 Enter all available URLs from your money site.
 
-## Domain Authority Stacking: Posting Settings
+***
 
-## **Captcha Services**
+### Domain Authority Stacking: Posting Settings
+
+### **Captcha Services**
 
 <figure><img src="../../.gitbook/assets/rd100-captcha.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -112,13 +114,13 @@ You set which captcha service you want to use for generated wizard campaign/camp
 It is highly recommended to use 2Captcha API as a captcha solving service. You can get your API from [**this link**](https://2captcha.com/?from=1577834).
 {% endhint %}
 
-## **Threads**
+### **Threads**
 
 <figure><img src="../../.gitbook/assets/rd100-threads.jpg" alt=""><figcaption></figcaption></figure>
 
 Here you can change how many threads will be used for generated wizard campaign/campaigns. On some sites SEO Neo uses HTTP requests to create posts, and other sites use browser. You can change threads usage independently for each method.
 
-## Indexer
+### Indexer
 
 <figure><img src="../../.gitbook/assets/rd100-indexer.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -131,4 +133,3 @@ If you need more information on how to setup an indexer [**read this section**](
 {% endhint %}
 
 When you finish click on "**Generate**" button and your are done!&#x20;
-

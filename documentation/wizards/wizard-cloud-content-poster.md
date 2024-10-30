@@ -29,9 +29,9 @@ From Wizards screen select "**Cloud Content Poster**" wizard and click on "**Ini
 
 <figure><img src="../../.gitbook/assets/ccp-1.jpg" alt=""><figcaption></figcaption></figure>
 
-##
+***
 
-## How to Use Cloud Content Poster
+### How to Use Cloud Content Poster
 
 This Wizard is broken into two steps:
 
@@ -43,9 +43,9 @@ This Wizard is broken into two steps:
 
 Let's go and set each available option on this wizard.
 
+***
 
-
-## Step 1 - General Settings
+### Step 1 - General Settings
 
 ### Campaign Folder
 
@@ -95,9 +95,9 @@ This option is optional but is very useful. You can check "**Schedule Cloud Post
 
 When you finish with General Settings click on "**Next**" button to navigate to the second step of the wizard.&#x20;
 
+***
 
-
-## Step 2 - Post Settings
+### Step 2 - Post Settings
 
 This step includes all the options to define your posts on your cloud blog (the one you selected on the previous step).
 

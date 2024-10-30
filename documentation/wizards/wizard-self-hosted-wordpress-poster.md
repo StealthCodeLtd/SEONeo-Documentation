@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# Self-Hosted WordPress Poster
+# Wizard: Self-Hosted WordPress Poster
 
 Self-Hosted WordPress Poster is a  **utility wizard** designed to help you quickly create posts on your self-hosted WordPress websites. It eliminates the need for setting up time-consuming campaigns, allowing you to effortlessly publish content on your websites.
 
@@ -29,9 +29,9 @@ From Wizards screen select "**Self-Hosted WordPress Poster**" wizard and click o
 
 <figure><img src="../../.gitbook/assets/shw poster 1.jpg" alt=""><figcaption></figcaption></figure>
 
+***
 
-
-## How to Use Self-Hosted Wordpress Poster
+### How to Use Self-Hosted Wordpress Poster
 
 This Wizard is broken into two steps:
 
@@ -43,9 +43,9 @@ This Wizard is broken into two steps:
 
 Let's go and set each available option on this wizard.
 
+***
 
-
-## Step 1 - General Settings
+### Step 1 - General Settings
 
 ### Campaign Folder <a href="#campaign-folder" id="campaign-folder"></a>
 
@@ -57,13 +57,13 @@ If you want the wizard to store the new campaign into a specific folder you can 
 
 <figure><img src="../../.gitbook/assets/ccp-3.jpg" alt=""><figcaption></figcaption></figure>
 
-## Name Prefix
+### Name Prefix
 
 <figure><img src="../../.gitbook/assets/shw poster 4.jpg" alt=""><figcaption></figcaption></figure>
 
 **Name prefix** gives a prefix on generated campaign name to help you identify it later. Name prefix is optional but it is recommended if you want to keep your campaigns better organized.
 
-## Indexer
+### Indexer
 
 <figure><img src="../../.gitbook/assets/shw poster 5.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ It is **recommended** to use [**Omega Indexer**](https://www.omegaindexer.com/) 
 If you need more information on how to setup an indexer [**read this section**](https://docs.seoneo.io/quick-start/creating-your-1st-campaign/before-creating-your-campaign/basic-settings#indexers) of our documentation.
 {% endhint %}
 
-## Select Self-Hosted WordPress
+### Select Self-Hosted WordPress
 
 <figure><img src="../../.gitbook/assets/shw poster 6.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +85,7 @@ In this section you select which self-hosted WordPress you want to use to create
 For more information on how to setup your self-hosted WordPress account into SEO Neo [**read this section**](../self-hosted-wordpress/) of the documentation.
 {% endhint %}
 
-## Self-Hosted WordPress Poster Schedule
+### Self-Hosted WordPress Poster Schedule
 
 <figure><img src="../../.gitbook/assets/shw poster 7.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -95,9 +95,9 @@ This option is optional but is very useful. You can check "**Schedule Self-Hoste
 
 When you finish with General Settings click on "**Next**" button to navigate to the second step of the wizard.
 
+***
 
-
-## Step 2 - Post Settings
+### Step 2 - Post Settings
 
 This step includes all the options to define your posts on your WordPress website (the one you selected on the previous step).
 

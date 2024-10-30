@@ -21,7 +21,7 @@ In order to save time, you can set your grid template once and use it across you
 Create your grid templates and use them when you create a heatmap to save time.
 {% endhint %}
 
-###
+***
 
 ### Creating a Grid Template
 
@@ -59,7 +59,7 @@ To better illustrate grid size, here are some examples of different grid sizes a
 
 <figure><img src="../../.gitbook/assets/grid_size 9x9.png" alt="" width="369"><figcaption><p>A 9x9 grid size template</p></figcaption></figure>
 
-## Distance Between Points
+### Distance Between Points
 
 This value allows you to change the distance between each points in the grid. By changing this value you can cover larger areas with the same amount of points (defined by previous value "**grid size**").
 
@@ -98,4 +98,3 @@ After setting your values, click on "**Create Grid Template**" to save your temp
 <figure><img src="../../.gitbook/assets/create grid template button.png" alt=""><figcaption></figcaption></figure>
 
 You can now use your grid template when you create your GBP project heatmaps.
-

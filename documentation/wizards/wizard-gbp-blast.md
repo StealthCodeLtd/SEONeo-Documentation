@@ -1,4 +1,6 @@
 ---
+hidden: true
+noIndex: true
 cover: ../../.gitbook/assets/GBP-blast.png
 coverY: 0
 layout:

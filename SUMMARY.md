@@ -69,6 +69,7 @@
   * [Wizard: Zero to Hero](documentation/wizards/wizard-zero-to-hero.md)
   * [Wizard: GBP Blast](documentation/wizards/wizard-gbp-blast.md)
   * [Wizard: GBP Sniper](documentation/wizards/wizard-gbp-sniper.md)
+  * [Wizard: Rank Your Brand](documentation/wizards/wizard-rank-your-brand.md)
 * [Features](documentation/features/README.md)
   * [Link Matching](documentation/features/link-matching.md)
   * [Article Builder](documentation/features/article-builder.md)

@@ -19,21 +19,17 @@ layout:
     visible: true
 ---
 
-# Wizard: GBP Sniper
+# Wizard: Rank Your Brand
 
-### GBP Sniper Introduction
-
-\###
-
-### How to use "GBP Sniper" Wizard
+### How to use "Rank Your Brand" Wizard
 
 To run this wizard navigate:
 
 **Main menu > Wizards**
 
-From Wizards screen select "**GBP Sniper**" wizard and click on "**Initialize**" button to launch it.
+From Wizards screen select "**Rank Your Brand**" wizard and click on "**Initialize**" button to launch it.
 
-<figure><img src="../../.gitbook/assets/gbp-sniper.png" alt=""><figcaption></figcaption></figure>
+\###
 
 
 

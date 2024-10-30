@@ -27,7 +27,7 @@ GBP Blast is a powerful wizard that allows you to take action and boost your loc
 
 When you run this wizard, you will be asked to select a GBP project and a keyword (from your generated heatmaps).
 
-### How to Use GBP Blast Wizard
+### How to use "GBP Blast" Wizard
 
 To run this wizard navigate: **Main menu > Wizards**
 

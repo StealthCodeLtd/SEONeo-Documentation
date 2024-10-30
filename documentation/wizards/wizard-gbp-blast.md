@@ -1,7 +1,7 @@
 ---
 hidden: true
 noIndex: true
-cover: ../../.gitbook/assets/GBP-blast.png
+cover: ../../.gitbook/assets/GBP-blast header.png
 coverY: 0
 layout:
   cover:
@@ -64,6 +64,8 @@ Select Account Template:
 Select **content bucket** and enter your **primary keywords**.
 
 <figure><img src="../../.gitbook/assets/gbp-blast 7.png" alt=""><figcaption></figcaption></figure>
+
+### Import GBP Keywords
 
 For primary keywords, you can import keywords from a GBP project or a **GBP keyword bucket** using the import button.
 

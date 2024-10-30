@@ -1,7 +1,7 @@
 ---
 hidden: true
 noIndex: true
-cover: ../../.gitbook/assets/rank-your-brand-cover.png
+cover: ../../.gitbook/assets/rank-your-brand header.png
 coverY: 0
 layout:
   cover:

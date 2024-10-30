@@ -1,7 +1,7 @@
 ---
 hidden: true
 noIndex: true
-cover: ../../.gitbook/assets/GBP-sniper.png
+cover: ../../.gitbook/assets/rank-your-brand-cover.png
 coverY: 0
 layout:
   cover:

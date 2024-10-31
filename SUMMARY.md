@@ -34,7 +34,6 @@
   * [Visual Settings](documentation/settings/visual-settings.md)
 * [Campaigns](documentation/campaigns/README.md)
   * [Campaigns Overview](documentation/campaigns/campaigns-overview.md)
-  * [Campaign Details](documentation/campaigns/campaign-details.md)
   * [Campaign Creation screen](documentation/campaigns/campaign-creation-screen/README.md)
     * [1 - Diagram](documentation/campaigns/campaign-creation-screen/1-diagram.md)
     * [2 - Common](documentation/campaigns/campaign-creation-screen/2-common.md)
@@ -101,10 +100,7 @@
     * [2 - Common](tutorials/creating-your-1st-campaign/creating-your-campaign/2-common.md)
     * [3 - Groups](tutorials/creating-your-1st-campaign/creating-your-campaign/3-groups.md)
     * [4 - Settings](tutorials/creating-your-1st-campaign/creating-your-campaign/4-settings.md)
-* [Your campaign results](tutorials/your-campaign-results/README.md)
-  * [View campaign details](tutorials/your-campaign-results/view-campaign-details.md)
-  * [View and export results](tutorials/your-campaign-results/view-and-export-results.md)
-  * [Retry campaign](tutorials/your-campaign-results/retry-campaign.md)
+* [Your Campaign Results](tutorials/your-campaign-results.md)
 
 ## Additional Information
 

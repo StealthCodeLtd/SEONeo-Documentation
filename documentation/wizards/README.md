@@ -26,9 +26,19 @@ A **strategy-type wizard** guides the user through a step-by-step process to cre
 
 A **utility-type wizard**, while similar to a strategy-type, primarily aims to **simplify** redundant and time-consuming SEO Neo operations rather than create complex SEO strategies. For instance, the "**Cloud Content Poster**" utility wizard assists users in posting to their cloud blogs. The user simply selects their cloud blog, inputs the content, adjusts any additional settings, and the wizard automatically generates a custom campaign for this task.
 
+### Editing Wizard-Generated Campaigns
+
+When you create campaign(s) using a wizard, you can edit some parts of wizard strategy using quick edit.
+
+
+
+
+
+***
+
 ## Wizards List
 
 Here is a table with currently available Wizards. SEO Neo team works hard to develop and integrate new wizards on next updates.
 
-<table><thead><tr><th width="282">Wizard Name</th><th width="106">Type</th><th>Description</th></tr></thead><tbody><tr><td><a href="wizard-zero-to-hero.md">Zero to Hero</a></td><td>Strategy</td><td>A complex strategy that combines <strong>authority stacking</strong>, <strong>warm up</strong> and <strong>advanced ranking</strong> techniques.</td></tr><tr><td><a href="wizard-domain-authority-stacking.md">Domain Authority Stacking</a></td><td>Strategy</td><td>A very useful strategy to "<strong>warm up</strong>" new websites.</td></tr><tr><td><a href="wizard-rd100.md">RD100</a></td><td>Strategy</td><td>Power each Tier1 URL with at least <strong>100</strong> different <strong>Referring Domains</strong>.</td></tr><tr><td><a href="wizard-cloud-content-poster.md">Cloud Content Poster</a></td><td>Utility</td><td>A simple wizard to help you <strong>create</strong> and <strong>schedule</strong> posts on your cloud blogs.</td></tr><tr><td><a href="wizard-self-hosted-wordpress-poster.md">SHW Content Poster</a></td><td>Utility</td><td>A simple wizard to help you <strong>create</strong> and <strong>schedule</strong> posts on your Self-Hosted WordPress websites.</td></tr></tbody></table>
+<table><thead><tr><th width="282">Wizard Name</th><th width="106">Type</th><th>Description</th></tr></thead><tbody><tr><td><a href="wizard-zero-to-hero.md"><strong>Zero to Hero</strong></a></td><td> Strategy</td><td>A complex strategy that combines <strong>authority stacking</strong>, <strong>warm up</strong> and <strong>advanced ranking</strong> techniques.</td></tr><tr><td><a href="wizard-domain-authority-stacking.md"><strong>Domain Authority Stacking</strong></a></td><td>Strategy</td><td>A very useful strategy to "<strong>warm up</strong>" new websites.</td></tr><tr><td><a href="wizard-rd100.md"><strong>RD100</strong></a></td><td>Strategy</td><td>Power each Tier1 URL with at least <strong>100</strong> different <strong>Referring Domains</strong>.</td></tr><tr><td><a href="wizard-gbp-blast.md"><strong>GBP Blast</strong></a></td><td>Strategy</td><td>GMB Blast is an <strong>advance local SEO strategy</strong> that leverages Google Maps Directional URLs!</td></tr><tr><td><a href="wizard-gbp-sniper.md"><strong>GBP Sniper</strong></a></td><td>Strategy</td><td>A powerful <strong>local SEO strategy</strong> that creates authority both at your GBP and to the overall brand.</td></tr><tr><td><a href="wizard-cloud-content-poster.md"><strong>Cloud Content Poster</strong></a></td><td>Utility</td><td>A simple wizard to help you <strong>create</strong> and <strong>schedule</strong> posts on your cloud blogs.</td></tr><tr><td><a href="wizard-self-hosted-wordpress-poster.md"><strong>SHW Content Poster</strong></a></td><td>Utility</td><td>A simple wizard to help you <strong>create</strong> and <strong>schedule</strong> posts on your Self-Hosted WordPress websites.</td></tr></tbody></table>
 

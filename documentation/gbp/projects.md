@@ -20,7 +20,7 @@ After clicking "**Create New Project**" button a new window will load where you 
 
 <figure><img src="../../.gitbook/assets/project-new.png" alt=""><figcaption><p>New GBP project window</p></figcaption></figure>
 
-###
+***
 
 ### New Project Details
 

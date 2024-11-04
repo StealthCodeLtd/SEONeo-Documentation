@@ -8,7 +8,7 @@ SEO Neo **advanced account protection feature** and posting algorithm ensure tha
 
 ### Safety Mechanism 2 : Account protection
 
-SEO Neo also binds your accounts with specific [proxies](../glossary/proxies.md), therefore, you avoid getting banned and your accounts stay in good standing and they are active for a really long period of time if not "forever"…!
+SEO Neo also binds your accounts with specific [**proxies**](../glossary/proxies.md), therefore, you avoid getting banned and your accounts stay in good standing and they are active for a really long period of time if not "forever"…!
 
 ### Safety Mechanism 3 : Real Duplicate Protection Algorithm
 

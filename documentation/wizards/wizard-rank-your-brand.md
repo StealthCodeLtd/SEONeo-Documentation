@@ -29,7 +29,9 @@ To run this wizard navigate:
 
 From Wizards screen select "**Rank Your Brand**" wizard and click on "**Initialize**" button to launch it.
 
-\###
+<figure><img src="../../.gitbook/assets/rank-your-brand-wizaerd.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 

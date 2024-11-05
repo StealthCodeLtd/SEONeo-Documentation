@@ -10,7 +10,7 @@ For Articles and Bios you can import:
 
 <figure><img src="../../.gitbook/assets/content bucket - import 1.jpg" alt=""><figcaption></figcaption></figure>
 
-For Bios, Rich Content and Blog Details you can import only from other buckets.
+For Blog Details you can **import only** from other buckets.
 
 <figure><img src="../../.gitbook/assets/content bucket - import 2.jpg" alt=""><figcaption></figcaption></figure>
 

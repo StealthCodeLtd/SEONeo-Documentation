@@ -35,3 +35,10 @@ Content buckets without content inside them, they will not be displayed when you
 
 <figure><img src="../../.gitbook/assets/content bucket - import from other bucket 2.jpg" alt=""><figcaption></figcaption></figure>
 
+### Import\Export Rich Content
+
+Import content also works for rich content. You can import from files, folder or another bucket. Importing rich content from file(s) or a folder for rich content is used to import rich content from a previous SEO Neo export. When you export your rich content in SEO Neo, it will export .txt file extries for each individual rich content entry, so you use exported files to import them back again in SEO Neo.
+
+{% hint style="info" %}
+Rich content import (from file(s) or a folder) is used to import rich content from a previous SEO Neo export.
+{% endhint %}

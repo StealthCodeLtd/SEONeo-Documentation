@@ -12,7 +12,7 @@ You can access Wizards list by clicking "**Wizards**" button from main menu.
 
 <figure><img src="../../.gitbook/assets/wizard-main-menu.jpg" alt=""><figcaption></figcaption></figure>
 
-From this screen you can select a wizard from the list on the left side. For each wizard there is a detailed description on the right side including: wizard category (Strategy or Utility), purpose and description, site age and other useful information for selected wizard.
+From this screen you can select a wizard from the list on the left side. For each wizard there is a detailed description on the right side including: wizard category (**Strategy** or **Utility**), **purpose** and **description**, **site age** and other useful information for selected wizard.
 
 <figure><img src="../../.gitbook/assets/wizards-2.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,9 @@ A **utility-type wizard**, while similar to a strategy-type, primarily aims to *
 
 ### Editing Wizard-Generated Campaigns
 
-When you create campaign(s) using a wizard, you can edit some parts of wizard strategy using quick edit.
+When you create campaign(s) using a wizard, you can edit some parts of wizard strategy using quick edit. To access **wizard-generated campaigns quick edit**, use hover buttons on your campaign list.
+
+<figure><img src="../../.gitbook/assets/wizard-quick edit.png" alt=""><figcaption></figcaption></figure>
 
 
 

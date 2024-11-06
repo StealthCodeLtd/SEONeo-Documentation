@@ -32,7 +32,7 @@ When you create campaign(s) using a wizard, you can edit some parts of wizard st
 
 <figure><img src="../../.gitbook/assets/wizard-quick edit.png" alt=""><figcaption></figcaption></figure>
 
-
+Each _wizard-generated campaign_ has it's own settings that you can change through quick edit.&#x20;
 
 
 

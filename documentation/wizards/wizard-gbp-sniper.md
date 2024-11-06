@@ -26,7 +26,7 @@ layout:
 GBP Sniper is a powerful wizard that generates advance SEO strategy campaigns for local SEO. This strategy creates authority both on GBP and the overall brand.
 
 {% hint style="info" %}
-**Very important:** When you run the wizard for the first time SEO Neo will use the **GBP cid URL**. The second time you run the wizard, you will be prompt to use the **GBP place id URL** (instead of cid).
+**Important:** When you run the wizard for the first time SEO Neo will use the **GBP cid URL**. The second time you run the wizard, you will be prompt to use the **GBP place id URL** (instead of **cid**).
 {% endhint %}
 
 ### How to use "GBP Sniper" Wizard
@@ -38,8 +38,6 @@ To run this wizard navigate:
 From Wizards screen select "**GBP Sniper**" wizard and click on "**Initialize**" button to launch it.
 
 <figure><img src="../../.gitbook/assets/gbp-sniper.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ***
 

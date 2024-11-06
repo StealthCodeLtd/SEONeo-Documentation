@@ -32,9 +32,9 @@ When you create campaign(s) using a wizard, you can edit some parts of wizard st
 
 <figure><img src="../../.gitbook/assets/wizard-quick edit.png" alt=""><figcaption></figcaption></figure>
 
-Each _wizard-generated campaign_ has it's own settings that you can change through quick edit.&#x20;
+Each _wizard-generated campaign_ has it's own settings that you can change through quick edit. For example a campaign generated from **Zero to Hero** wizard has the following options that you can change in quick edit window:
 
-
+<figure><img src="../../.gitbook/assets/wizard-quick-edit.png" alt=""><figcaption><p>Quick-edit - Zero to Hero generated campaign</p></figcaption></figure>
 
 ***
 

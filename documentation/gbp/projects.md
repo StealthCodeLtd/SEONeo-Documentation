@@ -4,11 +4,11 @@
 
 To create a new GBP project, first navigate to **GBP > Projects** from main modules menu and then follow the same method you use to create a new campaign.&#x20;
 
-<figure><img src="../../.gitbook/assets/projects-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/projects-1.png" alt=""><figcaption><p>GBP module: Projects</p></figcaption></figure>
 
 To create a new project, click on "**Create New Project**" button.
 
-<figure><img src="../../.gitbook/assets/projects-3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/projects-3.jpg" alt=""><figcaption><p>GBP Projects screen</p></figcaption></figure>
 
 {% hint style="info" %}
 You can also use **Tags** to organize your GBP projects (as with **Content Bucket Tags**). For more information on tags, [**read this section**](../content-buckets/content-bucket-tags.md) of the documentation.
@@ -26,7 +26,7 @@ After clicking "**Create New Project**" button a new window will load where you 
 
 On **Project friendly name** you give your project a name.
 
-<figure><img src="../../.gitbook/assets/project-friendly_name.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/project-friendly_name.png" alt=""><figcaption><p>Giving GBP project a name</p></figcaption></figure>
 
 ### Business Finder
 

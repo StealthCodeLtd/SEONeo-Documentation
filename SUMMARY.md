@@ -80,7 +80,7 @@
   * [Keywords Strategy](documentation/features/keywords-strategy.md)
 * [GBP](documentation/gbp/README.md)
   * [Projects](documentation/gbp/projects.md)
-  * [Heatmaps](documentation/gbp/heatmaps.md)
+  * [Heatmaps - Creation](documentation/gbp/heatmaps-creation.md)
   * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/README.md)
   * [Grid Templates](documentation/gbp/grid-templates.md)
 * [Credit System](documentation/credit-system.md)

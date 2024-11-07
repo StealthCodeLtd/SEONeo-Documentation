@@ -115,6 +115,8 @@
   * [Technical Requirements?](additional-information/faqs/technical-requirements.md)
   * [Any required 3rd party services?](additional-information/faqs/any-required-3rd-party-services.md)
 * [Glossary](additional-information/glossary/README.md)
+  * [Link building](additional-information/glossary/link-building.md)
+  * [Local SEO](additional-information/glossary/local-seo.md)
   * [Cloud staking](additional-information/glossary/cloud-staking.md)
   * [Spintax format](additional-information/glossary/spintax-format.md)
   * [Backlink](additional-information/glossary/backlink.md)

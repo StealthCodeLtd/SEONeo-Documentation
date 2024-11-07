@@ -16,7 +16,9 @@ When you create a heatmap, a new window view will open. This view has two differ
 
 <figure><img src="../../.gitbook/assets/create-heatmap-2.png" alt=""><figcaption><p>Create heatmap - grid settings section</p></figcaption></figure>
 
-If you have created your grid templates, you can use "**Import grid template**" button to import your grid specification settings.
+### Grid Specifications
+
+If you have created grid templates, you can use "**Import grid template**" button to import your grid specification settings.
 
 <figure><img src="../../.gitbook/assets/import-grid-template-button.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -28,9 +30,10 @@ In our example will will load a previously-created grid template. When you click
 
 <figure><img src="../../.gitbook/assets/grid-settings.png" alt=""><figcaption><p>Import grid template window</p></figcaption></figure>
 
+All grid settings from the template will be loaded.
 
+<figure><img src="../../.gitbook/assets/grid-settings-loaded.png" alt=""><figcaption></figcaption></figure>
 
+### Keywords
 
-
-
-
+fgfghfgh

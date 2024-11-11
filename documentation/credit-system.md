@@ -1,6 +1,5 @@
 ---
 icon: coin-front
-hidden: true
 ---
 
 # Credit System
@@ -23,4 +22,4 @@ To refresh your credit balance click on the "**refresh**" button, located on rig
 
 ### How to buy Credits?
 
-You can click on credits balance area to top-up your credits.
+You can click on credits balance area to top-up your credits. This will navigate you to your account where you can buy different credit packages according to your needs.

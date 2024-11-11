@@ -1,6 +1,4 @@
 ---
-hidden: true
-noIndex: true
 cover: ../../.gitbook/assets/GBP-sniper header.png
 coverY: 0
 layout:

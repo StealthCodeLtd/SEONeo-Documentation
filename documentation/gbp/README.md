@@ -1,7 +1,5 @@
 ---
 icon: map-location
-hidden: true
-noIndex: true
 ---
 
 # GBP

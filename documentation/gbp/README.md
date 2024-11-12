@@ -12,7 +12,7 @@ icon: map-location
 
 GBP module has three different sections:
 
-* [**Projects**](projects.md)
+* [**Projects**](projects/)
 * [**GBP Keyword Buckets**](gbp-keyword-buckets/)
 * [**Grid Templat**](grid-templates.md)[**es**](grid-templates.md)
 

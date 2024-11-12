@@ -40,13 +40,13 @@ It is **recommended** to run a heatmap for each keyword at least one per week wh
 
 Understanding different metrics about your heatmap is crucial. Here is a short explanation of different terms regarding heatmaps:
 
-<table><thead><tr><th width="168">Term</th><th>Info</th></tr></thead><tbody><tr><td><strong>Visibility</strong></td><td></td></tr><tr><td><strong>3 PACK</strong></td><td>Percentage of pins within the map that this keyword ranks for the first three positions (in search results).</td></tr><tr><td><strong>4 - 10</strong></td><td>Percentage of pins within the map that this keyword ranks for positions 4 - 10 (in search results).</td></tr><tr><td><strong>11 - 20</strong></td><td>Percentage of pins within the map that this keyword ranks for positions 11 - 20 (in search results).</td></tr></tbody></table>
+<table><thead><tr><th width="168">Term</th><th>Info</th></tr></thead><tbody><tr><td><strong>Visibility</strong></td><td>This is a metric that shows the overall visibility of your BGP in whole heatmap. It is calculated from the average of all rankings from all points of the heatmap.</td></tr><tr><td><strong>3 PACK</strong></td><td>Percentage of pins within the map that this keyword ranks for the first three positions (in search results).</td></tr><tr><td><strong>4 - 10</strong></td><td>Percentage of pins within the map that this keyword ranks for positions 4 - 10 (in search results).</td></tr><tr><td><strong>11 - 20</strong></td><td>Percentage of pins within the map that this keyword ranks for positions 11 - 20 (in search results).</td></tr></tbody></table>
 
 ### Keyword Heatmap Analytics
 
 For further analytics for a selected keyword, click on "**Generate Analytics**" button. This will expand the view further showing you some rankings metrics for selected keyword.
 
-On the left side there is a placement pie chart. This pie chart shows number of placements for the keyword (in perecntage value). For example, in the image below the keyword has:
+On the left side there is a placement pie chart. This pie chart shows number of placements for the keyword (in percentage value). For example, in the image below the keyword has:
 
 * **21.5%** in positions 1 to 3
 * **78.5%** in positions 4 to 6

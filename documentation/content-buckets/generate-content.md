@@ -14,35 +14,11 @@ Each content type supports different content generators.  For **Articles** and *
 
 Below is the list of supported content generators according to content type:&#x20;
 
-**Articles**
+<table><thead><tr><th width="204">Content Type</th><th width="141" data-type="checkbox">Article Builder</th><th width="128" data-type="checkbox">Article Forge</th><th width="91" data-type="checkbox">Open AI</th><th data-type="checkbox">Scrapper</th></tr></thead><tbody><tr><td>Articles</td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Short Descriptions</td><td>true</td><td>true</td><td>true</td><td>false</td></tr><tr><td>Bios</td><td>false</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Rich Content</td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td>Comments</td><td>false</td><td>false</td><td>true</td><td>false</td></tr><tr><td>Blog Details</td><td>false</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
 
-* Article Builder
-* Ezine Articles
-* Article Forge
-* Open AI
+***
 
-**Short Descriptions**
-
-* Article Builder
-* Ezine Articles
-* Article Forge
-* Open AI
-
-**Bios**
-
-* Open AI
-
-**Rich Content**
-
-* Built-in content scrapper (image, video URLs)
-
-**Blog Details**
-
-* no content generator
-
-
-
-## Using Article Builder
+### Using Article Builder
 
 You can use the built-in free Article Builder to generate content based on user input. You can choose article **Category**, **Sub-Category**, **Word Count** and **Number of Article** you want to generate.
 
@@ -52,7 +28,9 @@ You can also choose to spin generated articles (create variations using [**spint
 
 <figure><img src="../../.gitbook/assets/article builder - spin.jpg" alt=""><figcaption></figcaption></figure>
 
-## Scrape Rich Content
+***
+
+### Scrape Rich Content
 
 SEO Neo comes also with rich content scrapper. The scrapper fetches URLs based on given keyword. SEO Neo can scrape **image** and **video** URLS.
 

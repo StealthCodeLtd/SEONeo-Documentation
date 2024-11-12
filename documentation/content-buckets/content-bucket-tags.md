@@ -24,6 +24,8 @@ In this example we have created three different tags with different colors for e
 
 <figure><img src="../../.gitbook/assets/create tags 3.jpg" alt=""><figcaption><p>Three different tags example</p></figcaption></figure>
 
+***
+
 ### Assigning Content Bucket Tags
 
 To assign a tag on your content buckets, use the **plus** "**+**" icon. Content buckets that dont have any tag assigned will be labeled as "**No Tags**".
@@ -50,6 +52,8 @@ In this example we have set some tags for content buckets for "**real estate**" 
 
 <figure><img src="../../.gitbook/assets/set tags 4.jpg" alt=""><figcaption></figcaption></figure>
 
+***
+
 ### Using Content Bucket Tags
 
 Now that we have assigned our tags on different content buckets, it is much easier to identify our buckets, but it is much easier to filter them.
@@ -71,4 +75,3 @@ In this example we have selected "**real estate**" and "**affiliate**s" tags and
 When you create your campaign, you can use tags to find or filter your selection for content buckets. This makes the whole content bucket selection much faster and easier.
 
 <figure><img src="../../.gitbook/assets/tags campaign.jpg" alt=""><figcaption></figcaption></figure>
-

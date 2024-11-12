@@ -20,7 +20,7 @@ You can add content manually.
 
 <figure><img src="../../.gitbook/assets/content bucket menu.jpg" alt=""><figcaption><p>Use import, Generate and Add to insert content into content bucket.</p></figcaption></figure>
 
-
+***
 
 ### Adding different content types
 
@@ -45,6 +45,8 @@ In the following example we will add a new article inside our content bucket.
 {% hint style="info" %}
 Different content types require different data entry. Refer to [**content types**](broken-reference) for more information.
 {% endhint %}
+
+***
 
 ### Article Editor
 
@@ -130,7 +132,7 @@ Bios don't have full article editor because the user is only required to add a s
 
 <figure><img src="../../.gitbook/assets/bio.JPG" alt=""><figcaption></figcaption></figure>
 
-
+***
 
 ### Adding Rich Content
 
@@ -150,7 +152,7 @@ Rich content is injected inside your article at a random position. If you want t
 It is highly recommended to include rich content on your content buckets. This increases SEO value of your posted articles, as search engines favor rich-content articles that include images, videos etc.
 {% endhint %}
 
-
+***
 
 ### Scraping Rich Content
 
@@ -174,7 +176,7 @@ To use the scraper:
 
 5\) Click "**Scrape Images/Videos**" and SEO Neo will fetch URLs for you, based on given keywords.
 
-
+***
 
 ### Adding Blog Details
 

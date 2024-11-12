@@ -32,6 +32,8 @@ Sibling groups, are **merged group** **which** **share the same parent**. In our
 
 When creating your campaign using diagrams with sibling groups, you can enable "**Hide Sibling Groups**" option to make campaign creation easier. This option - when enabled - **hides sibling groups** and let user **add details for one group** while SEO Neo will use the same data for the other group.
 
+<figure><img src="../../.gitbook/assets/sibling-groups.png" alt=""><figcaption></figcaption></figure>
+
 This is a much easier and faster approach of creating a campaign that includes sibling groups.
 
 For more information on using sibling groups [**read this section**](../features/sibling-groups.md).

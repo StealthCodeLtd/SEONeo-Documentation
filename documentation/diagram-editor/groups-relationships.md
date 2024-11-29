@@ -12,7 +12,7 @@ A group with multiple children is a very straightforward idea but a group with m
 
 ### Understanding multiple parents
 
-A group with multiple parents is like being multiple groups. This means that if you have a group_A_ connected on two parents, the result is like having two groups inside group\_A.
+A group with multiple parents is like being multiple groups. This means that if you have a grou&#x70;_&#x41;_ connected on two parents, the result is like having two groups inside group\_A.
 
 On the example below, on the left we see how diagram looks like and on the right side we see how diagram is really like under the hood.
 

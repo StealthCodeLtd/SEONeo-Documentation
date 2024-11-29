@@ -83,6 +83,7 @@
     * [Projects: Creating Heatmaps](documentation/gbp/projects/projects-creating-heatmaps.md)
     * [Projects: Basic Results](documentation/gbp/projects/projects-basic-results.md)
     * [Projects: Heatmap Results](documentation/gbp/projects/projects-heatmap-results.md)
+    * [Projects: Heatmap Controls](documentation/gbp/projects/projects-heatmap-controls.md)
   * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/README.md)
   * [Grid Templates](documentation/gbp/grid-templates.md)
 * [Credit System](documentation/credit-system.md)

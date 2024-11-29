@@ -50,7 +50,7 @@ SEO Neo generated **six (6)** account buckets. The reason being, is selected dia
 <figure><img src="../../.gitbook/assets/generated account presets 7.jpg" alt=""><figcaption><p>Diagram selected for current example campaign</p></figcaption></figure>
 
 Another thing to notice here, is that SEO Neo, generated a new folder to keep all new account buckets inside. Generated folder name format is:\
-**\<campaign name> \_ \<prefix>**
+&#xNAN;**\<campaign name> \_ \<prefix>**
 
 <figure><img src="../../.gitbook/assets/generate account buckets 10.jpg" alt=""><figcaption><p>SEO Neo generated new account buckets folder</p></figcaption></figure>
 

@@ -65,6 +65,24 @@ On the right side you can find a line chart that show the progress of the visibi
 
 <figure><img src="../../../.gitbook/assets/heatmap-analytics-2.png" alt=""><figcaption></figcaption></figure>
 
+***
+
+### Project Results Carousel
+
+Another view with your heatmap results is the **Carousel View** accessed through the project window. Using the "**Carousel**" hover button (while hovering over your project)&#x20;
+
+<figure><img src="../../../.gitbook/assets/project carousel.png" alt=""><figcaption></figcaption></figure>
+
+The **Carousel View** gives you heatmap details and information regarding the whole project. In a single view you can access all keywords and different heatmaps for each keyword.
+
+Carousel view window has three different sections. On the left side you can switch between different project's keywords.
+
+<figure><img src="../../../.gitbook/assets/project-carousel-1.png" alt=""><figcaption><p>Left section: navigate between keywords</p></figcaption></figure>
+
+Within each keyword you can navigate between all available heatmaps (generated across different dates).
+
+<figure><img src="../../../.gitbook/assets/project-carousel-2.png" alt=""><figcaption><p>Lower-right section: navigate between heatmaps</p></figcaption></figure>
+
 
 
 

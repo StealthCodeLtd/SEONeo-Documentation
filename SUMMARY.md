@@ -16,7 +16,7 @@
 * [Content Buckets](documentation/content-buckets/README.md)
   * [Creating a content bucket](documentation/content-buckets/creating-a-content-bucket.md)
   * [Adding content](documentation/content-buckets/adding-content.md)
-  * [Import \ Export content](documentation/content-buckets/import-export-content.md)
+  * [Import \ Export content](documentation/content-buckets/import-content.md)
   * [Generate content](documentation/content-buckets/generate-content.md)
   * [Content Bucket Tags](documentation/content-buckets/content-bucket-tags.md)
 * [Diagram Editor](documentation/diagram-editor/README.md)

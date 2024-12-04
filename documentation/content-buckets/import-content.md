@@ -6,7 +6,7 @@ For Articles and Bios you can import:
 
 * From file(s)
 * From a file directory
-* From [**other content bucket**](import-export-content.md#import-from-other-bucket).
+* From [**other content bucket**](import-content.md#import-from-other-bucket).
 
 <figure><img src="../../.gitbook/assets/content bucket - import 1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -42,5 +42,7 @@ Import content also works for rich content. You can import from files, folder or
 {% hint style="info" %}
 Rich content import (from file(s) or a folder) is used to import rich content from a previous SEO Neo export.&#x20;
 
-For example, when exporting your image URLs from a content bucket, SEO Neo will export individual text files (one for each URL) and not the image themselves (not image files). You can keep these files in a folder and use them to import your image URLs back on another SEO Neo content bucket.
+For example, when exporting your image URLs from a content bucket, SEO Neo will export individual text files (with href URLs) and not the image themselves (not image files).
+
+You can keep these files in a folder and use them to import your image URLs back on another SEO Neo content bucket.
 {% endhint %}

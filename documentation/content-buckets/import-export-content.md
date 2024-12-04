@@ -1,4 +1,4 @@
-# Import content
+# Import \ Export content
 
 If you already have content on files or in other content buckets, you can use "Import" to fetch content accordingly. There are different options for importing content depending on content type.
 
@@ -6,7 +6,7 @@ For Articles and Bios you can import:
 
 * From file(s)
 * From a file directory
-* From [**other content bucket**](import-content.md#import-from-other-bucket).
+* From [**other content bucket**](import-export-content.md#import-from-other-bucket).
 
 <figure><img src="../../.gitbook/assets/content bucket - import 1.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -37,8 +37,10 @@ Content buckets without content inside them, they will not be displayed when you
 
 ### Import\Export Rich Content
 
-Import content also works for rich content. You can import from files, folder or another bucket. Importing rich content from file(s) or a folder for rich content is used to import rich content from a previous SEO Neo export. When you export your rich content in SEO Neo, it will export .txt file extries for each individual rich content entry, so you use exported files to import them back again in SEO Neo.
+Import content also works for rich content. You can import from files, folder or another bucket. Importing rich content from file(s) or a folder for rich content is used to import rich content from a previous SEO Neo export. When you export your rich content in SEO Neo, it will export .txt file entries for each individual rich content entry, so you use exported files to import them back again in SEO Neo.
 
 {% hint style="info" %}
-Rich content import (from file(s) or a folder) is used to import rich content from a previous SEO Neo export.
+Rich content import (from file(s) or a folder) is used to import rich content from a previous SEO Neo export.&#x20;
+
+For example, when exporting your image URLs from a content bucket, SEO Neo will export individual text files (one for each URL) and not the image themselves (not image files). You can keep these files in a folder and use them to import your image URLs back on another SEO Neo content bucket.
 {% endhint %}

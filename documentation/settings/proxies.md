@@ -24,8 +24,8 @@ It is wise for the user to check his proxies before saving or using them on a ca
 
 Proxies usually come in two different formats:
 
-1. \[proxy\_ip] : \[proxy\_port]
-2. \[proxy\_ip] : \[proxy\_port] : \[username] : \[password]
+1. \[proxy\_ip]:\[proxy\_port]
+2. \[proxy\_ip]:\[proxy\_port]:\[username]:\[password]
 
 SEO Neo supports both types. Just keep in mind to use the correct format (using colon symbol) and enter one proxy per line.
 

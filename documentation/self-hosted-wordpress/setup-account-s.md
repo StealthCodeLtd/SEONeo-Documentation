@@ -79,13 +79,23 @@ You are now ready to use your own account password.
 
 You can export your SHW (Self-Hosted WordPress) account using action menu button, after selecting at least one account from the list. You can also multiple-select and export your accounts in bulk.
 
+<figure><img src="../../.gitbook/assets/shw-export-accounts.png" alt=""><figcaption></figcaption></figure>
 
+Import SHW accounts generates a file that can be used to import your accounts back to SEO Neo again. If you want to import multiple SHW accounts, you can use this text template below.&#x20;
 
+Open the template file and replace values (**username, password** and **endpoint** URL address).
 
+{% file src="../../.gitbook/assets/shw-template.wpacc" %}
+Self-Hosted WordPress accounts template file
+{% endfile %}
 
+The file format is simple and its to alter values with a regular text editor.
 
+<figure><img src="../../.gitbook/assets/shw-accounts-import.png" alt=""><figcaption><p>Self-Hosted WordPress accounts template file - example</p></figcaption></figure>
 
-
-
-
+{% hint style="info" %}
+Keep in mind to keep structure of the file the same, otherwise it will not work when you will try to import it back to SEO Neo. You can replace "**username**", "**password**" and "**endPoint URL address**".\
+\
+When adding multiple accounts, keep the format and don't forget to add the comma "," character between account entries. The comma separator character should be on the last entry (check example image above).
+{% endhint %}
 

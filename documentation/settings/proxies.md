@@ -42,7 +42,7 @@ When using "**Test Proxies**", SEO Neo will ask you if you want non-working prox
 Using good quality proxies is very important to achieve high success rates on your campaigns. Proxy speed **is recommended to be more than 3 Mbp\s** (especially when campaign runs heavy-content websites like Web 2.0).
 
 {% hint style="info" %}
-We **recommend** using **Static ISP Proxies** from [**Rayobyte**](https://rayobyte.com/products/isp-proxies)**.**
+We **recommend** using [**Residential ISP Proxies from Oxylabs.**](https://oxylabs.go2cloud.org/aff_c?offer_id=7\&aff_id=1400\&url_id=140)
 {% endhint %}
 
 Another thing to consider when choosing proxies, is to use proxies that are as close as possible to your region - either your computer or your server (wherever you are using SEO Neo).

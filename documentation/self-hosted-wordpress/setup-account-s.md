@@ -20,6 +20,8 @@ When you finish click on "**Create**" button to create your account. You can als
 
 <figure><img src="../../.gitbook/assets/frm 4.jpg" alt=""><figcaption><p>Use "test domain" function from hover buttons to check your credentials</p></figcaption></figure>
 
+***
+
 ## Which Password to use for your Self-hosted Wordpress Account ?
 
 When you add a new **Self Hosted Wordpress** you need to enter domain, username and **password**. Although domain and username is standard for your Wordpress, this is not the case for the password.
@@ -29,9 +31,7 @@ There are two different scenarios / passwords you can use:
 1. **Application Password** (generated within your Wordpress user account) - **recommended**
 2. Your **account** password (which requires a plug-in) - **not** **recommended**.
 
-
-
-## Using Application Password
+### Using Application Password
 
 To create an Application Password, from your Wordpress navigate: **Users > Profile.**
 
@@ -49,9 +49,11 @@ A new password has been generated. Copy that password and use it when you add a 
 
 <figure><img src="../../.gitbook/assets/app password 4.jpg" alt=""><figcaption></figcaption></figure>
 
-###
 
-## Your Account Password
+
+***
+
+### Your Account Password
 
 If you want, you can also use your default Wordpress account password, without the need to create a new application password, but this method is not recommended.
 
@@ -70,4 +72,20 @@ When you install the plug-in you need to activate it. Go to "**Installed Plugins
 <figure><img src="../../.gitbook/assets/plugin 2.jpg" alt=""><figcaption></figcaption></figure>
 
 You are now ready to use your own account password.
+
+***
+
+### Import/Export Self-Hosted WordPress Accounts
+
+You can export your SHW (Self-Hosted WordPress) account using action menu button, after selecting at least one account from the list. You can also multiple-select and export your accounts in bulk.
+
+
+
+
+
+
+
+
+
+
 

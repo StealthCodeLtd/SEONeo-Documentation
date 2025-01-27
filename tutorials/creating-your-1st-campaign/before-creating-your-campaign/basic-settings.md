@@ -13,8 +13,10 @@ To set your proxies navigate:
 Copy the list of your proxies from your service provider and paste them into Proxies text box. You can add multiple proxies (one per line).
 
 {% hint style="warning" %}
-You should use good quality proxies which have **at least 3 Mbps speed**. Proxies highly effect your campaign success rate. We **recommend** using **Static ISP Proxies** from [**Rayobyte**](https://rayobyte.com/products/isp-proxies)**.**
+You should use good quality proxies which have **at least 3 Mbps speed**. Proxies highly effect your campaign success rate. We recommend using ISP proxies from [Oxylabs](https://isp.oxylabs.io/).&#x20;
 {% endhint %}
+
+
 
 <figure><img src="../../../.gitbook/assets/settings - proxies.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +24,25 @@ You should use good quality proxies which have **at least 3 Mbps speed**. Proxie
 You can check your proxies before using them on your campaign to make sure they are set and working as desired. To test your proxies, click on "**Test**" button and wait until the software finishes testing process.
 {% endhint %}
 
-###
+{% hint style="info" %}
+**Proxies format**
+
+When you enter your proxies inside NEO you should use one of these formats:
+
+1. \[proxy\_ip]:\[proxy\_port]
+2. \[proxy\_ip]:\[proxy\_port]:\[username]:\[password]
+
+\
+If you had this proxy:\
+proxy\_ip: isp.oxylabs.io:8001\
+username: Example\_Username\
+password: Example\_Password
+
+Then you would enter your proxy like this: isp.oxylabs.io:8001:Example\_Username:Example\_Password\
+
+{% endhint %}
+
+***
 
 ### 2. Set Captcha API Key
 

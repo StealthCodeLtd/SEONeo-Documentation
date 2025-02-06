@@ -46,5 +46,5 @@ From the next screen you can find the credentials SEO Neo requires.
 | Key                | "access\_key\_id"     |
 | Secret key         | "secret\_access\_key" |
 
-<figure><img src="../../../.gitbook/assets/IBM 5.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/IBM 5 (1).jpg" alt=""><figcaption></figcaption></figure>
 

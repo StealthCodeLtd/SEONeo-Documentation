@@ -114,19 +114,20 @@ Scheduled heatmaps or scheduled projects (all included heatmaps) will be indicat
 
 <figure><img src="../../.gitbook/assets/scheduled heatmaps.png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
-
-
-
-
-
-
-
-
 ***
 
+### Schedule Editing
 
+You can edit an existing schedule for a heatmap by using the hover button. This will open the schedule window with your currently selected values that you can alter.
 
+<figure><img src="../../.gitbook/assets/scheduled heatmas individual.png" alt=""><figcaption></figcaption></figure>
 
+If you use schedule edit for an entire project, it will create a completely new schedule and it will not show current scheduling (due to the fact that a project can have different schedule settings foe each heatmap).
 
+<figure><img src="../../.gitbook/assets/schedule project edit.png" alt=""><figcaption></figcaption></figure>
+
+You can also select multiple heatmaps within a project and schedule them, using the action buttons.
+
+<figure><img src="../../.gitbook/assets/select multiple schedule.png" alt=""><figcaption></figcaption></figure>
+
+To view all you scheduled heatmaps, use [**Heatmap Scheduling View**](heatmap-scheduling-view.md).

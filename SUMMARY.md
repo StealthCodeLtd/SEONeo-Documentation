@@ -86,9 +86,7 @@
     * [Projects: Heatmap Controls](documentation/gbp/projects/projects-heatmap-controls.md)
   * [GBP Keyword Buckets](documentation/gbp/gbp-keyword-buckets/README.md)
   * [Grid Templates](documentation/gbp/grid-templates.md)
-  * [Heatmap Scheduling](documentation/gbp/heatmap-scheduling/README.md)
-    * [Setting Schedules](documentation/gbp/heatmap-scheduling/setting-schedules.md)
-    * [Schedule View](documentation/gbp/heatmap-scheduling/schedule-view.md)
+  * [Heatmap Scheduling](documentation/gbp/heatmap-scheduling.md)
 * [Credit System](documentation/credit-system.md)
 
 ## TUTORIALS

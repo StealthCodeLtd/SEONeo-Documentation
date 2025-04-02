@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Software Overview](README.md)
+* [Main View Overview](README.md)
 * [Dashboard](documentation/dashboard.md)
 * [Account Buckets](documentation/account-buckets/README.md)
   * [Creating Account Buckets](documentation/account-buckets/creating-account-buckets.md)

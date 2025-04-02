@@ -27,6 +27,16 @@ Proxies usually come in two different formats:
 1. \[proxy\_ip]:\[proxy\_port]
 2. \[proxy\_ip]:\[proxy\_port]:\[username]:\[password]
 
+{% hint style="warning" %}
+For **Oxylabs proxies** the format is as follows:\
+\
+**\[proxy\_host]:\[proxy\_port]**\
+\
+**OR**\
+\
+**\[proxy\_host]:\[proxy\_port]:\[username]:\[password]**
+{% endhint %}
+
 SEO Neo supports both types. Just keep in mind to use the correct format (using colon symbol) and enter one proxy per line.
 
 ### Testing Proxies
